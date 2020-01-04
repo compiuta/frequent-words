@@ -1,61 +1,90 @@
-(function(){
-
     'use strict';
 
-    const wordList = {
-        0: {
-            english: 'the',
-            spanish: 'el',
-            italian: 'il',
-            portuguese: 'o',
-            french: 'le'
-        },
-        1: {
-            english: 'of',
-            spanish: 'de',
-            italian: 'di',
-            portuguese: 'de',
-            french: 'de'
-        },
-        2: {
-            english: 'a',
-            spanish: 'un',
-            italian: 'un',
-            portuguese: 'um',
-            french: 'un'
-        },
-        3: {
-            english: 'be',
-            spanish: 'ser',
-            italian: 'essere',
-            portuguese: 'ser',
-            french: 'être'
-        },
-        4: {
-            english: 'and',
-            spanish: 'y',
-            italian: 'e',
-            portuguese: 'e',
-            french: 'et'
-        },
-        5: {
-            english: 'at',
-            spanish: 'a',
-            italian: 'a',
-            portuguese: 'a',
-            french: 'à'
-        },
-        6: {
-            english: '',
-            spanish: '',
-            italian: '',
-            portuguese: '',
-            french: ''
+    let frequentWordsModel = (function() {
+        const wordList = {
+            0: {
+                english: 'the',
+                spanish: 'el',
+                italian: 'il',
+                portuguese: 'o',
+                french: 'le'
+            },
+            1: {
+                english: 'of',
+                spanish: 'de',
+                italian: 'di',
+                portuguese: 'de',
+                french: 'de'
+            },
+            2: {
+                english: 'a',
+                spanish: 'un',
+                italian: 'un',
+                portuguese: 'um',
+                french: 'un'
+            },
+            3: {
+                english: 'be',
+                spanish: 'ser',
+                italian: 'essere',
+                portuguese: 'ser',
+                french: 'être'
+            },
+            4: {
+                english: 'and',
+                spanish: 'y',
+                italian: 'e',
+                portuguese: 'e',
+                french: 'et'
+            },
+            5: {
+                english: 'at',
+                spanish: 'a',
+                italian: 'a',
+                portuguese: 'a',
+                french: 'à'
+            },
+            6: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            }
         }
-    }
+
+        return {
+            wordList: wordList,
+        }
+
+    })();
+
+    let frequentWordsView = (function() {
+        const appContainer = document.querySelector('[data-container="app"]');
+
+        return {
+            appContainer: appContainer,
+        }
+
+    })();
+
+    let languageChoicesView = (function() {
+        const languageChoices = document.querySelectorAll('[data-language]');
+
+        return {
+            languageChoices: languageChoices,
+        }
+
+    })();
+
+    let frequentWordsController = (function() {
+
+    })();
+
     
-    const appContainer = document.querySelector('[data-container="app"]');
-    const languageChoices = document.querySelectorAll('[data-language]');
+    
+    
+    
     const languageFlagSelected = document.querySelector('[data-container="flag"]');
     const languageNameSelected = document.querySelector('[data-container="country"]');
     const languageSelectorButton = document.querySelector('[data-container="language"]');
@@ -64,9 +93,11 @@
     let languageCode = 'en';
     
     function populateWordList() {
-        appContainer.innerHTML = '';
+        let wordContainerFragment = document.createDocumentFragment();
+        
+        frequentWordsView.appContainer.innerHTML = '';
     
-        for(let key in wordList) {
+        for(let key in frequentWordsModel.wordList) {
             const wordContainer = document.createElement('a');
             const wordNumber = document.createElement('span');
             const word = document.createElement('span');
@@ -87,13 +118,15 @@
     
             wordNumber.innerText = index;
             wordContainer.setAttribute('target', '_blank');
-            wordContainer.href = 'https://forvo.com/word/' + wordList[key][chosenLanguage] + '/#' + languageCode;
-            word.innerText = wordList[key][chosenLanguage];
+            wordContainer.href = 'https://forvo.com/word/' + frequentWordsModel.wordList[key][chosenLanguage] + '/#' + languageCode;
+            word.innerText = frequentWordsModel.wordList[key][chosenLanguage];
         
             wordContainer.appendChild(wordNumber);
             wordContainer.appendChild(word);
-            appContainer.appendChild(wordContainer);
+            wordContainerFragment.appendChild(wordContainer);
         }
+
+        frequentWordsView.appContainer.appendChild(wordContainerFragment);
     }
     
     function setLanguage() {
@@ -103,7 +136,7 @@
         chosenLanguage = dataLanguage;
         languageCode = this.dataset.languageCode;
     
-        languageChoices.forEach(function(element) {
+        languageChoicesView.languageChoices.forEach(function(element) {
             if(element.dataset.language !== dataLanguage) {
                 element.classList.remove('hide');
             } else {
@@ -124,7 +157,7 @@
     }
     
     function populateTable() {
-        appContainer.innerHTML = '';
+        frequentWordsView.appContainer.innerHTML = '';
     
         const languageArray = ['English', 'Español', 'Italiano', 'Português', 'Français']
         const tableWrap = document.createElement('div');
@@ -144,7 +177,7 @@
     
         wordTable.appendChild(tableHeaderRow);
     
-        for(let key in wordList) {
+        for(let key in frequentWordsModel.wordList) {
             const wordRow = document.createElement('tr');
             wordRow.classList.add('word-row');
     
@@ -152,7 +185,7 @@
                 wordRow.classList.add('even-row');
             }
     
-            for(let item in wordList[key]) {
+            for(let item in frequentWordsModel.wordList[key]) {
                 let wordCell = document.createElement('td');
                 let wordCellLink = document.createElement('a');
                 let cellLanguageCode = '';
@@ -170,11 +203,11 @@
                 }  
     
                 wordCellLink.setAttribute('target', '_blank');
-                wordCellLink.href = 'https://forvo.com/word/' + wordList[key][item] + '/#' + cellLanguageCode;
+                wordCellLink.href = 'https://forvo.com/word/' + frequentWordsModel.wordList[key][item] + '/#' + cellLanguageCode;
                 wordCellLink.classList.add('word-cell-link');
                 wordCell.classList.add('word-cell');
                 wordCell.classList.add(item + '-cell');
-                wordCellLink.innerText = wordList[key][item];
+                wordCellLink.innerText = frequentWordsModel.wordList[key][item];
                 wordCell.appendChild(wordCellLink);
                 wordRow.appendChild(wordCell);
             }
@@ -182,14 +215,14 @@
         }
     
         tableWrap.appendChild(wordTable);
-        appContainer.appendChild(tableWrap);
+        frequentWordsView.appContainer.appendChild(tableWrap);
     }
     
     function showlanguageMenu() {
         languageMenu.classList.toggle('hide');
     }
     
-    languageChoices.forEach(function(element) {
+    languageChoicesView.languageChoices.forEach(function(element) {
         element.addEventListener('click', setLanguage);
         
         if(element.dataset.language === 'all') {
@@ -201,5 +234,3 @@
     languageSelectorButton.addEventListener('mouseout', showlanguageMenu);
     
     populateWordList();
-
-})();
