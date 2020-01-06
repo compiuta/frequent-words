@@ -45,6 +45,97 @@
                 french: 'à'
             },
             6: {
+                english: 'he',
+                spanish: 'él',
+                italian: 'lui',
+                portuguese: 'ele',
+                french: 'il'
+            },
+            7: {
+                english: 'have',
+                spanish: 'haber',
+                italian: 'avere',
+                portuguese: 'haver',
+                french: 'avoir'
+            },
+            8: {
+                english: 'not',
+                spanish: 'no',
+                italian: 'non',
+                portuguese: 'não',
+                french: 'ne'
+            },
+            9: {
+                english: 'I',
+                spanish: 'yo',
+                italian: 'io',
+                portuguese: 'eu',
+                french: 'je'
+            },
+            10: {
+                english: 'your',
+                spanish: 'su',
+                italian: 'suo',
+                portuguese: 'seu',
+                french: 'son'
+            },
+            11: {
+                english: 'than',
+                spanish: 'que',
+                italian: 'che',
+                portuguese: 'que',
+                french: 'que'
+            },
+            12: {
+                english: 'is',
+                spanish: 'se',
+                italian: 'si',
+                portuguese: 'se',
+                french: 'se'
+            },
+            13: {
+                english: 'who',
+                spanish: 'quién',
+                italian: 'chi',
+                portuguese: 'quem',
+                french: 'qui'
+            },
+            14: {
+                english: 'this',
+                spanish: 'esto',
+                italian: 'questo',
+                portuguese: 'isto',
+                french: 'ce'
+            },
+            15: {
+                english: 'in',
+                spanish: 'en',
+                italian: 'in',
+                portuguese: 'no',
+                french: 'dans'
+            },
+            16: {
+                english: 'in',
+                spanish: 'en',
+                italian: 'in',
+                portuguese: 'em',
+                french: 'en'
+            },
+            17: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            18: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            19: {
                 english: '',
                 spanish: '',
                 italian: '',
