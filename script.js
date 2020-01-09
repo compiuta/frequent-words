@@ -18,6 +18,11 @@
 
     (function(window) {
 
+        let languageSetting = {
+            chosenLanguage: 'english',
+            languageCode: 'en'
+        };
+
         const wordList = {
             0: {
                 english: 'the',
@@ -139,30 +144,46 @@
                 french: 'en'
             },
             17: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'of the',
+                spanish: 'del',
+                italian: 'dal',
+                portuguese: 'do',
+                french: 'du'
             },
             18: {
+                english: 'her',
+                spanish: 'ella',
+                italian: 'lei',
+                portuguese: 'ela',
+                french: 'elle'
+            },
+            19: {
+                english: 'to the',
+                spanish: 'al',
+                italian: 'alla',
+                portuguese: 'ao',
+                french: 'au'
+            },
+            20: {
                 english: '',
                 spanish: '',
                 italian: '',
                 portuguese: '',
                 french: ''
             },
-            19: {
+            21: {
                 english: '',
                 spanish: '',
                 italian: '',
                 portuguese: '',
                 french: ''
             }
+
         };
 
         window.app = window.app || {};
         window.app.wordList = wordList;
+        window.app.languageSetting = languageSetting;
 
     })(window);
 
@@ -180,8 +201,7 @@
     const languageNameSelected = document.querySelector('[data-container="country"]');
     const languageSelectorButton = document.querySelector('[data-container="language"]');
     const languageMenu = document.querySelector('[data-container="language-menu"]');
-    let chosenLanguage = 'english';
-    let languageCode = 'en';
+    
     
     function populateWordList() {
         let wordContainerFragment = document.createDocumentFragment();
@@ -209,8 +229,8 @@
     
             wordNumber.innerText = index;
             wordContainer.setAttribute('target', '_blank');
-            wordContainer.href = 'https://forvo.com/word/' + app.wordList[key][chosenLanguage] + '/#' + languageCode;
-            word.innerText = app.wordList[key][chosenLanguage];
+            wordContainer.href = 'https://forvo.com/word/' + app.wordList[key][app.languageSetting.chosenLanguage] + '/#' + app.languageSetting.languageCode;
+            word.innerText = app.wordList[key][app.languageSetting.chosenLanguage];
         
             wordContainer.appendChild(wordNumber);
             wordContainer.appendChild(word);
@@ -221,11 +241,11 @@
     }
     
     function setLanguage() {
-        const currentLanguage = chosenLanguage;
+        const currentLanguage = app.languageSetting.chosenLanguage;
         let dataLanguage = this.dataset.language;
         let languageName = this.innerText;
-        chosenLanguage = dataLanguage;
-        languageCode = this.dataset.languageCode;
+        app.languageSetting.chosenLanguage = dataLanguage;
+        app.languageSetting.languageCode = this.dataset.languageCode;
     
         app.languageChoices.forEach(function(element) {
             if(element.dataset.language !== dataLanguage) {
@@ -236,9 +256,9 @@
         });
         
         languageFlagSelected.classList.remove(currentLanguage);
-        languageFlagSelected.classList.add(chosenLanguage);
+        languageFlagSelected.classList.add(app.languageSetting.chosenLanguage);
         
-        if(chosenLanguage === 'all') {
+        if(app.languageSetting.chosenLanguage === 'all') {
             languageNameSelected.innerText = '';
         } else {
             languageNameSelected.innerText = languageName;
