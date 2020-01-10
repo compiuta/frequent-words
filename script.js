@@ -165,13 +165,27 @@
                 french: 'au'
             },
             20: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'for',
+                spanish: 'para',
+                italian: 'per',
+                portuguese: 'para',
+                french: 'pour'
             },
             21: {
+                english: 'not',
+                spanish: 'no',
+                italian: 'non',
+                portuguese: 'não',
+                french: 'pas'
+            },
+            22: {
+                english: 'you',
+                spanish: 'usted',
+                italian: 'voi',
+                portuguese: 'você',
+                french: 'vous'
+            },
+            23: {
                 english: '',
                 spanish: '',
                 italian: '',
