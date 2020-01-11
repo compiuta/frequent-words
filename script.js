@@ -186,13 +186,405 @@
                 french: 'vous'
             },
             23: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'by',
+                spanish: 'por',
+                italian: 'da',
+                portuguese: 'por',
+                french: 'par'
+            },
+            24: {
+                english: 'on',
+                spanish: 'en',
+                italian: 'sul',
+                portuguese: 'na',
+                french: 'sur'
+            },
+            25: {
+                english: 'do',
+                spanish: 'hacer',
+                italian: 'fare',
+                portuguese: 'fazer',
+                french: 'faire'
+            },
+            26: {
+                english: 'more',
+                spanish: 'mas',
+                italian: 'piu',
+                portuguese: 'mais',
+                french: 'plus'
+            },
+            27: {
+                english: 'say',
+                spanish: 'decir',
+                italian: 'dire',
+                portuguese: 'dizer',
+                french: 'dire'
+            },
+            28: {
+                english: 'me',
+                spanish: 'me',
+                italian: 'mi',
+                portuguese: 'me',
+                french: 'me'
+            },
+            29: {
+                english: 'we',
+                spanish: 'nosotros',
+                italian: 'noi',
+                portuguese: 'nós',
+                french: 'on'
+            },
+            30: {
+                english: 'my',
+                spanish: 'mi',
+                italian: 'mio',
+                portuguese: 'meu',
+                french: 'mon'
+            },
+            31: {
+                english: 'to him/her/them',
+                spanish: 'le',
+                italian: 'gli',
+                portuguese: 'lhe',
+                french: 'lui'
+            },
+            32: {
+                english: 'us',
+                spanish: 'nosotros',
+                italian: 'noi',
+                portuguese: 'nos',
+                french: 'nous'
+            },
+            33: {
+                english: 'like',
+                spanish: 'como',
+                italian: 'come',
+                portuguese: 'como',
+                french: 'comme'
+            },
+            34: {
+                english: 'but',
+                spanish: 'pero',
+                italian: 'ma',
+                portuguese: 'mas',
+                french: 'mais'
+            },
+            35: {
+                english: 'power',
+                spanish: 'poder',
+                italian: 'potere',
+                portuguese: 'poder',
+                french: 'pouvoir'
+            },
+            36: {
+                english: 'with',
+                spanish: 'con',
+                italian: 'con',
+                portuguese: 'com',
+                french: 'avec'
+            },
+            37: {
+                english: 'all',
+                spanish: 'todo',
+                italian: 'tutto',
+                portuguese: 'tudo',
+                french: 'tout'
+            },
+            38: {
+                english: 'it/there',
+                spanish: 'es/allí/ahí',
+                italian: 'ci',
+                portuguese: 'lá/aí',
+                french: 'y'
+            },
+            39: {
+                english: 'go',
+                spanish: 'ir',
+                italian: 'andare',
+                portuguese: 'ir',
+                french: 'aller'
+            },
+            40: {
+                english: 'see',
+                spanish: 'ver',
+                italian: 'vedere',
+                portuguese: 'ver',
+                french: 'voir'
+            },
+            41: {
+                english: 'good',
+                spanish: 'bien',
+                italian: 'bene',
+                portuguese: 'bem',
+                french: 'bien'
+            },
+            42: {
+                english: 'where',
+                spanish: ' dónde',
+                italian: 'dove',
+                portuguese: 'onde',
+                french: 'où'
+            },
+            43: {
+                english: 'without',
+                spanish: 'sin',
+                italian: 'senza',
+                portuguese: 'sem',
+                french: 'sans'
+            },
+            44: {
+                english: 'you',
+                spanish: 'tú',
+                italian: 'tu',
+                portuguese: 'tu',
+                french: 'tu'
+            },
+            45: {
+                english: 'or',
+                spanish: 'o',
+                italian: 'o',
+                portuguese: 'ou',
+                french: 'ou'
+            },
+            46: {
+                english: 'them',
+                spanish: 'les',
+                italian: 'loro',
+                portuguese: 'eles',
+                french: 'leur'
+            },
+            47: {
+                english: 'man',
+                spanish: 'hombre',
+                italian: 'uomo',
+                portuguese: 'homem',
+                french: 'homme'
+            },
+            48: {
+                english: 'if',
+                spanish: 'si',
+                italian: 'se',
+                portuguese: 'se',
+                french: 'si'
+            },
+            49: {
+                english: 'two',
+                spanish: 'dos',
+                italian: 'due',
+                portuguese: 'dois',
+                french: 'deux'
+            },
+            50: {
+                english: 'husband',
+                spanish: 'marido',
+                italian: 'marito',
+                portuguese: 'marido',
+                french: 'mari'
+            },
+            51: {
+                english: 'me',
+                spanish: 'yo',
+                italian: 'io',
+                portuguese: 'eu',
+                french: 'moi'
+            },
+            52: {
+                english: 'want',
+                spanish: 'querer',
+                italian: 'volere',
+                portuguese: 'querer',
+                french: 'vouloir'
+            },
+            53: {
+                english: 'to you',
+                spanish: 'te',
+                italian: 'ti',
+                portuguese: 'te',
+                french: 'te'
+            },
+            54: {
+                english: 'woman',
+                spanish: 'mujer',
+                italian: 'donna',
+                portuguese: 'mulher',
+                french: 'femme'
+            },
+            55: {
+                english: 'come',
+                spanish: 'venir',
+                italian: 'venire',
+                portuguese: 'vir',
+                french: 'venir'
+            },
+            56: {
+                english: 'when',
+                spanish: 'cuando',
+                italian: 'quando',
+                portuguese: 'quando',
+                french: 'quand'
+            },
+            57: {
+                english: 'large',
+                spanish: 'grande',
+                italian: 'grande',
+                portuguese: 'grande',
+                french: 'grand'
+            },
+            58: {
+                english: 'that one',
+                spanish: 'aquel',
+                italian: 'quel',
+                portuguese: 'Naquele',
+                french: 'celui'
+            },
+            59: {
+                english: 'our',
+                spanish: 'nuestro',
+                italian: 'nostro',
+                portuguese: 'nosso',
+                french: 'notre'
+            },
+            60: {
+                english: 'must',
+                spanish: 'deber',
+                italian: 'dovere',
+                portuguese: 'dever',
+                french: 'devoir'
             }
-
+            ,
+            61: {
+                english: 'there',
+                spanish: 'alli',
+                italian: 'li',
+                portuguese: 'lá',
+                french: 'là'
+            },
+            62: {
+                english: 'day',
+                spanish: 'dia',
+                italian: 'giorno',
+                portuguese: 'dia',
+                french: 'jour'
+            },
+            63: {
+                english: 'take',
+                spanish: 'tomar',
+                italian: 'prendere',
+                portuguese: 'pegar',
+                french: 'prendre'
+            },
+            64: {
+                english: 'same',
+                spanish: 'mismo',
+                italian: 'stesso',
+                portuguese: 'mesmo',
+                french: 'même'
+            },
+            65: {
+                english: 'your',
+                spanish: 'su',
+                italian: 'vostro',
+                portuguese: 'seu',
+                french: 'votre'
+            },
+            66: {
+                english: 'nothing',
+                spanish: 'nada',
+                italian: 'niente',
+                portuguese: 'nada',
+                french: 'rien'
+            },
+            67: {
+                english: 'small',
+                spanish: 'pequeño',
+                italian: 'piccolo',
+                portuguese: 'pequeno',
+                french: 'petit'
+            },
+            68: {
+                english: 'still',
+                spanish: 'aun',
+                italian: 'ancora',
+                portuguese: 'ainda',
+                french: 'encore'
+            },
+            69: {
+                english: 'also',
+                spanish: 'también',
+                italian: 'anche',
+                portuguese: 'também',
+                french: 'aussi'
+            },
+            70: {
+                english: 'some',
+                spanish: 'algún',
+                italian: 'qualche',
+                portuguese: 'algum',
+                french: 'quelque'
+            },
+            72: {
+                english: 'whose',
+                spanish: 'cuyo',
+                italian: 'cui',
+                portuguese: 'cujo',
+                french: 'dont'
+            },
+            73: {
+                english: 'sea',
+                spanish: 'mar',
+                italian: 'mare',
+                portuguese: 'mar',
+                french: 'mer'
+            },
+            74: {
+                english: 'find',
+                spanish: 'encontrar',
+                italian: 'trovare',
+                portuguese: 'encontrar',
+                french: 'trouver'
+            },
+            75: {
+                english: 'give',
+                spanish: 'dar',
+                italian: 'dare',
+                portuguese: 'dar',
+                french: 'donner'
+            },
+            76: {
+                english: 'time',
+                spanish: 'tiempo',
+                italian: 'tempo',
+                portuguese: 'tempo',
+                french: 'temps'
+            },
+            77: {
+                english: 'that',
+                spanish: 'eso',
+                italian: 'quello',
+                portuguese: 'isso',
+                french: 'ça'
+            },
+            78: {
+                english: 'not much',
+                spanish: 'poco',
+                italian: 'poco',
+                portuguese: 'pouco',
+                french: 'peu'
+            },
+            79: {
+                english: 'need',
+                spanish: 'necesitar',
+                italian: 'bisogno',
+                portuguese: 'precisar',
+                french: 'falloir'
+            },
+            80: {
+                english: 'under',
+                spanish: 'bajo',
+                italian: 'sotto',
+                portuguese: 'baixo',
+                french: 'sous'
+            }
         };
 
         window.app = window.app || {};
