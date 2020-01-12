@@ -49,12 +49,11 @@
 .translated-words-container {
     display: flex;
     justify-content: center;
-    padding: 0 0 0 12px;
 }
 
 .translated-word-container {
     font-size: 24px;
-    margin-right: 20px;
+    padding: 0 10px;
     text-decoration: none;
     color: #efeae1;
     display: flex;
@@ -75,17 +74,27 @@
 
 .language-container {
     position: fixed;
-    padding: 10px 10px 10px 6px;
-    border-radius: 5px;
     cursor: pointer;
     bottom: 30px;
     right: 60px;
     z-index: 2;
+    padding-top: 16px;
 }
 
-.language-container:hover {
-    border-radius: 0 0 5px 5px;
+.language-container:hover .selected-language {
+    border-radius: 6px;
     background-color: #efeae1;
+}
+
+.language-container:hover .language-select:after {
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #efeae1;
+    position: absolute;
+    bottom: -10px;
+    left: 58px;
+    content: "";
+    pointer-events: none;
 }
 
 .page-description {
@@ -99,34 +108,36 @@
     align-items: center;
     padding: 6px 20px;
     color: #343233;
+    min-width: 138px;
+    border-radius: 6px;
 }
 
 .language:hover {
-    background-color: #333;
-    color: #efeae1;
+    background-color: #fffbf3;
 }
 
 .language-select {
     position: absolute;
     display: flex;
     flex-direction: column;
-    top: -170px;
-    right: 0;
+    top: -168px;
+    right: -30px;
     background-color: #efeae1;
-    border-radius: 6px 6px 0 6px;
-    overflow: hidden;
+    border-radius: 6px;
 }
 
 .selected-language {
     display: flex;
     align-items: center;
+    padding: 10px 10px 10px 6px;
+    border-radius: 5px;
 }
 
 .main-language-header {
     margin: 0;
     position: fixed;
     right: 50px;
-    bottom: 76px;
+    bottom: 82px;
     background-color: #343233;
 }
 
@@ -195,7 +206,7 @@
 }
 
 .word-cell {
-    padding: 5px 10px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -208,17 +219,35 @@
     text-decoration: underline;
 }
 
-@media (max-width:1024px) {
+@media only screen and (max-width: 992px) {
     .word-container {
-        padding: 8px 0 0 8%;
-        font-size: 80px;
+        width: 100%;
+        overflow: auto;
+        padding: 45px 20px;
+    }
+
+    .word {
+        font-size: 50px;
+    }
+
+    .translated-word-container {
+        font-size: 14px;
     }
 
     .main-language-header {
-        right: 10px;
+        display: none;
     }
 
     .language-container {
-        right: 24px;
+        right: 20px;
+    }
+
+    .language-select {
+        right: -10px;
+    }
+
+    .language-container:hover .language-select:after {
+        bottom: -8px;
+        left: 80px;
     }
 }
