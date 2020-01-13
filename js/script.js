@@ -18,12 +18,12 @@
 
     (function(window) {
 
-        let languageSetting = {
-            chosenLanguage: 'english',
-            languageCode: 'en'
-        };
-
-        const wordList = {
+        let frequentWordsModel = {
+            languageSetting: {
+                chosenLanguage: 'english',
+                languageCode: 'en'
+            },
+            wordList: {
             0: {
                 english: 'the',
                 spanish: 'el',
@@ -977,209 +977,228 @@
                 portuguese: '',
                 french: ''
             }
-        };
+        }
+    }
 
         window.app = window.app || {};
-        window.app.wordList = wordList;
-        window.app.languageSetting = languageSetting;
+        window.app.frequentWordsModel = frequentWordsModel;
 
     })(window);
 
     (function(window) {
-        const appContainer = document.querySelector('[data-container="app"]');
-        const languageChoices = document.querySelectorAll('[data-language]');
+        let frequentWordsView = {
+            init: function(setLanguage, populateTable){
+                frequentWordsView.languageFlagSelected = document.querySelector('[data-container="flag"]');
+                frequentWordsView.languageNameSelected = document.querySelector('[data-container="country"]');
+                frequentWordsView.languageSelectorButton = document.querySelector('[data-container="language"]');
+                frequentWordsView.languageMenu = document.querySelector('[data-container="language-menu"]');
+                frequentWordsView.appContainer = document.querySelector('[data-container="app"]');
+                frequentWordsView.languageChoices = document.querySelectorAll('[data-language]');
 
+                app.frequentWordsView.addEventListeners(setLanguage, populateTable);
+            },
+            showlanguageMenu: function() {
+                app.frequentWordsView.languageMenu.classList.toggle('hide');
+            },       
+            addEventListeners: function(setLanguage, populateTable) {
+                app.frequentWordsView.languageChoices.forEach(function(element) {
+                    element.addEventListener('click', setLanguage);
+                    
+                    if(element.dataset.language === 'all') {
+                        element.addEventListener('click', populateTable);
+                    }
+                });
+                
+                app.frequentWordsView.languageSelectorButton.addEventListener('mouseover', app.frequentWordsView.showlanguageMenu);
+                app.frequentWordsView.languageSelectorButton.addEventListener('mouseout', app.frequentWordsView.showlanguageMenu);
+            }
+        }
+        
         window.app = window.app || {};
-        window.app.appContainer = appContainer;
-        window.app.languageChoices = languageChoices;
+        window.app.frequentWordsView = frequentWordsView;
 
     })(window);
 
-    const languageFlagSelected = document.querySelector('[data-container="flag"]');
-    const languageNameSelected = document.querySelector('[data-container="country"]');
-    const languageSelectorButton = document.querySelector('[data-container="language"]');
-    const languageMenu = document.querySelector('[data-container="language-menu"]');
-    
-    
-    function populateWordList() {
-        const mainContent = document.createElement('div');
-        let wordContainerFragment = document.createDocumentFragment();
-
-        mainContent.classList.add('main-content');
-
-        app.appContainer.innerHTML = '';
-    
-        for(let key in app.wordList) {
-            const wordContainer = document.createElement('a');
-            const wordNumber = document.createElement('div');
-            const word = document.createElement('div');
-            const translatedWordsContainer = document.createElement('div');
+    (function(window) {
+        let frequentWordsController = {
+            init: function(){
+                app.frequentWordsView.init(app.frequentWordsController.setLanguage, app.frequentWordsController.populateTable);
+                app.frequentWordsController.render();
+            },
+            populateTable: function() {
+                app.frequentWordsView.appContainer.innerHTML = '';
+                const languageArray = ['English', 'Español', 'Italiano', 'Português', 'Français']
+                const tableWrap = document.createElement('div');
+                const wordTable = document.createElement('table');
+                const tableHeaderRow = document.createElement('tr');
             
-            let index = key;
-        
-            wordContainer.classList.add('word-container');
-            wordNumber.classList.add('word-number');
-            word.classList.add('word');
-            translatedWordsContainer.classList.add('translated-words-container');
-    
-            // format the number infront of the word
-            if(index.length === 1) {
-                index = '000' + key;
-            } else if(index.length === 2) {
-                index = '00' + key;
-            } else if(index.length === 3) {
-                index = '0' + key;
-            }
-    
-            wordNumber.innerText = index;
-            wordContainer.setAttribute('target', '_blank');
-            wordContainer.href = 'https://forvo.com/word/' + app.wordList[key][app.languageSetting.chosenLanguage] + '/#' + app.languageSetting.languageCode;
-            word.innerText = app.wordList[key][app.languageSetting.chosenLanguage];
-
-            for(let item in app.wordList[key]) {
-                const translatedWordContainer = document.createElement('a');
-                const langCodeContainer = document.createElement('span');
-                const translatedWord = document.createElement('span');
-                let langCode;
-
-                if(item === 'spanish') {
-                    langCode = 'es';
-                } else if(item === 'italian') {
-                    langCode = 'it';
-                } else if(item === 'portuguese') {
-                    langCode = 'pt';
-                }  else if(item === 'french') {
-                    langCode = 'fr';
-                }  else {
-                    langCode = 'en';
-                } 
-                
-                if(langCode !== app.languageSetting.languageCode) {
-                    translatedWordContainer.href = 'https://forvo.com/word/' + app.wordList[key][item] + '/#' + langCode;
-                    translatedWordContainer.setAttribute('target', '_blank');
-                    translatedWord.innerText = app.wordList[key][item];
-                    langCodeContainer.innerText = langCode;
-                    translatedWord.classList.add('translated-word');
-                    langCodeContainer.classList.add('translated-word-lang');
-                    translatedWordContainer.classList.add('translated-word-container');
-                    translatedWordContainer.appendChild(langCodeContainer);
-                    translatedWordContainer.appendChild(translatedWord);
-                    translatedWordsContainer.appendChild(translatedWordContainer);
+                tableWrap.classList.add('responsive-table');
+                wordTable.classList.add('word-table');
+                tableHeaderRow.classList.add('table-header-row');
+            
+                for(let i = 0; i < languageArray.length; i++) {
+                    let tableHeader = document.createElement('th');
+                    tableHeader.classList.add('table-header');
+                    tableHeader.innerText = languageArray[i];
+                    tableHeaderRow.appendChild(tableHeader);
                 }
+            
+                wordTable.appendChild(tableHeaderRow);
+                
+            
+                for(let key in app.frequentWordsModel.wordList) {
+                    const wordRow = document.createElement('tr');
+                    wordRow.classList.add('word-row');
+            
+                    if(key % 2 === 0) {
+                        wordRow.classList.add('even-row');
+                    }
+            
+                    for(let item in app.frequentWordsModel.wordList[key]) {
+                        let wordCell = document.createElement('td');
+                        let wordCellLink = document.createElement('a');
+                        let cellLanguageCode = '';
+            
+                        if(item === 'spanish') {
+                            cellLanguageCode = 'es';
+                        } else if(item === 'italian') {
+                            cellLanguageCode = 'it';
+                        } else if(item === 'portuguese') {
+                            cellLanguageCode = 'pt';
+                        }  else if(item === 'french') {
+                            cellLanguageCode = 'fr';
+                        }  else {
+                            cellLanguageCode = 'en';
+                        }  
+            
+                        wordCellLink.setAttribute('target', '_blank');
+                        wordCellLink.href = 'https://forvo.com/word/' + app.frequentWordsModel.wordList[key][item] + '/#' + cellLanguageCode;
+                        wordCellLink.classList.add('word-cell-link');
+                        wordCell.classList.add('word-cell');
+                        wordCell.classList.add(item + '-cell');
+                        wordCellLink.innerText = app.frequentWordsModel.wordList[key][item];
+                        wordCell.appendChild(wordCellLink);
+                        wordRow.appendChild(wordCell);
+                    }
+                    wordTable.appendChild(wordRow);
+                }
+            
+                tableWrap.appendChild(wordTable);
+                app.frequentWordsView.appContainer.appendChild(tableWrap);
+            },
+            render: function() {
+                const mainContent = document.createElement('div');
+                let wordContainerFragment = document.createDocumentFragment();
+        
+                mainContent.classList.add('main-content');
+        
+                app.frequentWordsView.appContainer.innerHTML = '';
+            
+                for(let key in app.frequentWordsModel.wordList) {
+
+                    const wordContainer = document.createElement('a');
+                    const wordNumber = document.createElement('div');
+                    const word = document.createElement('div');
+                    const translatedWordsContainer = document.createElement('div');
+                    translatedWordsContainer.classList.add('translated-words-container');
+                    
+                    let index = key;
+            
+                        // format the number infront of the word
+                        if(index.length === 1) {
+                            index = '000' + key;
+                        } else if(index.length === 2) {
+                            index = '00' + key;
+                        } else if(index.length === 3) {
+                            index = '0' + key;
+                        }
+                
+                    wordContainer.classList.add('word-container');
+                    wordContainer.setAttribute('target', '_blank');
+                    wordNumber.classList.add('word-number');
+                    word.classList.add('word');
+                    
+                    wordNumber.innerText = index;
+                    wordContainer.href = 'https://forvo.com/word/' + app.frequentWordsModel.wordList[key][app.frequentWordsModel.languageSetting.chosenLanguage] + '/#' + app.frequentWordsModel.languageSetting.languageCode;
+                    word.innerText = app.frequentWordsModel.wordList[key][app.frequentWordsModel.languageSetting.chosenLanguage];
+    
+                    
+                for(let item in app.frequentWordsModel.wordList[key]) {
+                    let langCode;
+    
+                    if(item === 'spanish') {
+                        langCode = 'es';
+                    } else if(item === 'italian') {
+                        langCode = 'it';
+                    } else if(item === 'portuguese') {
+                        langCode = 'pt';
+                    }  else if(item === 'french') {
+                        langCode = 'fr';
+                    }  else {
+                        langCode = 'en';
+                    };
+                    
+                    if(langCode !== app.frequentWordsModel.languageSetting.languageCode) {
+                        //addTranslatedItemProperties here
+                        const translatedWordContainer = document.createElement('a');
+                        const langCodeContainer = document.createElement('span');
+                        const translatedWord = document.createElement('span');
+
+                        translatedWordContainer.href = 'https://forvo.com/word/' + app.frequentWordsModel.wordList[key][item] + '/#' + langCode;
+                        translatedWordContainer.setAttribute('target', '_blank');
+                        translatedWord.innerText = app.frequentWordsModel.wordList[key][item];
+                        langCodeContainer.innerText = langCode;
+                        translatedWord.classList.add('translated-word');
+                        langCodeContainer.classList.add('translated-word-lang');
+                        translatedWordContainer.classList.add('translated-word-container');
+                        translatedWordContainer.appendChild(langCodeContainer);
+                        translatedWordContainer.appendChild(translatedWord);
+                        translatedWordsContainer.appendChild(translatedWordContainer);
+                    };
+                }
+        
+
+                    wordContainer.appendChild(wordNumber);
+                    wordContainer.appendChild(word);
+                    wordContainer.appendChild(translatedWordsContainer);
+                    wordContainerFragment.appendChild(wordContainer);
+                }
+                
+                
+                mainContent.appendChild(wordContainerFragment);
+                app.frequentWordsView.appContainer.appendChild(mainContent);
+            },
+            setLanguage: function() {
+                const currentLanguage = app.frequentWordsModel.languageSetting.chosenLanguage;
+                let dataLanguage = this.dataset.language;
+                let languageName = this.innerText;
+                app.frequentWordsModel.languageSetting.chosenLanguage = dataLanguage;
+                app.frequentWordsModel.languageSetting.languageCode = this.dataset.languageCode;
+            
+                app.frequentWordsView.languageChoices.forEach(function(element) {
+                    if(element.dataset.language !== dataLanguage) {
+                        element.classList.remove('hide');
+                    } else {
+                        element.classList.add('hide');
+                    }
+                });
+                
+                app.frequentWordsView.languageFlagSelected.classList.remove(currentLanguage);
+                app.frequentWordsView.languageFlagSelected.classList.add(app.frequentWordsModel.languageSetting.chosenLanguage);
+                
+                if(app.frequentWordsModel.languageSetting.chosenLanguage === 'all') {
+                    app.frequentWordsView.languageNameSelected.innerText = '';
+                } else {
+                    app.frequentWordsView.languageNameSelected.innerText = languageName;
+                }
+            
+                app.frequentWordsController.render();
             }
-        
-            wordContainer.appendChild(wordNumber);
-            wordContainer.appendChild(word);
-            wordContainer.appendChild(translatedWordsContainer);
-            wordContainerFragment.appendChild(wordContainer);
         }
         
-        mainContent.appendChild(wordContainerFragment);
-        app.appContainer.appendChild(mainContent);
-    }
-    
-    function setLanguage() {
-        const currentLanguage = app.languageSetting.chosenLanguage;
-        let dataLanguage = this.dataset.language;
-        let languageName = this.innerText;
-        app.languageSetting.chosenLanguage = dataLanguage;
-        app.languageSetting.languageCode = this.dataset.languageCode;
-    
-        app.languageChoices.forEach(function(element) {
-            if(element.dataset.language !== dataLanguage) {
-                element.classList.remove('hide');
-            } else {
-                element.classList.add('hide');
-            }
-        });
-        
-        languageFlagSelected.classList.remove(currentLanguage);
-        languageFlagSelected.classList.add(app.languageSetting.chosenLanguage);
-        
-        if(app.languageSetting.chosenLanguage === 'all') {
-            languageNameSelected.innerText = '';
-        } else {
-            languageNameSelected.innerText = languageName;
-        }
-    
-        populateWordList();
-    }
-    
-    function populateTable() {
-        app.appContainer.innerHTML = '';
-    
-        const languageArray = ['English', 'Español', 'Italiano', 'Português', 'Français']
-        const tableWrap = document.createElement('div');
-        const wordTable = document.createElement('table');
-        const tableHeaderRow = document.createElement('tr');
-    
-        tableWrap.classList.add('responsive-table');
-        wordTable.classList.add('word-table');
-        tableHeaderRow.classList.add('table-header-row');
-    
-        for(let i = 0; i < languageArray.length; i++) {
-            let tableHeader = document.createElement('th');
-            tableHeader.classList.add('table-header');
-            tableHeader.innerText = languageArray[i];
-            tableHeaderRow.appendChild(tableHeader);
-        }
-    
-        wordTable.appendChild(tableHeaderRow);
-    
-        for(let key in app.wordList) {
-            const wordRow = document.createElement('tr');
-            wordRow.classList.add('word-row');
-    
-            if(key % 2 === 0) {
-                wordRow.classList.add('even-row');
-            }
-    
-            for(let item in app.wordList[key]) {
-                let wordCell = document.createElement('td');
-                let wordCellLink = document.createElement('a');
-                let cellLanguageCode = '';
-    
-                if(item === 'spanish') {
-                    cellLanguageCode = 'es';
-                } else if(item === 'italian') {
-                    cellLanguageCode = 'it';
-                } else if(item === 'portuguese') {
-                    cellLanguageCode = 'pt';
-                }  else if(item === 'french') {
-                    cellLanguageCode = 'fr';
-                }  else {
-                    cellLanguageCode = 'en';
-                }  
-    
-                wordCellLink.setAttribute('target', '_blank');
-                wordCellLink.href = 'https://forvo.com/word/' + app.wordList[key][item] + '/#' + cellLanguageCode;
-                wordCellLink.classList.add('word-cell-link');
-                wordCell.classList.add('word-cell');
-                wordCell.classList.add(item + '-cell');
-                wordCellLink.innerText = app.wordList[key][item];
-                wordCell.appendChild(wordCellLink);
-                wordRow.appendChild(wordCell);
-            }
-            wordTable.appendChild(wordRow);
-        }
-    
-        tableWrap.appendChild(wordTable);
-        app.appContainer.appendChild(tableWrap);
-    }
-    
-    function showlanguageMenu() {
-        languageMenu.classList.toggle('hide');
-    }
-    
-    app.languageChoices.forEach(function(element) {
-        element.addEventListener('click', setLanguage);
-        
-        if(element.dataset.language === 'all') {
-            element.addEventListener('click', populateTable);
-        }
-    });
-    
-    languageSelectorButton.addEventListener('mouseover', showlanguageMenu);
-    languageSelectorButton.addEventListener('mouseout', showlanguageMenu);
-    
-    populateWordList();
+        window.app = window.app || {};
+        window.app.frequentWordsController = frequentWordsController;
+
+        app.frequentWordsController.init();
+
+    })(window);
