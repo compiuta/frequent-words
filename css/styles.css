@@ -251,3 +251,15 @@
         left: 80px;
     }
 }
+
+@media print { 
+    .responsive-table {
+        height: auto;
+    }
+
+    .language-container,
+    .main-language-header {
+        display: none;
+    }
+
+}
