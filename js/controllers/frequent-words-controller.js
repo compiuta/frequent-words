@@ -6,6 +6,14 @@
             app.frequentWordsView.init(app.frequentWordsController.setLanguage, app.frequentWordsController.populateTable);
             app.frequentWordsView.render(app.frequentWordsModel.wordList, app.frequentWordsModel.languageSetting.chosenLanguage, app.frequentWordsModel.languageSetting.languageCode);
         },
+        createToggleLanguageButton: function(){
+    
+        },
+        toggleTableLanguage: function() {
+            let languageToRemove = this.innerText;
+
+            return languageToremove;
+        },   
         populateTable: function() {
             app.frequentWordsView.appContainer.innerHTML = '';
             const tableWrap = document.createElement('div');
@@ -18,8 +26,14 @@
         
             for(let i = 0; i < app.frequentWordsModel.languageChoicesArray.length; i++) {
                 let tableHeader = document.createElement('th');
+                let tableHeaderInnerContainer = document.createElement('div');
+                let tableHeaderButton = document.createElement('span');
                 tableHeader.classList.add('table-header');
-                tableHeader.innerText = app.frequentWordsModel.languageChoicesArray[i];
+                tableHeaderInnerContainer.classList.add('table-header-inner');
+                tableHeaderButton.classList.add('table-header-toggle');
+                tableHeaderInnerContainer.innerText = app.frequentWordsModel.languageChoicesArray[i];
+                tableHeaderInnerContainer.appendChild(tableHeaderButton);
+                tableHeader.appendChild(tableHeaderInnerContainer);
                 tableHeaderRow.appendChild(tableHeader);
             }
         
