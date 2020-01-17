@@ -1381,25 +1381,333 @@
                 french: 'appeler'
             },
             196: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'evening',
+                spanish: 'tardes',
+                italian: 'sera',
+                portuguese: 'tardes',
+                french: 'soir'
             },
             197: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'room',
+                spanish: 'cuarto',
+                italian: 'stanza',
+                portuguese: 'quarto',
+                french: 'chambre'
             },
             198: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'die',
+                spanish: 'morir',
+                italian: 'morire',
+                portuguese: 'morrer',
+                french: 'mourir'
+            },
+            199: {
+                english: 'not',
+                spanish: 'no',
+                italian: 'non',
+                portuguese: 'nem',
+                french: 'pas'
+            },
+            200: {
+                english: 'leave',
+                spanish: 'partir',
+                italian: 'partire',
+                portuguese: 'partir',
+                french: 'partir'
+            },
+            201: {
+                english: 'five',
+                spanish: 'cinco',
+                italian: 'cinque',
+                portuguese: 'cinco',
+                french: 'cinq'
+            },
+            202: {
+                english: 'spirit',
+                spanish: 'espirito',
+                italian: 'spirito',
+                portuguese: 'espirito',
+                french: 'esprit'
+            },
+           203: {
+                english: 'sun',
+                spanish: 'sol',
+                italian: 'sole',
+                portuguese: 'sol',
+                french: 'soleil'
+            },
+            204: {
+                english: 'last',
+                spanish: 'último',
+                italian: 'ultimo',
+                portuguese: 'último',
+                french: 'dernier'
+            },
+            205: {
+                english: 'throw',
+                spanish: 'tirar',
+                italian: 'gettare',
+                portuguese: 'atirar',
+                french: 'jeter'
+            },
+            206: {
+                english: 'ten',
+                spanish: 'diez',
+                italian: 'dieci',
+                portuguese: 'dez',
+                french: 'dix'
+            },
+            207: {
+                english: 'king',
+                spanish: 'rey',
+                italian: 're',
+                portuguese: 'rei',
+                french: 'roi'
+            },
+            208: {
+                english: 'state',
+                spanish: 'estado',
+                italian: 'stato',
+                portuguese: 'estado',
+                french: 'état'
+            },
+            209: {
+                english: 'body',
+                spanish: 'cuerpo',
+                italian: 'corpo',
+                portuguese: 'corpo',
+                french: 'corps'
+            },
+            210: {
+                english: 'much',
+                spanish: 'mucho',
+                italian: 'molto',
+                portuguese: 'muito',
+                french: 'beaucoup'
+            },
+            211: {
+                english: 'follow',
+                spanish: 'seguir',
+                italian: 'seguire',
+                portuguese: 'seguir',
+                french: 'suivre'
+            },
+            212: {
+                english: 'arm',
+                spanish: 'brazo',
+                italian: 'braccio',
+                portuguese: 'braço',
+                french: 'bras'
+            },
+            213: {
+                english: 'write',
+                spanish: 'escribir',
+                italian: 'scrivere',
+                portuguese: 'escrever',
+                french: 'écrire'
+            },
+            214: {
+                english: 'white',
+                spanish: 'blanco',
+                italian: 'bianco',
+                portuguese: 'branco',
+                french: 'blanc'
+            },
+            215: {
+                english: 'show',
+                spanish: 'mostrar',
+                italian: 'mostrare',
+                portuguese: 'mostrar',
+                french: 'montrer'
+            },
+            216: {
+                english: 'fall',
+                spanish: 'caer',
+                italian: 'cadere',
+                portuguese: 'cair',
+                french: 'tomber'
+            },
+            217: {
+                english: 'place',
+                spanish: 'lugar',
+                italian: 'posto',
+                portuguese: 'lugar',
+                french: 'place'
+            },
+            218: {
+                english: 'open',
+                spanish: 'abrir',
+                italian: 'aprire',
+                portuguese: 'abrir',
+                french: 'ouvrir'
+            },
+            219: {
+                english: 'party',
+                spanish: 'partido',
+                italian: 'partito',
+                portuguese: 'partido',
+                french: 'parti'
+            },
+            220: {
+                english: 'enough',
+                spanish: 'suficiente',
+                italian: 'abbastanza',
+                portuguese: 'suficiente',
+                french: 'assez'
+            },
+            221: {
+                english: 'their',
+                spanish: 'les',
+                italian: 'loro',
+                portuguese: 'seus',
+                french: 'leur'
+            },
+            222: {
+                english: 'expensive',
+                spanish: 'caro',
+                italian: 'caro',
+                portuguese: 'caro',
+                french: 'cher'
+            },
+            223: {
+                english: 'here is',
+                spanish: 'aqui esta',
+                italian: 'ecco',
+                portuguese: 'eis',
+                french: 'voilà'
+            },
+            224: {
+                english: 'year',
+                spanish: 'año',
+                italian: 'anno',
+                portuguese: 'ano',
+                french: 'année'
+            },
+            225: {
+                english: 'far',
+                spanish: 'lejos',
+                italian: 'lontano',
+                portuguese: 'longe',
+                french: 'loin'
+            },
+            226: {
+                english: 'point',
+                spanish: 'punto',
+                italian: 'punto',
+                portuguese: 'ponto',
+                french: 'point'
+            },
+            227: {
+                english: 'face',
+                spanish: 'cara',
+                italian: 'faccia',
+                portuguese: 'cara',
+                french: 'visage'
+            },
+            228: {
+                english: 'noise',
+                spanish: 'ruido',
+                italian: 'rumore',
+                portuguese: 'barulho',
+                french: 'bruit'
+            },
+            229: {
+                english: 'letter',
+                spanish: 'letra',
+                italian: 'lettera',
+                portuguese: 'letra',
+                french: 'lettre'
+            },
+            230: {
+                english: 'background',
+                spanish: 'fondo',
+                italian: 'fondo',
+                portuguese: 'fundo',
+                french: 'fond'
+            },
+            231: {
+                english: 'force',
+                spanish: 'fuerza',
+                italian: 'forza',
+                portuguese: 'força',
+                french: 'force'
+            },
+            232: {
+                english: 'stop',
+                spanish: 'detener',
+                italian: 'fermare',
+                portuguese: 'deter',
+                french: 'arrêter'
+            },
+            233: {
+                english: 'lose',
+                spanish: 'perder',
+                italian: 'perdere',
+                portuguese: 'perder',
+                french: 'perdre'
+            },
+            234: {
+                english: 'start',
+                spanish: 'comenzar',
+                italian: 'cominciare',
+                portuguese: 'começar',
+                french: 'commencer'
+            },
+            235: {
+                english: 'seem',
+                spanish: 'parecer',
+                italian: 'sembrare',
+                portuguese: 'parecer',
+                french: 'paraître'
+            },
+            236: {
+                english: 'any',
+                spanish: 'ningún',
+                italian: 'Nessuno',
+                portuguese: 'nehum',
+                french: 'aucun'
+            },
+            237: {
+                english: 'walk',
+                spanish: 'caminar',
+                italian: 'camminare',
+                portuguese: 'caminhar',
+                french: 'marcher'
+            },
+            238: {
+                english: 'middle',
+                spanish: 'medio',
+                italian: 'mezzo',
+                portuguese: 'meio',
+                french: 'milieu'
+            },
+            239: {
+                english: 'saint',
+                spanish: 'santo',
+                italian: 'santo',
+                portuguese: 'santo',
+                french: 'saint'
+            },
+            240: {
+                english: 'idea',
+                spanish: 'idea',
+                italian: 'idea',
+                portuguese: 'ideia',
+                french: 'idée'
+            },
+            241: {
+                english: 'almost',
+                spanish: 'casi',
+                italian: 'quasi',
+                portuguese: 'quase',
+                french: 'presque'
+            },
+            242: {
+                english: 'elsewhere',
+                spanish: 'otro lugar',
+                italian: 'altrove',
+                portuguese: 'outro lugar',
+                french: 'ailleurs'
             }
         }
     }
