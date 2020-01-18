@@ -1708,6 +1708,62 @@
                 italian: 'altrove',
                 portuguese: 'outro lugar',
                 french: 'ailleurs'
+            },
+            243: {
+                english: 'work',
+                spanish: 'trabajo',
+                italian: 'lavoro',
+                portuguese: 'trabalho',
+                french: 'travail'
+            },
+            244: {
+                english: 'light',
+                spanish: 'luz',
+                italian: 'luce',
+                portuguese: 'luz',
+                french: 'lumière'
+            },
+            245: {
+                english: 'long',
+                spanish: 'largo',
+                italian: 'lungo',
+                portuguese: 'longo',
+                french: 'long'
+            },
+            246: {
+                english: 'only',
+                spanish: 'solamente',
+                italian: 'soltanto',
+                portuguese: 'somente',
+                french: 'seulement'
+            },
+            247: {
+                english: 'month',
+                spanish: 'mes',
+                italian: 'mese',
+                portuguese: 'mês',
+                french: 'mois'
+            },
+            248: {
+                english: 'son',
+                spanish: 'hijo',
+                italian: 'figlio',
+                portuguese: 'filho',
+                french: 'fils'
+            },
+            249: {
+                english: 'nine',
+                spanish: 'nueve',
+                italian: 'nove',
+                portuguese: 'nove',
+                french: 'neuf'
+            },
+            250: {
+                english: 'such',
+                spanish: 'tal',
+                italian: 'tale',
+                portuguese: 'tal',
+                french: 'tel'
             }
         }
     }
