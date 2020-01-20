@@ -2110,48 +2110,202 @@
                 french: 'bout'
             },
             304: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'silence',
+                spanish: 'silencio',
+                italian: 'silenzio',
+                portuguese: 'silêncio',
+                french: 'silence'
             },
             305: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'big',
+                spanish: 'gordo',
+                italian: 'grosso',
+                portuguese: 'gordo',
+                french: 'gros'
             },
             306: {
-                english: '',
-                spanish: '',
-                italian: '',
-                portuguese: '',
-                french: ''
+                english: 'chief',
+                spanish: 'jefe',
+                italian: 'capo',
+                portuguese: 'chefe',
+                french: 'chef'
             },
             307: {
+                english: 'six',
+                spanish: 'seis',
+                italian: 'sei',
+                portuguese: 'seis',
+                french: 'six'
+            },
+            308: {
+                english: 'woods',
+                spanish: 'bosque',
+                italian: 'bosco',
+                portuguese: 'bosque',
+                french: 'bois'
+            },
+            309: {
+                english: 'history',
+                spanish: 'historia',
+                italian: 'storia',
+                portuguese: 'história',
+                french: 'histoire'
+            },
+            310: {
+                english: 'scream',
+                spanish: 'gritar',
+                italian: 'gridare',
+                portuguese: 'gritar',
+                french: 'crier'
+            },
+            311: {
+                english: 'play',
+                spanish: 'jugar',
+                italian: 'giocare',
+                portuguese: 'jogar',
+                french: 'jouer'
+            },
+            312: {
+                english: 'fire',
+                spanish: 'fuego',
+                italian: 'fuoco',
+                portuguese: 'fogo',
+                french: 'feu'
+            },
+            313: {
+                english: 'turn',
+                spanish: 'girar',
+                italian: 'girare',
+                portuguese: 'girar',
+                french: 'tourner'
+            },
+            314: {
+                english: 'sweet',
+                spanish: 'dulce',
+                italian: 'dolce',
+                portuguese: 'doce',
+                french: 'doux'
+            },
+            315: {
+                english: 'strong',
+                spanish: 'fuerte',
+                italian: 'forte',
+                portuguese: 'forte',
+                french: 'fort'
+            },
+            316: {
+                english: 'happy',
+                spanish: 'feliz',
+                italian: 'felice',
+                portuguese: 'feliz',
+                french: 'heureux'
+            },
+            317: {
+                english: 'guard',
+                spanish: 'guardar',
+                italian: 'mantenere',
+                portuguese: 'guardar',
+                french: 'garder'
+            },
+            318: {
+                english: 'movement',
+                spanish: 'movimiento',
+                italian: 'movimento',
+                portuguese: 'movimento',
+                french: 'mouvement'
+            },
+            319: {
+                english: 'end',
+                spanish: 'fin',
+                italian: 'fine',
+                portuguese: 'fim',
+                french: 'fin'
+            },
+            320: {
+                english: 'recognize',
+                spanish: 'reconocer',
+                italian: 'reconoscere',
+                portuguese: 'reconhecer',
+                french: 'reconnaître'
+            },
+            321: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: 'quitter'
+            },
+            322: {
                 english: '',
                 spanish: '',
                 italian: '',
                 portuguese: '',
                 french: ''
             },
-            302: {
+            323: {
                 english: '',
                 spanish: '',
                 italian: '',
                 portuguese: '',
                 french: ''
             },
-            300: {
+            320: {
                 english: '',
                 spanish: '',
                 italian: '',
                 portuguese: '',
                 french: ''
             },
-            302: {
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
+            320: {
                 english: '',
                 spanish: '',
                 italian: '',
