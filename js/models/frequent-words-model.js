@@ -1199,6 +1199,13 @@
                 portuguese: 'enquanto',
                 french: 'pendant'
             },
+            169: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
             170: {
                 english: 'already',
                 spanish: 'ya',
@@ -1368,10 +1375,10 @@
                 french: 'rue'
             },
             194: {
-                eenglish: 'finally',
+                english: 'finally',
                 spanish: 'finalmente',
                 italian: 'infine',
-                portuguese: 'finalente',
+                portuguese: 'finalmente',
                 french: 'enfin'
             },
             195: {
@@ -1899,6 +1906,13 @@
                 portuguese: 'pedra',
                 french: 'pierre'
             },
+            270: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
             271: {
                 english: 'mount',
                 spanish: 'montar',
@@ -1969,6 +1983,13 @@
                 portuguese: 'necessidade',
                 french: 'besoin'
             },
+            281: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
             282: {
                 english: 'question',
                 spanish: 'pregunta',
@@ -2032,6 +2053,13 @@
                 portuguese: 'perto',
                 french: 'près'
             },
+            291: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
+            },
             292: {
                 english: 'finish',
                 spanish: 'acabar',
@@ -2094,6 +2122,13 @@
                 italian: 'diritto',
                 portuguese: 'direito',
                 french: 'droit'
+            },
+            301: {
+                english: '',
+                spanish: '',
+                italian: '',
+                portuguese: '',
+                french: ''
             },
             302: {
                 english: 'fear',
