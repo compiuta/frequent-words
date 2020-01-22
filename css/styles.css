@@ -224,6 +224,10 @@
     background-color:#e34c26;
 }
 
+.table-header-toggle.show-cells:hover {
+    background-color: #27ae60;
+}
+
 .table-header-toggle:after,
 .table-header-toggle:before {
     content: "";
