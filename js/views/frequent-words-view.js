@@ -14,7 +14,7 @@
         },
         showlanguageMenu: function() {
             app.frequentWordsView.languageMenu.classList.toggle('hide');
-        },  
+        },
         addEventListeners: function(setLanguage, populateTable) {
             app.frequentWordsView.languageChoices.forEach(function(element) {
                 element.addEventListener('click', setLanguage);
@@ -60,7 +60,7 @@
                 word.classList.add('word');
                 
                 wordNumber.innerText = index;
-                wordContainer.href = 'https://forvo.com/word/' + wordData[key][chosenLanguage] + '/#' + wordDataLangCode;
+                wordContainer.href = 'https://forvo.com/word/' + wordData[key][chosenLanguage].split('/')[0] + '/#' + wordDataLangCode;
                 word.innerText = wordData[key][chosenLanguage];
                 
                 for(let item in wordData[key]) {
@@ -79,20 +79,39 @@
                     };
                 
                     if(langCode !== wordDataLangCode) {
-                        const translatedWordContainer = document.createElement('a');
+                        const wordSplitArray = wordData[key][item].split('/');
                         const langCodeContainer = document.createElement('span');
-                        const translatedWord = document.createElement('span');
+                        const translatedWordwrapper = document.createElement('div');
+                        translatedWordwrapper.classList.add('translated-word-wrap');
 
-                        translatedWordContainer.href = 'https://forvo.com/word/' + wordData[key][item] + '/#' + langCode;
-                        translatedWordContainer.setAttribute('target', '_blank');
-                        translatedWord.innerText = wordData[key][item];
-                        langCodeContainer.innerText = langCode;
-                        translatedWord.classList.add('translated-word');
-                        langCodeContainer.classList.add('translated-word-lang');
-                        translatedWordContainer.classList.add('translated-word-container');
-                        translatedWordContainer.appendChild(langCodeContainer);
-                        translatedWordContainer.appendChild(translatedWord);
-                        translatedWordsContainer.appendChild(translatedWordContainer);
+                        for(let i = 0; i < wordSplitArray.length; i++) {
+                            const translatedWordContainer = document.createElement('a');
+                            const translatedWord = document.createElement('span');
+
+                            translatedWordContainer.classList.add('translated-word-container');
+                            translatedWord.classList.add('translated-word');
+                            translatedWordContainer.href = 'https://forvo.com/word/' + wordSplitArray[i] + '/#' + langCode;
+                            translatedWordContainer.setAttribute('target', '_blank');
+                            if(i > 0) {
+                                translatedWord.innerText = '/' + wordSplitArray[i];
+                                console.log(translatedWord);
+                            } else {
+                                translatedWord.innerText = wordSplitArray[i];
+                            }
+                            
+                            translatedWordContainer.appendChild(translatedWord);
+
+                            if(i === 0) {
+                                langCodeContainer.innerText = langCode;
+                                langCodeContainer.classList.add('translated-word-lang');
+                                translatedWordwrapper.appendChild(langCodeContainer);
+                            }
+
+                            translatedWordwrapper.appendChild(translatedWordContainer);
+
+                        }
+
+                        translatedWordsContainer.appendChild(translatedWordwrapper);
                     };
                 }
     
