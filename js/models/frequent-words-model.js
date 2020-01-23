@@ -868,7 +868,7 @@
                 spanish: 'primero',
                 italian: 'primo',
                 portuguese: 'primeiro',
-                french: 'premier'
+                french: "premier/d'abord"
             },
             122: {
                 english: 'why',
@@ -2423,6 +2423,48 @@
                 italian: 'maniera',
                 portuguese: 'maneira',
                 french: 'façon/manière'
+            },
+            345: {
+                english: 'eye',
+                spanish: 'ojo',
+                italian: 'occhio',
+                portuguese: 'olho',
+                french: 'oeil'
+            },
+            346: {
+                english: 'shoot',
+                spanish: 'disparar',
+                italian: 'stirare',
+                portuguese: 'disparar',
+                french: 'tirer'
+            },
+            347: {
+                english: 'form',
+                spanish: 'forma',
+                italian: 'forma',
+                portuguese: 'forma',
+                french: 'forme'
+            },
+            348: {
+                english: 'present',
+                spanish: 'apresentar',
+                italian: 'presentare',
+                portuguese: 'presentar',
+                french: 'présenter'
+            },
+            349: {
+                english: 'add',
+                spanish: 'añadir',
+                italian: 'aggiungere',
+                portuguese: 'acrescentar',
+                french: 'ajouter'
+            },
+            350: {
+                english: 'act',
+                spanish: 'actuar',
+                italian: 'agire',
+                portuguese: 'agir',
+                french: 'agir'
             }
         }
     }
