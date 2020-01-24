@@ -2039,7 +2039,7 @@
                 portuguese: 'acabar',
                 french: 'finir'
             },
-            2989: {
+            289: {
                 english: 'family',
                 spanish: 'familia',
                 italian: 'famiglia',
@@ -2465,6 +2465,76 @@
                 italian: 'agire',
                 portuguese: 'agir',
                 french: 'agir'
+            },
+            351: {
+                english: 'path',
+                spanish: 'camino',
+                italian: 'cammino',
+                portuguese: 'caminho',
+                french: 'chemin'
+            },
+            352: {
+                english: 'hair',
+                spanish: 'cabello',
+                italian: 'capello',
+                portuguese: 'cabelo',
+                french: 'cheveu'
+            },
+            353: {
+                english: 'offer',
+                spanish: 'ofrecer',
+                italian: 'offrire',
+                portuguese: 'oferecer',
+                french: 'offrir'
+            },
+            354: {
+                english: 'above all',
+                spanish: 'sobre todo',
+                italian: 'sopratutto',
+                portuguese: 'sobretudo',
+                french: 'surtout'
+            },
+            355: {
+                english: 'certain',
+                spanish: 'cierto',
+                italian: 'certo',
+                portuguese: 'certo',
+                french: 'certain'
+            },
+            356: {
+                english: 'pleasure',
+                spanish: 'placer',
+                italian: 'piacere',
+                portuguese: 'prazer',
+                french: 'plaisir'
+            },
+            357: {
+                english: 'following',
+                spanish: 'seguido',
+                italian: 'seguito',
+                portuguese: 'seguido',
+                french: 'suite'
+            },
+            358: {
+                english: 'learn',
+                spanish: 'aprender',
+                italian: 'imparare',
+                portuguese: 'aprender',
+                french: 'apprendre'
+            },
+            359: {
+                english: 'despite',
+                spanish: 'a pesar',
+                italian: 'sebbene',
+                portuguese: 'apesar',
+                french: 'malgré'
+            },
+            360: {
+                english: 'kill',
+                spanish: 'matar',
+                italian: 'uccidere',
+                portuguese: 'matar',
+                french: 'tuer'
             }
         }
     }
