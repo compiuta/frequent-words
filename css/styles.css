@@ -43,7 +43,8 @@
 
 .word {
     text-align: center;
-    font-size: 90px;
+    font-size: 80px;
+    overflow: auto;
 }
 
 .translated-words-container {
@@ -55,15 +56,16 @@
     padding: 0 10px;
 }
 
+
 .translated-word-container {
-    font-size: 24px;
+    font-size: 18px;
     text-decoration: none;
     color: #efeae1;
     display: inline-block;
 }
 
 .translated-word-lang {
-    font-size: 8px;
+    font-size: 10px;
     display: block;
 }
 
