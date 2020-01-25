@@ -2535,6 +2535,76 @@
                 italian: 'uccidere',
                 portuguese: 'matar',
                 french: 'tuer'
+            },
+            360: {
+                english: 'kill',
+                spanish: 'matar',
+                italian: 'uccidere',
+                portuguese: 'matar',
+                french: 'tuer'
+            },
+            360: {
+                english: 'kill',
+                spanish: 'matar',
+                italian: 'uccidere',
+                portuguese: 'matar',
+                french: 'tuer'
+            },
+            360: {
+                english: 'kill',
+                spanish: 'matar',
+                italian: 'uccidere',
+                portuguese: 'matar',
+                french: 'tuer'
+            },
+            360: {
+                english: 'kill',
+                spanish: 'matar',
+                italian: 'uccidere',
+                portuguese: 'matar',
+                french: 'tuer'
+            },
+            360: {
+                english: 'kill',
+                spanish: 'matar',
+                italian: 'uccidere',
+                portuguese: 'matar',
+                french: 'tuer'
+            },
+            361: {
+                english: 'red',
+                spanish: 'rojo',
+                italian: 'rosso',
+                portuguese: 'vermelho',
+                french: 'rouge'
+            },
+            362: {
+                english: 'blood',
+                spanish: 'sangre',
+                italian: 'sangue',
+                portuguese: 'sangue',
+                french: 'sang'
+            },
+            363: {
+                english: 'meet',
+                spanish: 'encontrar',
+                italian: 'incontrare',
+                portuguese: 'encontrar',
+                french: 'rencontrer'
+            },
+            364: {
+                english: 'feeling',
+                spanish: 'sentimiento',
+                italian: 'sentimento',
+                portuguese: 'sentimento',
+                french: 'sentiment'
+            },
+            365: {
+                english: 'flower',
+                spanish: 'flor',
+                italian: 'fiore',
+                portuguese: 'flor',
+                french: 'fleur'
             }
         }
     }
