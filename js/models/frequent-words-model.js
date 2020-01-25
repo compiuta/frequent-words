@@ -2605,6 +2605,41 @@
                 italian: 'fiore',
                 portuguese: 'flor',
                 french: 'fleur'
+            },
+            366: {
+                english: 'however',
+                spanish: 'sin embargo',
+                italian: 'tuttavia',
+                portuguese: 'entanto',
+                french: 'cependant'
+            },
+            367: {
+                english: 'service',
+                spanish: 'servicio',
+                italian: 'servizio',
+                portuguese: 'serviço',
+                french: 'service'
+            },
+            368: {
+                english: 'several',
+                spanish: 'varias',
+                italian: 'parecchi',
+                portuguese: 'vários',
+                french: 'plusieurs'
+            },
+            369: {
+                english: 'table',
+                spanish: 'mesa',
+                italian: 'tavolo',
+                portuguese: 'mesa',
+                french: 'table'
+            },
+            370: {
+                english: 'fast',
+                spanish: 'pronto',
+                italian: 'fretta',
+                portuguese: 'depressa',
+                french: 'vite'
             }
         }
     }
