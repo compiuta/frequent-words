@@ -1194,9 +1194,9 @@
             },
             168: {
                 english: 'during',
-                spanish: 'mientras',
-                italian: 'mentre',
-                portuguese: 'enquanto',
+                spanish: 'durante',
+                italian: 'durante',
+                portuguese: 'durante',
                 french: 'pendant'
             },
             169: {
@@ -2640,6 +2640,216 @@
                 italian: 'fretta',
                 portuguese: 'depressa',
                 french: 'vite'
+            },
+            371: {
+                english: 'peace',
+                spanish: 'paz',
+                italian: 'pace',
+                portuguese: 'paz',
+                french: 'paix'
+            },
+            372: {
+                english: 'send',
+                spanish: 'enviar',
+                italian: 'inviare',
+                portuguese: 'enviar',
+                french: 'envoyer'
+            },
+            373: {
+                english: 'medium',
+                spanish: 'medio',
+                italian: 'medio',
+                portuguese: 'médio',
+                french: 'moyen'
+            },
+            374: {
+                english: 'sleep',
+                spanish: 'dormir',
+                italian: 'dormire',
+                portuguese: 'dormir',
+                french: 'dormir'
+            },
+            375: {
+                english: 'push',
+                spanish: 'emoujar',
+                italian: 'spingere',
+                portuguese: 'empurrar',
+                french: 'pousser'
+            },
+            376: {
+                english: 'bed',
+                spanish: 'cama',
+                italian: 'lettino',
+                portuguese: 'cama',
+                french: 'lit'
+            },
+            377: {
+                english: 'human',
+                spanish: 'humano',
+                italian: 'umano',
+                portuguese: 'humano',
+                french: 'humain'
+            },
+            378: {
+                english: 'car',
+                spanish: 'carro',
+                italian: 'auto',
+                portuguese: 'carro',
+                french: 'voiture'
+            },
+            379: {
+                english: 'remember',
+                spanish: 'recprdar',
+                italian: 'ricordare',
+                portuguese: 'recordar',
+                french: 'rappeler'
+            },
+            380: {
+                english: 'read',
+                spanish: 'leer',
+                italian: 'leggere',
+                portuguese: 'ler',
+                french: 'lire'
+            },
+            381: {
+                english: 'general',
+                spanish: 'general',
+                italian: 'generale',
+                portuguese: 'geral',
+                french: 'général'
+            },
+            382: {
+                english: 'nature',
+                spanish: 'naturaleza',
+                italian: 'natura',
+                portuguese: 'natureza',
+                french: 'nature'
+            },
+            383: {
+                english: 'gold',
+                spanish: 'oro',
+                italian: 'oro',
+                portuguese: 'ouro',
+                french: 'or'
+            },
+            384: {
+                english: 'joy',
+                spanish: 'alegría',
+                italian: 'gioia',
+                portuguese: 'alegria',
+                french: 'joie'
+            },
+            385: {
+                english: 'seven',
+                spanish: 'siete',
+                italian: 'sette',
+                portuguese: 'sete',
+                french: 'sept'
+            },
+            386: {
+                english: 'late',
+                spanish: 'tarde',
+                italian: 'tardi',
+                portuguese: 'tarde',
+                french: 'tard'
+            },
+            387: {
+                english: 'president',
+                spanish: 'presidente',
+                italian: 'presidente',
+                portuguese: 'presidente',
+                french: 'président'
+            },
+            388: {
+                english: 'mouth',
+                spanish: 'boca',
+                italian: 'bocca',
+                portuguese: 'boca',
+                french: 'bouche'
+            },
+            389: {
+                english: 'change',
+                spanish: 'cambiar',
+                italian: 'cambiare',
+                portuguese: 'mudar',
+                french: 'changer'
+            },
+            390: {
+                english: 'cold',
+                spanish: 'frío',
+                italian: 'freddo',
+                portuguese: 'frio',
+                french: 'froid'
+            },
+            391: {
+                english: 'count',
+                spanish: 'contar',
+                italian: 'contare',
+                portuguese: 'contar',
+                french: 'compter'
+            },
+            392: {
+                english: 'occupy',
+                spanish: 'ocupar',
+                italian: 'occupare',
+                portuguese: 'ocupar',
+                french: 'occuper'
+            },
+            393: {
+                english: 'sense',
+                spanish: 'sentido',
+                italian: 'senso',
+                portuguese: 'sentido',
+                french: 'sens'
+            },
+            394: {
+                english: 'cry',
+                spanish: 'grito',
+                italian: 'grido',
+                portuguese: 'grito',
+                french: 'cri'
+            },
+            395: {
+                english: 'horse',
+                spanish: 'caballo',
+                italian: 'cavallo',
+                portuguese: 'cavalo',
+                french: 'cheval'
+            },
+            396: {
+                english: 'law',
+                spanish: 'ley',
+                italian: 'legge',
+                portuguese: 'lei',
+                french: 'loi'
+            },
+            397: {
+                english: 'dark',
+                spanish: 'buio',
+                italian: 'scuro',
+                portuguese: 'oscuro',
+                french: 'sombre'
+            },
+            398: {
+                english: 'sure',
+                spanish: 'seguro',
+                italian: 'sicuro',
+                portuguese: 'seguro',
+                french: 'sûr'
+            },
+            399: {
+                english: 'species',
+                spanish: 'especie',
+                italian: 'specie',
+                portuguese: 'espécie',
+                french: 'espèce'
+            },
+            400: {
+                english: 'ancient',
+                spanish: 'antiguo',
+                italian: 'antico',
+                portuguese: 'antigo',
+                french: 'ancien'
             }
         }
     }
