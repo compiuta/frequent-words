@@ -2850,6 +2850,76 @@
                 italian: 'antico',
                 portuguese: 'antigo',
                 french: 'ancien'
+            },
+            401: {
+                english: 'while',
+                spanish: 'mientras',
+                italian: 'mentre',
+                portuguese: 'enquanto',
+                french: 'tandis'
+            },
+            402: {
+                english: 'hit',
+                spanish: 'golpear',
+                italian: 'colpire',
+                portuguese: 'bater',
+                french: 'frapper'
+            },
+            403: {
+                english: 'minister',
+                spanish: 'ministro',
+                italian: 'ministro',
+                portuguese: 'ministro',
+                french: 'ministre'
+            },
+            404: {
+                english: 'according',
+                spanish: 'según',
+                italian: 'secondo',
+                portuguese: 'segundo',
+                french: 'selon'
+            },
+            405: {
+                english: 'explain',
+                spanish: 'explicar',
+                italian: 'spiegare',
+                portuguese: 'explicar',
+                french: 'expliquer'
+            },
+            406: {
+                english: 'own',
+                spanish: 'propio',
+                italian: 'proprio',
+                portuguese: 'próprio',
+                french: 'propre'
+            },
+            407: {
+                english: 'obtain',
+                spanish: 'obtener',
+                italian: 'ottenere',
+                portuguese: 'obter',
+                french: 'obtenir'
+            },
+            408: {
+                english: 'wrong',
+                spanish: 'mal',
+                italian: 'male',
+                portuguese: 'mal',
+                french: 'mal'
+            },
+            409: {
+                english: 'crying',
+                spanish: 'llorar',
+                italian: 'piangere',
+                portuguese: 'chorar',
+                french: 'pleurer'
+            },
+            410: {
+                english: 'attempt',
+                spanish: 'intentar',
+                italian: 'tentare',
+                portuguese: 'tentar',
+                french: 'essayer'
             }
         }
     }
