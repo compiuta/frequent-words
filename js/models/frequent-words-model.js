@@ -2915,11 +2915,81 @@
                 french: 'pleurer'
             },
             410: {
-                english: 'attempt',
+                english: 'try',
                 spanish: 'intentar',
                 italian: 'tentare',
                 portuguese: 'tentar',
                 french: 'essayer'
+            },
+            411: {
+                english: 'repeat',
+                spanish: 'repetir',
+                italian: 'repetere',
+                portuguese: 'repetir',
+                french: 'répéter'
+            },
+            412: {
+                english: 'society',
+                spanish: 'sociedad',
+                italian: 'società',
+                portuguese: 'sociedade',
+                french: 'société'
+            },
+            413: {
+                english: 'politics',
+                spanish: 'política',
+                italian: 'politica',
+                portuguese: 'política',
+                french: 'politique'
+            },
+            414: {
+                english: 'ear',
+                spanish: 'oído',
+                italian: 'orecchio',
+                portuguese: 'orelha',
+                french: 'oreille'
+            },
+            415: {
+                english: 'pay',
+                spanish: 'pagar',
+                italian: 'pagare',
+                portuguese: 'pagar',
+                french: 'payer'
+            },
+            416: {
+                english: 'bring',
+                spanish: 'traer',
+                italian: 'aportare',
+                portuguese: 'trazer',
+                french: 'apporter'
+            },
+            417: {
+                english: 'window',
+                spanish: 'ventana',
+                italian: 'finestra',
+                portuguese: 'janela',
+                french: 'fenêtre'
+            },
+            418: {
+                english: 'behind',
+                spanish: 'detrás',
+                italian: 'dietro',
+                portuguese: 'atrás',
+                french: 'derrière'
+            },
+            419: {
+                english: 'possible',
+                spanish: 'posible',
+                italian: 'possibile',
+                portuguese: 'possível',
+                french: 'possible'
+            },
+            420: {
+                english: 'fortune',
+                spanish: 'fortuna',
+                italian: 'fortuna',
+                portuguese: 'fortuna',
+                french: 'fortune'
             }
         }
     }
