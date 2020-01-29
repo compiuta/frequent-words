@@ -2990,6 +2990,76 @@
                 italian: 'fortuna',
                 portuguese: 'fortuna',
                 french: 'fortune'
+            },
+            421: {
+                english: 'account',
+                spanish: 'cuenta',
+                italian: 'conto',
+                portuguese: 'conta',
+                french: 'compte'
+            },
+            422: {
+                english: 'field',
+                spanish: 'campo',
+                italian: 'campo',
+                portuguese: 'campo',
+                french: 'champ'
+            },
+            423: {
+                english: 'handle',
+                spanish: 'manejar',
+                italian: 'maneggiare',
+                portuguese: 'manejar',
+                french: 'manier'
+            },
+            424: {
+                english: 'truly',
+                spanish: 'verdaderamente',
+                italian: 'veramente',
+                portuguese: 'verdadeiramente',
+                french: 'vraiment'
+            },
+            425: {
+                english: 'immense',
+                spanish: 'inmenso',
+                italian: 'immenso',
+                portuguese: 'imenso',
+                french: 'immense'
+            },
+            426: {
+                english: 'action',
+                spanish: 'acción',
+                italian: 'azione',
+                portuguese: 'acção',
+                french: 'action'
+            },
+            427: {
+                english: 'drink',
+                spanish: 'beber',
+                italian: 'bere',
+                portuguese: 'beber',
+                french: 'boire'
+            },
+            428: {
+                english: 'public',
+                spanish: 'público',
+                italian: 'pubblico',
+                portuguese: 'público',
+                french: 'public'
+            },
+            429: {
+                english: 'guy',
+                spanish: 'chico',
+                italian: 'ragazzi',
+                portuguese: 'rapaz',
+                french: 'garçon'
+            },
+            430: {
+                english: 'blue',
+                spanish: 'azul',
+                italian: 'blu',
+                portuguese: 'azul',
+                french: 'bleu'
             }
         }
     }
