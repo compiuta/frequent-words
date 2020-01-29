@@ -3060,6 +3060,76 @@
                 italian: 'blu',
                 portuguese: 'azul',
                 french: 'bleu'
+            },
+            431: {
+                english: 'smile',
+                spanish: 'sonrisa',
+                italian: 'sorriso',
+                portuguese: 'sorriso',
+                french: 'sourire'
+            },
+            432: {
+                english: 'color',
+                spanish: 'color',
+                italian: 'colore',
+                portuguese: 'cor',
+                french: 'couleur'
+            },
+            433: {
+                english: 'lie down',
+                spanish: 'acostar',
+                italian: 'coricarsi',
+                portuguese: 'deitar',
+                french: 'coucher'
+            },
+            434: {
+                english: 'paper',
+                spanish: 'papel',
+                italian: 'carta',
+                portuguese: 'papel',
+                french: 'papier'
+            },
+            435: {
+                english: 'soon',
+                spanish: 'pronto',
+                italian: 'presto',
+                portuguese: 'breve',
+                french: 'bientôt'
+            },
+            436: {
+                english: 'cause',
+                spanish: 'causar',
+                italian: 'causare',
+                portuguese: 'causar',
+                french: 'causer'
+            },
+            437: {
+                english: 'mountain',
+                spanish: 'montaña',
+                italian: 'montagna',
+                portuguese: 'montanha',
+                french: 'montagne'
+            },
+            438: {
+                english: 'ground',
+                spanish: 'suelo',
+                italian: 'suolo',
+                portuguese: 'chão',
+                french: 'sol'
+            },
+            439: {
+                english: 'artwork',
+                spanish: 'obra',
+                italian: 'opera',
+                portuguese: 'obra',
+                french: 'œuvre'
+            },
+            440: {
+                english: 'thirty',
+                spanish: 'treinta',
+                italian: 'trenta',
+                portuguese: 'trinta',
+                french: 'trente'
             }
         }
     }
