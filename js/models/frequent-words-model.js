@@ -3130,6 +3130,76 @@
                 italian: 'trenta',
                 portuguese: 'trinta',
                 french: 'trente'
+            },
+            441: {
+                english: 'exist',
+                spanish: 'existir',
+                italian: 'esistere',
+                portuguese: 'existir',
+                french: 'exister'
+            },
+            442: {
+                english: 'course',
+                spanish: 'curso',
+                italian: 'corso',
+                portuguese: 'curso',
+                french: 'cours'
+            },
+            443: {
+                english: 'tighten',
+                spanish: 'apretar',
+                italian: 'stringere',
+                portuguese: 'apertar',
+                french: 'serrer'
+            },
+            444: {
+                english: 'desire',
+                spanish: 'deseo',
+                italian: 'desiderio',
+                portuguese: 'desejo',
+                french: 'désir'
+            },
+            445: {
+                english: 'lack',
+                spanish: 'faltar',
+                italian: 'mancare',
+                portuguese: 'faltar',
+                french: 'manquer'
+            },
+            446: {
+                english: 'court',
+                spanish: 'corte',
+                italian: 'cortile',
+                portuguese: 'corte',
+                french: 'cour'
+            },
+            447: {
+                english: 'nominate',
+                spanish: 'nominar',
+                italian: 'nominare',
+                portuguese: 'nomear',
+                french: 'nommer'
+            },
+            448: {
+                english: 'edge',
+                spanish: 'bordo',
+                italian: 'bordo',
+                portuguese: 'bordo',
+                french: 'bord'
+            },
+            449: {
+                english: 'pain',
+                spanish: 'dolor',
+                italian: 'dolore',
+                portuguese: 'dor',
+                french: 'douleur'
+            },
+            450: {
+                english: 'drive',
+                spanish: 'conducir',
+                italian: 'guidare',
+                portuguese: 'conduzir',
+                french: 'conduire'
             }
         }
     }
