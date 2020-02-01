@@ -3270,6 +3270,76 @@
                 italian: 'toccare',
                 portuguese: 'tocar',
                 french: 'toucher'
+            },
+            461: {
+                english: 'situation',
+                spanish: 'situación',
+                italian: 'situazione',
+                portuguese: 'situação',
+                french: 'situation'
+            },
+            462: {
+                english: 'bird',
+                spanish: 'pájaro',
+                italian: 'uccello',
+                portuguese: 'pássaro',
+                french: 'oiseau'
+            },
+            463: {
+                english: 'necessary',
+                spanish: 'necesario',
+                italian: 'necessario',
+                portuguese: 'necessário',
+                french: 'nécessaire'
+            },
+            464: {
+                english: 'example',
+                spanish: 'ejemplo',
+                italian: 'esempio',
+                portuguese: 'exemplo',
+                french: 'exemple'
+            },
+            465: {
+                english: 'century',
+                spanish: 'siglo',
+                italian: 'secolo',
+                portuguese: 'século',
+                french: 'siècle'
+            },
+            466: {
+                english: 'appear',
+                spanish: 'aparecer',
+                italian: 'apparire',
+                portuguese: 'aparecer',
+                french: 'apparaître'
+            },
+            467: {
+                english: 'suffer',
+                spanish: 'sufrir',
+                italian: 'soffrire',
+                portuguese: 'sofrer',
+                french: 'souffrir'
+            },
+            468: {
+                english: 'million',
+                spanish: 'millón',
+                italian: 'milione',
+                portuguese: 'milhão',
+                french: 'million'
+            },
+            469: {
+                english: 'price',
+                spanish: 'precio',
+                italian: 'prezzo',
+                portuguese: 'preço',
+                french: 'prix'
+            },
+            470: {
+                english: 'group',
+                spanish: 'grupo',
+                italian: 'gruppo',
+                portuguese: 'grupo',
+                french: 'groupe'
             }
         }
     }
