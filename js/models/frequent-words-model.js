@@ -2863,7 +2863,7 @@
                 spanish: 'golpear',
                 italian: 'colpire',
                 portuguese: 'bater',
-                french: 'frapper'
+                french: 'frapper/batter'
             },
             403: {
                 english: 'minister',
@@ -3200,6 +3200,76 @@
                 italian: 'guidare',
                 portuguese: 'conduzir',
                 french: 'conduire'
+            },
+            451: {
+                english: 'hall',
+                spanish: 'sala',
+                italian: 'sala',
+                portuguese: 'sala',
+                french: 'salle'
+            },
+            452: {
+                english: 'seize',
+                spanish: 'aprovechar',
+                italian: 'cogliere',
+                portuguese: 'aproveitar',
+                french: 'saisir'
+            },
+            453: {
+                english: 'project',
+                spanish: 'proyecto',
+                italian: 'progetto',
+                portuguese: 'projecto',
+                french: 'projet'
+            },
+            454: {
+                english: 'remain',
+                spanish: 'permanecer',
+                italian: 'rimanere',
+                portuguese: 'permanecer',
+                french: 'demeurer'
+            },
+            455: {
+                english: 'simple',
+                spanish: 'simple',
+                italian: 'semplice',
+                portuguese: 'simples',
+                french: 'simple'
+            },
+            456: {
+                english: 'study',
+                spanish: 'estudio',
+                italian: 'studio',
+                portuguese: 'estudo',
+                french: 'étude'
+            },
+            457: {
+                english: 'journal',
+                spanish: 'diario',
+                italian: 'giornale',
+                portuguese: 'jornal',
+                french: 'journal'
+            },
+            458: {
+                english: 'gesture',
+                spanish: 'gesto',
+                italian: 'gesto',
+                portuguese: 'gesto',
+                french: 'geste'
+            },
+            459: {
+                english: 'disappear',
+                spanish: 'desaparecer',
+                italian: 'sparire',
+                portuguese: 'desaparecer',
+                french: 'disparaître'
+            },
+            460: {
+                english: 'touch',
+                spanish: 'tocar',
+                italian: 'toccare',
+                portuguese: 'tocar',
+                french: 'toucher'
             }
         }
     }
