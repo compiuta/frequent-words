@@ -3340,6 +3340,76 @@
                 italian: 'gruppo',
                 portuguese: 'grupo',
                 french: 'groupe'
+            },
+            471: {
+                english: 'center',
+                spanish: 'centro',
+                italian: 'centro',
+                portuguese: 'centro',
+                french: 'centre'
+            },
+            472: {
+                english: 'misfortune',
+                spanish: 'infortunio',
+                italian: 'sfortuna',
+                portuguese: 'infortúnio',
+                french: 'malheur'
+            },
+            473: {
+                english: 'honor',
+                spanish: 'honor',
+                italian: 'onore',
+                portuguese: 'honra',
+                french: 'honneur'
+            },
+            474: {
+                english: 'close',
+                spanish: 'cerrar',
+                italian: 'chiudere',
+                portuguese: 'fechar',
+                french: 'fermer'
+            },
+            475: {
+                english: 'accept',
+                spanish: 'aceptar',
+                italian: 'accettare',
+                portuguese: 'aceitar',
+                french: 'accepter'
+            },
+            476: {
+                english: 'guard',
+                spanish: 'guardia',
+                italian: 'guardia',
+                portuguese: 'guarda',
+                french: 'garde'
+            },
+            477: {
+                english: 'bad',
+                spanish: 'malo',
+                italian: 'sbagliato',
+                portuguese: 'mau',
+                french: 'mauvais'
+            },
+            478: {
+                english: 'tender',
+                spanish: 'tierno',
+                italian: 'tenero',
+                portuguese: 'terno',
+                french: 'tendre'
+            },
+            479: {
+                english: 'born',
+                spanish: 'nacer',
+                italian: 'nascere',
+                portuguese: 'nascer',
+                french: 'naître'
+            },
+            480: {
+                english: 'save',
+                spanish: 'salvar',
+                italian: 'salvare',
+                portuguese: 'salvar',
+                french: 'sauver'
             }
         }
     }
