@@ -770,7 +770,7 @@
                 spanish: 'entre',
                 italian: 'tra',
                 portuguese: 'entre',
-                french: 'entre'
+                french: 'entre/parmi'
             },
             108: {
                 english: 'towards',
@@ -3340,6 +3340,146 @@
                 italian: 'gruppo',
                 portuguese: 'grupo',
                 french: 'groupe'
+            },
+            471: {
+                english: 'center',
+                spanish: 'centro',
+                italian: 'centro',
+                portuguese: 'centro',
+                french: 'centre'
+            },
+            472: {
+                english: 'misfortune',
+                spanish: 'infortunio',
+                italian: 'sfortuna',
+                portuguese: 'infortúnio',
+                french: 'malheur'
+            },
+            473: {
+                english: 'honor',
+                spanish: 'honor',
+                italian: 'onore',
+                portuguese: 'honra',
+                french: 'honneur'
+            },
+            474: {
+                english: 'close',
+                spanish: 'cerrar',
+                italian: 'chiudere',
+                portuguese: 'fechar',
+                french: 'fermer'
+            },
+            475: {
+                english: 'accept',
+                spanish: 'aceptar',
+                italian: 'accettare',
+                portuguese: 'aceitar',
+                french: 'accepter'
+            },
+            476: {
+                english: 'guard',
+                spanish: 'guardia',
+                italian: 'guardia',
+                portuguese: 'guarda',
+                french: 'garde'
+            },
+            477: {
+                english: 'bad',
+                spanish: 'malo',
+                italian: 'sbagliato',
+                portuguese: 'mau',
+                french: 'mauvais'
+            },
+            478: {
+                english: 'tender',
+                spanish: 'tierno',
+                italian: 'tenero',
+                portuguese: 'terno',
+                french: 'tendre'
+            },
+            479: {
+                english: 'born',
+                spanish: 'nacer',
+                italian: 'nascere',
+                portuguese: 'nascer',
+                french: 'naître'
+            },
+            480: {
+                english: 'save',
+                spanish: 'salvar',
+                italian: 'salvare',
+                portuguese: 'salvar',
+                french: 'sauver'
+            },
+            481: {
+                english: 'whole',
+                spanish: 'entero',
+                italian: 'intero',
+                portuguese: 'inteiro',
+                french: 'entier'
+            },
+            482: {
+                english: 'problem',
+                spanish: 'problema',
+                italian: 'problema',
+                portuguese: 'problema',
+                french: 'problème'
+            },
+            483: {
+                english: 'tear',
+                spanish: 'lágrima',
+                italian: 'lacrima',
+                portuguese: 'lágrima',
+                french: 'larme'
+            },
+            484: {
+                english: 'advance',
+                spanish: 'avanzar',
+                italian: 'avanzare',
+                portuguese: 'avançar',
+                french: 'avancer'
+            },
+            485: {
+                english: 'dog',
+                spanish: 'perro',
+                italian: 'cane',
+                portuguese: 'cachorro',
+                french: 'chien'
+            },
+            486: {
+                english: 'skin',
+                spanish: 'piel',
+                italian: 'pelle',
+                portuguese: 'pele',
+                french: 'peau'
+            },
+            487: {
+                english: 'rest',
+                spanish: 'resto',
+                italian: 'resto',
+                portuguese: 'resto',
+                french: 'reste'
+            },
+            488: {
+                english: 'cross',
+                spanish: 'atravesar',
+                italian: 'attraversare',
+                portuguese: 'atravessar',
+                french: 'traverser'
+            },
+            489: {
+                english: 'number',
+                spanish: 'número',
+                italian: 'numero',
+                portuguese: 'número',
+                french: 'nombre'
+            },
+            490: {
+                english: 'standing',
+                spanish: 'parado',
+                italian: 'alzato',
+                portuguese: 'parado',
+                french: 'debout'
             }
         }
     }
