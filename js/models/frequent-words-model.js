@@ -3480,6 +3480,76 @@
                 italian: 'alzato',
                 portuguese: 'parado',
                 french: 'debout'
+            },
+            491: {
+                english: 'measurement',
+                spanish: 'medida',
+                italian: 'misurazione',
+                portuguese: 'medida',
+                french: 'mesure'
+            },
+            492: {
+                english: 'social',
+                spanish: 'social',
+                italian: 'sociale',
+                portuguese: 'social',
+                french: 'social'
+            },
+            493: {
+                english: 'souvenir',
+                spanish: 'recuerdo',
+                italian: 'ricordo',
+                portuguese: 'recordação',
+                french: 'souvenir'
+            },
+            494: {
+                english: 'article',
+                spanish: 'artículo',
+                italian: 'articolo',
+                portuguese: 'artigo',
+                french: 'article'
+            },
+            495: {
+                english: 'view',
+                spanish: 'vista',
+                italian: 'vista',
+                portuguese: 'vista',
+                french: 'vue'
+            },
+            496: {
+                english: 'cover',
+                spanish: 'cubrir',
+                italian: 'coprire',
+                portuguese: 'cobrir',
+                french: 'couvrir'
+            },
+            497: {
+                english: 'age',
+                spanish: 'edad',
+                italian: 'età',
+                portuguese: 'idade',
+                french: 'âge'
+            },
+            498: {
+                english: 'win',
+                spanish: 'ganar',
+                italian: 'guadagnare',
+                portuguese: 'ganhar',
+                french: 'gagner'
+            },
+            499: {
+                english: 'system',
+                spanish: 'sistema',
+                italian: 'sistema',
+                portuguese: 'sistema',
+                french: 'système'
+            },
+            500: {
+                english: 'form',
+                spanish: 'formar',
+                italian: 'formare',
+                portuguese: 'formar',
+                french: 'former'
             }
         }
     }
