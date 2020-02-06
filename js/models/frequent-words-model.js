@@ -160,7 +160,7 @@
                 spanish: 'para',
                 italian: 'per',
                 portuguese: 'para',
-                french: 'pour'
+                french: 'pour/afin'
             },
             21: {
                 english: 'not',
@@ -3550,6 +3550,76 @@
                 italian: 'formare',
                 portuguese: 'formar',
                 french: 'former'
+            },
+            501: {
+                english: 'like',
+                spanish: 'gustar',
+                italian: 'piace',
+                portuguese: 'gostar',
+                french: 'plaire'
+            },
+            502: {
+                english: 'kiss',
+                spanish: 'besar',
+                italian: 'baciare',
+                portuguese: 'beijar',
+                french: 'embrasser'
+            },
+            503: {
+                english: 'dream',
+                spanish: 'sueño',
+                italian: 'sogno',
+                portuguese: 'sonho',
+                french: 'rêve'
+            },
+            504: {
+                english: 'dare',
+                spanish: 'atreverse',
+                italian: 'osare',
+                portuguese: 'ousar',
+                french: 'oser'
+            },
+            505: {
+                english: 'passion',
+                spanish: 'pasión',
+                italian: 'passione',
+                portuguese: 'paixão',
+                french: 'passion'
+            },
+            506: {
+                english: 'report',
+                spanish: 'reporte',
+                italian: 'rapporto',
+                portuguese: 'reporte',
+                french: 'rapport'
+            },
+            507: {
+                english: 'refuse',
+                spanish: 'rechazar',
+                italian: 'rifiutare',
+                portuguese: 'rejeitar',
+                french: 'refuser'
+            },
+            508: {
+                english: 'important',
+                spanish: 'importante',
+                italian: 'importante',
+                portuguese: 'importante',
+                french: 'important'
+            },
+            509: {
+                english: 'decide',
+                spanish: 'decidir',
+                italian: 'decidere',
+                portuguese: 'decidir',
+                french: 'décider'
+            },
+            510: {
+                english: 'produce',
+                spanish: 'producir',
+                italian: 'produrre',
+                portuguese: 'produzir',
+                french: 'produire'
             }
         }
     }
