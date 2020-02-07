@@ -1840,7 +1840,7 @@
                 english: 'true',
                 spanish: 'verdarero',
                 italian: 'vero',
-                portuguese: 'verdade',
+                portuguese: 'verdadeiro',
                 french: 'vrai'
             },
             261: {
@@ -3620,6 +3620,76 @@
                 italian: 'produrre',
                 portuguese: 'produzir',
                 french: 'produire'
+            },
+            511: {
+                english: 'soldier',
+                spanish: 'soldado',
+                italian: 'soldato',
+                portuguese: 'soldado',
+                french: 'soldat'
+            },
+            512: {
+                english: 'lip',
+                spanish: 'labio',
+                italian: 'labbro',
+                portuguese: 'lábio',
+                french: 'lèvre'
+            },
+            513: {
+                english: 'sign',
+                spanish: 'señal',
+                italian: 'segno',
+                portuguese: 'sinal',
+                french: 'signe'
+            },
+            514: {
+                english: 'truth',
+                spanish: 'verdad',
+                italian: 'verità',
+                portuguese: 'verdade',
+                french: 'vérité'
+            },
+            515: {
+                english: 'charge',
+                spanish: 'cargar',
+                italian: 'caricare',
+                portuguese: 'carregar',
+                french: 'charger'
+            },
+            516: {
+                english: 'marriage',
+                spanish: 'matrimonio',
+                italian: 'matrimonio',
+                portuguese: 'matrimónio',
+                french: 'mariage'
+            },
+            517: {
+                english: 'mix',
+                spanish: 'mezclar',
+                italian: 'mescola',
+                portuguese: 'mexe',
+                french: 'mêler'
+            },
+            518: {
+                english: 'plan',
+                spanish: 'plan',
+                italian: 'piano',
+                portuguese: 'plano',
+                french: 'plan'
+            },
+            519: {
+                english: 'cease',
+                spanish: 'cesar',
+                italian: 'cessare',
+                portuguese: 'cessar',
+                french: 'cesser'
+            },
+            520: {
+                english: 'dorsum',
+                spanish: 'dorso',
+                italian: 'dorso',
+                portuguese: 'dorso',
+                french: 'dos'
             }
         }
     }
