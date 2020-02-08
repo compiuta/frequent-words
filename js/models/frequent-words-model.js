@@ -41,7 +41,7 @@
                 spanish: 'ser',
                 italian: 'essere',
                 portuguese: 'ser',
-                french: 'être'
+                french: 'soit/être'
             },
             4: {
                 english: 'and',
@@ -1874,7 +1874,7 @@
             265: {
                 english: 'thought',
                 spanish: 'pensamiento',
-                italian: 'pendiero',
+                italian: 'pensiero',
                 portuguese: 'pensamento',
                 french: 'pensée'
             },
@@ -2396,6 +2396,13 @@
                 portuguese: 'pôr',
                 french: 'poser'
             },
+            340: {
+                english: 'march',
+                spanish: 'marcha',
+                italian: 'marcia',
+                portuguese: 'marcha',
+                french: 'marche'
+            },
             341: {
                 english: 'is',
                 spanish: 'es',
@@ -2671,7 +2678,7 @@
             },
             375: {
                 english: 'push',
-                spanish: 'emoujar',
+                spanish: 'empujar',
                 italian: 'spingere',
                 portuguese: 'empurrar',
                 french: 'pousser'
@@ -2825,9 +2832,9 @@
             },
             397: {
                 english: 'dark',
-                spanish: 'buio',
+                spanish: 'oscuro',
                 italian: 'scuro',
-                portuguese: 'oscuro',
+                portuguese: 'escuro',
                 french: 'sombre'
             },
             398: {
@@ -3690,6 +3697,76 @@
                 italian: 'dorso',
                 portuguese: 'dorso',
                 french: 'dos'
+            },
+            521: {
+                english: 'lady',
+                spanish: 'dama',
+                italian: 'signora',
+                portuguese: 'dama',
+                french: 'dame'
+            },
+            522: {
+                english: 'sing',
+                spanish: 'cantar',
+                italian: 'cantare',
+                portuguese: 'cantar',
+                french: 'chanter'
+            },
+            523: {
+                english: 'quite',
+                spanish: 'bastante',
+                italian: 'piutostto',
+                portuguese: 'bastante',
+                french: 'plutôt'
+            },
+            524: {
+                english: 'advise',
+                spanish: 'consejo',
+                italian: 'consiglio',
+                portuguese: 'conselho',
+                french: 'conseil'
+            },
+            525: {
+                english: 'sad',
+                spanish: 'triste',
+                italian: 'triste',
+                portuguese: 'triste',
+                french: 'triste'
+            },
+            526: {
+                english: 'corner',
+                spanish: 'esquina',
+                italian: 'angolo',
+                portuguese: 'canto',
+                french: 'coin'
+            },
+            527: {
+                english: 'garden',
+                spanish: 'jardin',
+                italian: 'giardino',
+                portuguese: 'jardim',
+                french: 'jardin'
+            },
+            528: {
+                english: 'prevent',
+                spanish: 'impedir',
+                italian: 'impedire',
+                portuguese: 'impedir',
+                french: 'empêcher'
+            },
+            529: {
+                english: 'finger',
+                spanish: 'dedo',
+                italian: 'dito',
+                portuguese: 'dedo',
+                french: 'doigt'
+            },
+            530: {
+                english: 'object',
+                spanish: 'objeto',
+                italian: 'oggetto',
+                portuguese: 'objecto',
+                french: 'objet'
             }
         }
     }
