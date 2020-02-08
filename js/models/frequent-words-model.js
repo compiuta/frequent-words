@@ -3767,6 +3767,76 @@
                 italian: 'oggetto',
                 portuguese: 'objecto',
                 french: 'objet'
+            },
+            531: {
+                english: 'iron',
+                spanish: 'hierro',
+                italian: 'ferro',
+                portuguese: 'ferro',
+                french: 'fer'
+            },
+            532: {
+                english: 'slowly',
+                spanish: 'lentamente',
+                italian: 'lentamente',
+                portuguese: 'lentamente',
+                french: 'lentement'
+            },
+            533: {
+                english: 'how many',
+                spanish: 'cuánto',
+                italian: 'quanto',
+                portuguese: 'quanto',
+                french: 'combien'
+            },
+            534: {
+                english: 'aproach',
+                spanish: 'acercarse',
+                italian: 'avvicinare',
+                portuguese: 'aproximar',
+                french: 'approcher'
+            },
+            535: {
+                english: 'pray',
+                spanish: 'rezar',
+                italian: 'pregare',
+                portuguese: 'rezar',
+                french: 'prier'
+            },
+            536: {
+                english: 'train',
+                spanish: 'tren',
+                italian: 'treno',
+                portuguese: 'trem',
+                french: 'train'
+            },
+            537: {
+                english: 'expect',
+                spanish: 'esperar',
+                italian: 'sperare',
+                portuguese: 'esperar',
+                french: 'espérer'
+            },
+            538: {
+                english: 'diferent',
+                spanish: 'diferente',
+                italian: 'diverso',
+                portuguese: 'diferente',
+                french: 'différent'
+            },
+            539: {
+                english: 'value',
+                spanish: 'valor',
+                italian: 'valore',
+                portuguese: 'valor',
+                french: 'valeur'
+            },
+            540: {
+                english: 'game',
+                spanish: 'juego',
+                italian: 'gioco',
+                portuguese: 'jogo',
+                french: 'jeu'
             }
         }
     }
