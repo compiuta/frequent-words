@@ -1071,7 +1071,7 @@
                 spanish: 'viejo',
                 italian: 'vecchio',
                 portuguese: 'velho',
-                french: 'vieux'
+                french: 'vieux/vieillard'
             },
             151: {
                 english: 'seem',
@@ -3837,6 +3837,76 @@
                 italian: 'gioco',
                 portuguese: 'jogo',
                 french: 'jeu'
+            },
+            541: {
+                english: 'escape',
+                spanish: 'escapar',
+                italian: 'scapare',
+                portuguese: 'escapar',
+                french: 'échapper'
+            },
+            542: {
+                english: 'slide',
+                spanish: 'resbalar',
+                italian: 'scivolare',
+                portuguese: 'escorregar',
+                french: 'glisser'
+            },
+            543: {
+                english: 'secret',
+                spanish: 'secreto',
+                italian: 'segreto',
+                portuguese: 'segredo',
+                french: 'secret'
+            },
+            544: {
+                english: 'high',
+                spanish: 'alto',
+                italian: 'alto',
+                portuguese: 'alto',
+                french: 'haut'
+            },
+            545: {
+                english: 'shine',
+                spanish: 'brillar',
+                italian: 'brillare',
+                portuguese: 'brilhar',
+                french: 'briller'
+            },
+            546: {
+                english: 'doctor',
+                spanish: 'doctor',
+                italian: 'dottore',
+                portuguese: 'doutor',
+                french: 'docteur'
+            },
+            547: {
+                english: 'burn',
+                spanish: 'quemar',
+                italian: 'bruciare',
+                portuguese: 'queimare',
+                french: 'brûler'
+            },
+            548: {
+                english: 'terrible',
+                spanish: 'terrible',
+                italian: 'terribile',
+                portuguese: 'terrível',
+                french: 'terrible'
+            },
+            549: {
+                english: 'place',
+                spanish: 'colocar',
+                italian: 'collocare',
+                portuguese: 'colocar',
+                french: 'placer'
+            },
+            550: {
+                english: 'leg',
+                spanish: 'pierna',
+                italian: 'gamba',
+                portuguese: 'perna',
+                french: 'jambe'
             }
         }
     }
