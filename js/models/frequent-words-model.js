@@ -1533,7 +1533,7 @@
                 spanish: 'lugar',
                 italian: 'posto',
                 portuguese: 'lugar',
-                french: 'place'
+                french: 'place/endroit'
             },
             217: {
                 english: 'open',
@@ -3907,6 +3907,76 @@
                 italian: 'gamba',
                 portuguese: 'perna',
                 french: 'jambe'
+            },
+            551: {
+                english: 'judge',
+                spanish: 'juzgar',
+                italian: 'giudicare',
+                portuguese: 'julgar',
+                french: 'juger'
+            },
+            552: {
+                english: 'be enough',
+                spanish: 'bastar',
+                italian: 'bastare',
+                portuguese: 'bastar',
+                french: 'suffire'
+            },
+            553: {
+                english: 'minute',
+                spanish: 'minuto',
+                italian: 'minuto',
+                portuguese: 'minuto',
+                french: 'minute'
+            },
+            554: {
+                english: 'achieve',
+                spanish: 'lograr',
+                italian: 'raggiungere',
+                portuguese: 'atingir',
+                french: 'atteindre'
+            },
+            555: {
+                english: 'cloud',
+                spanish: 'nuble',
+                italian: 'novola',
+                portuguese: 'nuvem',
+                french: 'nuage'
+            },
+            556: {
+                english: 'presence',
+                spanish: 'presencia',
+                italian: 'presenza',
+                portuguese: 'presença',
+                french: 'présence'
+            },
+            557: {
+                english: 'crazy',
+                spanish: 'loco',
+                italian: 'pazzo',
+                portuguese: 'loucura',
+                french: 'fou'
+            },
+            558: {
+                english: 'shoulder',
+                spanish: 'hombro',
+                italian: 'spalla',
+                portuguese: 'ombro',
+                french: 'épaule'
+            },
+            559: {
+                english: 'light',
+                spanish: 'ligero',
+                italian: 'leggero',
+                portuguese: 'leve',
+                french: 'léger'
+            },
+            560: {
+                english: 'sheet',
+                spanish: 'hoja',
+                italian: 'foglio',
+                portuguese: 'folha',
+                french: 'feuille'
             }
         }
     }
