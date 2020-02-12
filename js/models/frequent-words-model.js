@@ -1260,7 +1260,7 @@
                 spanish: 'cargar',
                 italian: 'portare',
                 portuguese: 'carregar',
-                french: 'porter'
+                french: 'porter/mener'
             },
             178: {
                 english: 'country',
@@ -3977,6 +3977,76 @@
                 italian: 'foglio',
                 portuguese: 'folha',
                 french: 'feuille'
+            },
+            561: {
+                english: 'liberty',
+                spanish: 'libertad',
+                italian: 'libertà',
+                portuguese: 'liberdade',
+                french: 'liberté'
+            },
+            562: {
+                english: 'free',
+                spanish: 'libre',
+                italian: 'libero',
+                portuguese: 'livre',
+                french: 'libre'
+            },
+            563: {
+                english: 'announce',
+                spanish: 'anunciar',
+                italian: 'annunciare',
+                portuguese: 'anunciar',
+                french: 'annoncer'
+            },
+            564: {
+                english: 'future',
+                spanish: 'futuro',
+                italian: 'futuro',
+                portuguese: 'futuro',
+                french: 'futur/avenir'
+            },
+            565: {
+                english: 'yesterday',
+                spanish: 'ayer',
+                italian: 'ieri',
+                portuguese: 'ontem',
+                french: 'hier'
+            },
+            566: {
+                english: 'result',
+                spanish: 'resultado',
+                italian: 'resultato',
+                portuguese: 'resultado',
+                french: 'résultat'
+            },
+            567: {
+                english: 'raise',
+                spanish: 'elevar',
+                italian: 'elevare',
+                portuguese: 'elevar',
+                french: 'élever'
+            },
+            568: {
+                english: 'buy',
+                spanish: 'comprar',
+                italian: 'comprare',
+                portuguese: 'comprar',
+                french: 'acheter'
+            },
+            569: {
+                english: 'prepare',
+                spanish: 'preparar',
+                italian: 'preparare',
+                portuguese: 'preparar',
+                french: 'préparer'
+            },
+            570: {
+                english: 'hotel',
+                spanish: 'hotel',
+                italian: 'hotel',
+                portuguese: 'hotel',
+                french: 'hôtel'
             }
         }
     }
