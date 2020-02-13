@@ -4047,6 +4047,76 @@
                 italian: 'hotel',
                 portuguese: 'hotel',
                 french: 'hôtel'
+            },
+            571: {
+                english: 'week',
+                spanish: 'semana',
+                italian: 'settimana',
+                portuguese: 'semana',
+                french: 'semaine'
+            },
+            572: {
+                english: 'forest',
+                spanish: 'bosque',
+                italian: ' foresta',
+                portuguese: 'floresta',
+                french: 'forêt'
+            },
+            573: {
+                english: 'assure',
+                spanish: 'asegurar',
+                italian: 'assicurare',
+                portuguese: 'assegurar',
+                french: 'assurer'
+            },
+            574: {
+                english: 'pure',
+                spanish: 'puro',
+                italian: 'puro',
+                portuguese: 'puro',
+                french: 'pur'
+            },
+            575: {
+                english: 'quality',
+                spanish: 'cualidad',
+                italian: 'qualità',
+                portuguese: 'qualidade',
+                french: 'qualité'
+            },
+            576: {
+                english: 'prince',
+                spanish: 'príncipe',
+                italian: 'principe',
+                portuguese: 'principe',
+                french: 'prince'
+            },
+            577: {
+                english: 'equally',
+                spanish: 'igualmente',
+                italian: 'ugualmente',
+                portuguese: 'igualmente',
+                french: 'également'
+            },
+            578: {
+                english: 'guess',
+                spanish: 'adivinar',
+                italian: 'indovinare',
+                portuguese: 'adivinhar',
+                french: 'deviner'
+            },
+            579: {
+                english: 'medic',
+                spanish: 'médico',
+                italian: 'medico',
+                portuguese: 'médico',
+                french: 'médecin'
+            },
+            580: {
+                english: 'consider',
+                spanish: 'considerar',
+                italian: 'considerare',
+                portuguese: 'considerar',
+                french: 'considérer'
             }
         }
     }
