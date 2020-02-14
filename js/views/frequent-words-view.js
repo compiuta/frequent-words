@@ -94,7 +94,6 @@
                             translatedWordContainer.setAttribute('target', '_blank');
                             if(i > 0) {
                                 translatedWord.innerText = '/' + wordSplitArray[i];
-                                console.log(translatedWord);
                             } else {
                                 translatedWord.innerText = wordSplitArray[i];
                             }
