@@ -959,7 +959,7 @@
                 spanish: 'señor',
                 italian: 'Signore',
                 portuguese: 'senhor',
-                french: 'monsieur'
+                french: 'monsieur/seigneur'
             },
             135: {
                 english: 'voice',
@@ -4117,6 +4117,76 @@
                 italian: 'considerare',
                 portuguese: 'considerar',
                 french: 'considérer'
+            },
+            581: {
+                english: 'will',
+                spanish: 'voluntad',
+                italian: 'volontà',
+                portuguese: 'vontade',
+                french: 'volonté'
+            },
+            582: {
+                english: 'effort',
+                spanish: 'esfuerzo',
+                italian: 'sforzo',
+                portuguese: 'esforço',
+                french: 'effort'
+            },
+            583: {
+                english: 'green',
+                spanish: 'verde',
+                italian: 'verde',
+                portuguese: 'verde',
+                french: 'vert'
+            },
+            584: {
+                english: 'art',
+                spanish: 'arte',
+                italian: 'arte',
+                portuguese: 'arte',
+                french: 'art'
+            },
+            585: {
+                english: 'lesser',
+                spanish: 'menos',
+                italian: 'minore',
+                portuguese: 'menor',
+                french: 'moindre'
+            },
+            586: {
+                english: 'tomorrow',
+                spanish: 'mañana',
+                italian: 'domani',
+                portuguese: 'amanhã',
+                french: 'demain'
+            },
+            587: {
+                english: 'forty',
+                spanish: 'cuarenta',
+                italian: 'quaranta',
+                portuguese: 'quarenta',
+                french: 'quarante'
+            },
+            588: {
+                english: 'fifty',
+                spanish: 'cincuenta',
+                italian: 'cinquanta',
+                portuguese: 'cinquenta',
+                french: 'cinquante'
+            },
+            589: {
+                english: 'crowd',
+                spanish: 'multitud',
+                italian: 'folla',
+                portuguese: 'multidão',
+                french: 'foule'
+            },
+            590: {
+                english: 'belong',
+                spanish: 'pertenecer',
+                italian: 'appartenere',
+                portuguese: 'pertencer',
+                french: 'appartenir'
             }
         }
     }
