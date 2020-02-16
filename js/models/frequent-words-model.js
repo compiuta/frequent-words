@@ -679,7 +679,7 @@
                 spanish: 'luego',
                 italian: 'poi',
                 portuguese: 'depois',
-                french: 'puis'
+                french: 'puis/ensuite'
             },
             95: {
                 english: 'never',
@@ -4188,86 +4188,147 @@
                 portuguese: 'pertencer',
                 french: 'appartenir'
             },
-591: {
-english: 'at once',
-spanish: 'ahora mismo',
-italian: 'subito',
-portuguese: 'agora mesmo',
-french: 'aussitôt'
+            591: {
+                english: 'at once',
+                spanish: 'ahora mismo',
+                italian: 'subito',
+                portuguese: 'agora mesmo',
+                french: 'aussitôt'
+            },
+            592: {
+                english: 'line',
+                spanish: 'línea',
+                italian: 'linea',
+                portuguese: 'linha',
+                french: 'ligne'
+            },
+            593: {
+                english: 'represent',
+                spanish: 'representar',
+                italian: 'rapprensentare',
+                portuguese: 'representar',
+                french: 'représenter'
+            },
+            594: {
+                english: 'deceive',
+                spanish: 'engañar',
+                italian: 'ingannare',
+                portuguese: 'enganar',
+                french: 'tromper'
+            },
+            595: {
+                english: 'interior',
+                spanish: 'interior',
+                italian: 'interiore',
+                portuguese: 'interior',
+                french: 'intérieur'
 
-},
-592: {
-english: 'line',
-spanish: 'línea',
-italian: 'linea',
-portuguese: 'linha',
-french: 'ligne'
-
-},
-593: {
-english: 'represent',
-spanish: 'representar',
-italian: 'rapprensentare',
-portuguese: 'representar',
-french: 'représenter'
-
-},
-594: {
-english: 'deceive',
-spanish: 'engañar',
-italian: 'ingannare',
-portuguese: 'enganar',
-french: 'tromper'
-
-},
-595: {
-english: 'interior',
-spanish: 'interior',
-italian: 'interiore',
-portuguese: 'interior',
-french: 'intérieur'
-
-},
-596: {
-english: 'sell',
-spanish: 'vender',
-italian: 'vendere',
-portuguese: 'vender',
-french: 'vendre'
-
-},
-597: {
-english: 'beuty',
-spanish: 'belleza',
-italian: 'bellezza',
-portuguese: 'beleza',
-french: 'beauté'
-
-},
-598: {
-english: 'rich',
-spanish: 'rico',
-italian: 'ricco',
-portuguese: 'rico',
-french: 'riche'
-
-}, 
-599: {
-english: 'strange',
-spanish: 'extraño,',
-italian: 'strano',
-portuguese: 'estranho',
-french: 'étrange'
-
-},
-600: {
-english: 'care',
-spanish: 'cuidado',
-italian: 'attento',
-portuguese: 'cuidado',
-french: 'soin'
-
-}
+            },
+            596: {
+                english: 'sell',
+                spanish: 'vender',
+                italian: 'vendere',
+                portuguese: 'vender',
+                french: 'vendre'
+            },
+            597: {
+                english: 'beuty',
+                spanish: 'belleza',
+                italian: 'bellezza',
+                portuguese: 'beleza',
+                french: 'beauté'
+            },
+            598: {
+                english: 'rich',
+                spanish: 'rico',
+                italian: 'ricco',
+                portuguese: 'rico',
+                french: 'riche'
+            }, 
+            599: {
+                english: 'strange',
+                spanish: 'extraño,',
+                italian: 'strano',
+                portuguese: 'estranho',
+                french: 'étrange'
+            },
+            600: {
+                english: 'care',
+                spanish: 'cuidado',
+                italian: 'attento',
+                portuguese: 'cuidado',
+                french: 'soin'
+            },
+            601: {
+                english: 'fearing',
+                spanish: 'temer',
+                italian: 'temere',
+                portuguese: 'temer',
+                french: 'craindre'
+            },
+            602: {
+                english: 'natural',
+                spanish: 'natural',
+                italian: 'naturale',
+                portuguese: 'natural',
+                french: 'naturel'
+            },
+            603: {
+                english: 'chance',
+                spanish: 'azar',
+                italian: 'casualità',
+                portuguese: 'acaso',
+                french: 'hasard'
+            },
+            604: {
+                english: 'condition',
+                spanish: 'condición',
+                italian: 'condizione',
+                portuguese: 'condição',
+                french: 'condition'
+            },
+            605: {
+                english: 'fifteen',
+                spanish: 'quince',
+                italian: 'quindici',
+                portuguese: 'quinze',
+                french: 'quinze'
+            },
+            606: {
+                english: 'class',
+                spanish: 'clase',
+                italian: 'classe',
+                portuguese: 'classe',
+                french: 'classe'
+            },
+            607: {
+                english: 'trip',
+                spanish: 'viaje',
+                italian: 'viaggio',
+                portuguese: 'viagem',
+                french: 'voyage'
+            },
+            608: {
+                english: 'close',
+                spanish: 'ante',
+                italian: 'presso',
+                portuguese: 'perante',
+                french: 'auprès'
+            },
+            609: {
+                english: 'present',
+                spanish: 'presente',
+                italian: 'presente',
+                portuguese: 'presente',
+                french: 'présent'
+            },
+            610: {
+                english: 'character',
+                spanish: 'carácter',
+                italian: 'carattere',
+                portuguese: 'carácter',
+                french: 'caractère'
+            }
         }
     }
 
