@@ -195,9 +195,9 @@
                 app.frequentWordsView.languageNameSelected.innerText = '';
             } else {
                 app.frequentWordsView.languageNameSelected.innerText = languageName;
+
+                app.frequentWordsView.render(app.frequentWordsModel.wordList, app.frequentWordsModel.languageSetting.chosenLanguage, app.frequentWordsModel.languageSetting.languageCode);
             }
-        
-            app.frequentWordsView.render(app.frequentWordsModel.wordList, app.frequentWordsModel.languageSetting.chosenLanguage, app.frequentWordsModel.languageSetting.languageCode);
         }
     }
     
