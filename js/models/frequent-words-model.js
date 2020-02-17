@@ -4328,6 +4328,76 @@
                 italian: 'carattere',
                 portuguese: 'carácter',
                 french: 'caractère'
+            },
+            611: {
+                english: 'attention',
+                spanish: 'attention',
+                italian: 'attenzione',
+                portuguese: 'atenção',
+                french: 'attention'
+            },
+            612: {
+                english: 'grey',
+                spanish: 'gris',
+                italian: 'grigio',
+                portuguese: 'cinza',
+                french: 'gris'
+            },
+            613: {
+                english: 'gold',
+                spanish: 'oro',
+                italian: 'oro',
+                portuguese: 'ouro',
+                french: 'or'
+            },
+            614: {
+                english: 'roll',
+                spanish: 'rodar',
+                italian: 'rotolare',
+                portuguese: 'rolar',
+                french: 'rouler'
+            },
+            615: {
+                english: 'feeble',
+                spanish: 'débil',
+                italian: 'debole',
+                portuguese: 'fraco',
+                french: 'faible'
+            },
+            616: {
+                english: 'possess',
+                spanish: 'poseer',
+                italian: 'possedere',
+                portuguese: 'possuir',
+                french: 'posséder'
+            },
+            617: {
+                english: 'scene',
+                spanish: 'escena',
+                italian: 'scena',
+                portuguese: 'cena',
+                french: 'scène'
+            },
+            618: {
+                english: 'difficult',
+                spanish: 'difícil',
+                italian: 'difficile',
+                portuguese: 'difícil',
+                french: 'difficile'
+            },
+            619: {
+                english: 'wake',
+                spanish: 'despertar',
+                italian: 'svegliare',
+                portuguese: 'acordar',
+                french: 'réveiller'
+            },
+            620: {
+                english: 'faith',
+                spanish: 'fe',
+                italian: 'fede',
+                portuguese: 'fé',
+                french: 'foi'
             }
         }
     }
