@@ -4398,6 +4398,76 @@
                 italian: 'fede',
                 portuguese: 'fé',
                 french: 'foi'
+            },
+            621: {
+                english: 'help',
+                spanish: 'ayudar',
+                italian: 'aiutare',
+                portuguese: 'ajudar',
+                french: 'aider'
+            },
+            622: {
+                english: 'discover',
+                spanish: 'descubrir',
+                italian: 'scoprire',
+                portuguese: 'descobrir',
+                french: 'découvrir'
+            },
+            623: {
+                english: 'odor',
+                spanish: 'olor',
+                italian: 'odore',
+                portuguese: 'cheiro',
+                french: 'odeur'
+            },
+            624: {
+                english: 'choose',
+                spanish: 'elegir',
+                italian: 'scegliere',
+                portuguese: 'escolher',
+                french: 'choisir'
+            },
+            625: {
+                english: 'music',
+                spanish: 'música',
+                italian: 'musica',
+                portuguese: 'música',
+                french: 'musique'
+            },
+            626: {
+                english: 'uncle',
+                spanish: 'tío',
+                italian: 'zio',
+                portuguese: 'tio',
+                french: 'oncle'
+            },
+            627: {
+                english: 'event',
+                spanish: 'evento',
+                italian: 'evento',
+                portuguese: 'evento',
+                french: 'événement'
+            },
+            628: {
+                english: 'pronounce',
+                spanish: 'pronunciar',
+                italian: 'pronunciare',
+                portuguese: 'pronunciar',
+                french: 'prononcer'
+            },
+            629: {
+                english: 'village',
+                spanish: 'pueblo',
+                italian: 'villagio',
+                portuguese: 'aldeia',
+                french: 'village'
+            },
+            630: {
+                english: 'to silence',
+                spanish: 'callar',
+                italian: 'tacere',
+                portuguese: 'calar',
+                french: 'taire'
             }
         }
     }
