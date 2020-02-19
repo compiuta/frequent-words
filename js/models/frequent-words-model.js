@@ -4468,6 +4468,76 @@
                 italian: 'tacere',
                 portuguese: 'calar',
                 french: 'taire'
+            },
+            631: {
+                english: 'envy',
+                spanish: 'envidia',
+                italian: 'invidia',
+                portuguese: 'inveja',
+                french: 'envie'
+            },
+            632: {
+                english: 'noon',
+                spanish: 'mediodía',
+                italian: 'mezzogiorno',
+                portuguese: 'meio-dia',
+                french: 'midi'
+            },
+            633: {
+                english: 'together',
+                spanish: 'juntos',
+                italian: 'insieme',
+                portuguese: 'juntos',
+                french: 'ensemble'
+            },
+            634: {
+                english: 'expression',
+                spanish: 'expresión',
+                italian: 'espressione',
+                portuguese: 'expressão',
+                french: 'expression'
+            },
+            635: {
+                english: 'rain',
+                spanish: 'lluvia',
+                italian: 'pioggia',
+                portuguese: 'chuvia',
+                french: 'pluie'
+            },
+            636: {
+                english: 'support',
+                spanish: 'apoyar',
+                italian: 'appoggiaire',
+                portuguese: 'apoiar',
+                french: 'appuyer'
+            },
+            637: {
+                english: 'extend',
+                spanish: 'extender',
+                italian: 'estendere',
+                portuguese: 'estender',
+                french: 'étendre'
+            },
+            638: {
+                english: 'fight',
+                spanish: 'lucha',
+                italian: 'lota',
+                portuguese: 'uta',
+                french: 'lutte'
+            },
+            639: {
+                english: 'tremble',
+                spanish: 'temblar',
+                italian: 'tremare',
+                portuguese: 'tremer',
+                french: 'trembler'
+            },
+            640: {
+                english: 'responce',
+                spanish: 'respuesta',
+                italian: 'rispota',
+                portuguese: 'resposta',
+                french: 'réponse'
             }
         }
     }
