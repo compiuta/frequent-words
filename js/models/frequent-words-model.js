@@ -4538,6 +4538,76 @@
                 italian: 'rispota',
                 portuguese: 'resposta',
                 french: 'réponse'
+            },
+            641: {
+                english: 'thanks',
+                spanish: 'gracias',
+                italian: 'grazia',
+                portuguese: 'graça',
+                french: 'grâce'
+            },
+            642: {
+                english: 'space',
+                spanish: 'espacio',
+                italian: 'spazio',
+                portuguese: 'espaço',
+                french: 'espace'
+            },
+            643: {
+                english: 'habit',
+                spanish: 'hábito',
+                italian: 'abitudine',
+                portuguese: 'hábito',
+                french: 'habitude'
+            },
+            644: {
+                english: 'defend',
+                spanish: 'defender',
+                italian: 'difendere',
+                portuguese: 'defender',
+                french: 'défendre'
+            },
+            645: {
+                english: 'memory',
+                spanish: 'memoria',
+                italian: 'memoria',
+                portuguese: 'memória',
+                french: 'mémoire'
+            },
+            646: {
+                english: 'create',
+                spanish: 'crear',
+                italian: 'creare',
+                portuguese: 'criar',
+                french: 'créer'
+            },
+            647: {
+                english: 'grave',
+                spanish: 'grave',
+                italian: 'grave',
+                portuguese: 'grave',
+                french: 'grave'
+            },
+            648: {
+                english: 'maintain',
+                spanish: 'mantener',
+                italian: 'mantenere',
+                portuguese: 'manter',
+                french: 'maintenir'
+            },
+            649: {
+                english: 'glass',
+                spanish: 'vidrio',
+                italian: 'vetro',
+                portuguese: 'vidro',
+                french: 'verre'
+            },
+            650: {
+                english: 'campaign',
+                spanish: 'campaña',
+                italian: 'campagna',
+                portuguese: 'campanha',
+                french: 'campagne'
             }
         }
     }
