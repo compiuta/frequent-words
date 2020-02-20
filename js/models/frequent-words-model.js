@@ -4608,6 +4608,76 @@
                 italian: 'campagna',
                 portuguese: 'campanha',
                 french: 'campagne'
+            },
+            651: {
+                english: 'judge',
+                spanish: 'juez',
+                italian: 'giudice',
+                portuguese: 'juiz',
+                french: 'juge'
+            },
+            652: {
+                english: 'knee',
+                spanish: 'rodilla',
+                italian: 'gionicchio',
+                portuguese: 'joelho',
+                french: 'genou'
+            },
+            653: {
+                english: 'impossible',
+                spanish: 'imposible',
+                italian: 'impossibile',
+                portuguese: 'impossível',
+                french: 'impossible'
+            },
+            654: {
+                english: 'party',
+                spanish: 'fiesta',
+                italian: 'festa',
+                portuguese: 'festa',
+                french: 'fête'
+            },
+            655: {
+                english: 'indicate',
+                spanish: 'indicar',
+                italian: 'indicare',
+                portuguese: 'indicar',
+                french: 'indiquer'
+            },
+            656: {
+                english: 'ready',
+                spanish: 'listo',
+                italian: 'pronto',
+                portuguese: 'pronto',
+                french: 'prêt'
+            },
+            657: {
+                english: 'promise',
+                spanish: 'prometer',
+                italian: 'promettere',
+                portuguese: 'prometer',
+                french: 'promettre'
+            },
+            658: {
+                english: 'abandon',
+                spanish: 'abandonar',
+                italian: 'abbandonare',
+                portuguese: 'abandonar',
+                french: 'abandonner'
+            },
+            659: {
+                english: 'ignor',
+                spanish: 'ignorar',
+                italian: 'ignorare',
+                portuguese: 'ignorar',
+                french: 'ignorer'
+            },
+            660: {
+                english: 'large',
+                spanish: 'amplio',
+                italian: 'ampio',
+                portuguese: 'amplo',
+                french: 'large'
             }
         }
     }
