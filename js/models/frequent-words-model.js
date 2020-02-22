@@ -4678,6 +4678,76 @@
                 italian: 'ampio',
                 portuguese: 'amplo',
                 french: 'large'
+            },
+            661: {
+                english: 'parent',
+                spanish: 'padre',
+                italian: 'genitore',
+                portuguese: 'parente',
+                french: 'parent'
+            },
+            662: {
+                english: 'anger',
+                spanish: 'rabia',
+                italian: 'rabbia',
+                portuguese: 'raiva',
+                french: 'colère'
+            },
+            663: {
+                english: 'express',
+                spanish: 'expresar',
+                italian: 'esprimere',
+                portuguese: 'expressar',
+                french: 'exprimer'
+            },
+            664: {
+                english: 'star',
+                spanish: 'estrella',
+                italian: 'stella',
+                portuguese: 'estrela',
+                french: 'étoile'
+            },
+            665: {
+                english: 'conscience',
+                spanish: 'conciencia',
+                italian: 'coscienza',
+                portuguese: 'consciência',
+                french: 'conscience'
+            },
+            666: {
+                english: 'existence',
+                spanish: 'existencia',
+                italian: 'esistenza',
+                portuguese: 'existência',
+                french: 'existence'
+            },
+            667: {
+                english: 'accompany',
+                spanish: 'acompañar',
+                italian: 'accompagnare',
+                portuguese: 'acompanhar',
+                french: 'accompagner'
+            },
+            668: {
+                english: 'immobile',
+                spanish: 'inmóvil ',
+                italian: 'immobile',
+                portuguese: 'imóvel',
+                french: 'immobile'
+            },
+            669: {
+                english: 'address',
+                spanish: 'dirigir',
+                italian: 'rivolgere',
+                portuguese: 'dirigir',
+                french: 'adresser'
+            },
+            670: {
+                english: 'observe',
+                spanish: 'observar',
+                italian: 'osservare',
+                portuguese: 'observar',
+                french: 'observer'
             }
         }
     }
