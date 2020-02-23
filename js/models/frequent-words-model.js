@@ -2968,7 +2968,7 @@
                 spanish: 'traer',
                 italian: 'aportare',
                 portuguese: 'trazer',
-                french: 'apporter'
+                french: 'apporter/amener'
             },
             417: {
                 english: 'window',
@@ -4818,6 +4818,76 @@
                 italian: 'inverno',
                 portuguese: 'inverno',
                 french: 'hiver'
+            },
+            681: {
+                english: 'return',
+                spanish: 'retorno',
+                italian: 'ritorno',
+                portuguese: 'retorno',
+                french: 'retour'
+            },
+            682: {
+                english: 'genre',
+                spanish: 'género',
+                italian: 'genere',
+                portuguese: 'gênero',
+                french: 'genre'
+            },
+            683: {
+                english: 'oblige',
+                spanish: 'obligar',
+                italian: 'obbligare',
+                portuguese: 'obrigar',
+                french: 'obliger'
+            },
+            684: {
+                english: 'act',
+                spanish: 'acto',
+                italian: 'atto',
+                portuguese: 'acto',
+                french: 'acte'
+            },
+            685: {
+                english: 'image',
+                spanish: 'imagen',
+                italian: 'immagine',
+                portuguese: 'imagem',
+                french: 'image'
+            },
+            686: {
+                english: 'horizon',
+                spanish: 'horizonte',
+                italian: 'orizzonte',
+                portuguese: 'horizonte',
+                french: 'horizon'
+            },
+            687: {
+                english: 'illuminate',
+                spanish: 'iluminar',
+                italian: 'illuminare',
+                portuguese: 'iluminar',
+                french: 'éclairer'
+            },
+            688: {
+                english: 'danger',
+                spanish: 'peligro',
+                italian: 'pericolo',
+                portuguese: 'perigo',
+                french: 'danger'
+            },
+            689: {
+                english: 'deliver',
+                spanish: 'entregar',
+                italian: 'consegnare',
+                portuguese: 'entegrar',
+                french: 'livrer'
+            },
+            690: {
+                english: 'role',
+                spanish: 'rol',
+                italian: 'ruolo',
+                portuguese: 'papel',
+                french: 'rôle'
             }
         }
     }
