@@ -4748,6 +4748,76 @@
                 italian: 'osservare',
                 portuguese: 'observar',
                 french: 'observer'
+            },
+            671: {
+                english: 'just',
+                spanish: 'sólo',
+                italian: 'solo',
+                portuguese: 'só',
+                french: 'juste'
+            },
+            672: {
+                english: 'potency',
+                spanish: 'potencia',
+                italian: 'potenza',
+                portuguese: 'potência',
+                french: 'puissance'
+            },
+            673: {
+                english: 'matter',
+                spanish: 'materia',
+                italian: 'materia',
+                portuguese: 'matéria',
+                french: 'matière'
+            },
+            674: {
+                english: 'sand',
+                spanish: 'arena',
+                italian: 'sabbia',
+                portuguese: 'areia',
+                french: 'sable'
+            },
+            675: {
+                english: 'seperate',
+                spanish: 'separar',
+                italian: 'separare',
+                portuguese: 'separar',
+                french: 'séparer'
+            },
+            676: {
+                english: 'marry',
+                spanish: 'casar',
+                italian: 'sposare',
+                portuguese: 'casar',
+                french: 'marier'
+            },
+            677: {
+                english: 'provide',
+                spanish: 'prever',
+                italian: 'prevedere',
+                portuguese: 'prever',
+                french: 'prévoir'
+            },
+            678: {
+                english: 'living',
+                spanish: 'vivo',
+                italian: 'vivo',
+                portuguese: 'vivo',
+                french: 'vivant'
+            },
+            679: {
+                english: 'agreement',
+                spanish: 'acuerdo',
+                italian: 'accordo',
+                portuguese: 'acordo',
+                french: 'accord'
+            },
+            680: {
+                english: 'winter',
+                spanish: 'invierno',
+                italian: 'inverno',
+                portuguese: 'inverno',
+                french: 'hiver'
             }
         }
     }
