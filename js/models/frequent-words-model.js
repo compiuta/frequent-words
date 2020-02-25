@@ -118,7 +118,7 @@
                 spanish: 'esto',
                 italian: 'questo',
                 portuguese: 'isto',
-                french: 'ce'
+                french: 'ce/ceci'
             },
             15: {
                 english: 'in',
@@ -4888,6 +4888,76 @@
                 italian: 'ruolo',
                 portuguese: 'papel',
                 french: 'rôle'
+            },
+            691: {
+                english: 'stair',
+                spanish: 'escalera',
+                italian: 'scala',
+                portuguese: 'escada',
+                french: 'escalier'
+            },
+            692: {
+                english: 'taste',
+                spanish: 'gusto',
+                italian: 'gusto',
+                portuguese: 'gosto',
+                french: 'goût'
+            },
+            693: {
+                english: 'beast',
+                spanish: 'bestia',
+                italian: 'bestia',
+                portuguese: 'besta',
+                french: 'bête'
+            },
+            694: {
+                english: 'research',
+                spanish: 'investigación',
+                italian: 'ricerca',
+                portuguese: 'pesquisa',
+                french: 'recherche'
+            },
+            695: {
+                english: 'member',
+                spanish: 'miembro',
+                italian: 'membro',
+                portuguese: 'membro',
+                french: 'membre'
+            },
+            696: {
+                english: 'bread',
+                spanish: 'pan',
+                italian: 'pane',
+                portuguese: 'pão',
+                french: 'pain'
+            },
+            697: {
+                english: 'phrase',
+                spanish: 'frase',
+                italian: 'frase',
+                portuguese: 'frase',
+                french: 'phrase'
+            },
+            698: {
+                english: 'contain',
+                spanish: 'contener',
+                italian: 'contenere',
+                portuguese: 'conter',
+                french: 'contenir'
+            },
+            699: {
+                english: 'flee',
+                spanish: 'huir',
+                italian: 'fuggire',
+                portuguese: 'fugir',
+                french: 'fuir'
+            },
+            700: {
+                english: 'sink',
+                spanish: 'hundir',
+                italian: 'affondare',
+                portuguese: 'afundar',
+                french: 'couler'
             }
         }
     }
