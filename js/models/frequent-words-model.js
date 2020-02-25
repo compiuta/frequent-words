@@ -1893,7 +1893,7 @@
                 french: 'matin'
             },
             268: {
-                english: 'rock',
+                english: 'stone',
                 spanish: 'piedra',
                 italian: 'pietra',
                 portuguese: 'pedra',
@@ -2077,7 +2077,7 @@
             294: {
                 english: 'sort',
                 spanish: 'tipo',
-                italian: 'tipo',
+                italian: 'sorta',
                 portuguese: 'tipo',
                 french: 'sorte'
             },
@@ -4958,6 +4958,76 @@
                 italian: 'affondare',
                 portuguese: 'afundar',
                 french: 'couler'
+            },
+            701: {
+                english: 'term',
+                spanish: 'término',
+                italian: 'termine',
+                portuguese: 'termo',
+                french: 'terme'
+            },
+            702: {
+                english: 'police',
+                spanish: 'policia',
+                italian: 'polizia',
+                portuguese: 'polícia',
+                french: 'police'
+            },
+            703: {
+                english: 'rock',
+                spanish: 'roca',
+                italian: 'roccia',
+                portuguese: 'rocha',
+                french: 'rocher'
+            },
+            704: {
+                english: 'propose',
+                spanish: 'proponer',
+                italian: 'proporre',
+                portuguese: 'propor',
+                french: 'proposer'
+            },
+            705: {
+                english: 'tranquil',
+                spanish: 'tranquilo',
+                italian: 'tranquillo',
+                portuguese: 'tranquilo',
+                french: 'tranquille'
+            },
+            706: {
+                english: 'unique',
+                spanish: 'único',
+                italian: 'unico',
+                portuguese: 'único',
+                french: 'unique'
+            },
+            707: {
+                english: 'prove',
+                spanish: 'demprobarostrar',
+                italian: 'provare',
+                portuguese: 'provar',
+                french: 'éprouver'
+            },
+            708: {
+                english: 'retain',
+                spanish: 'retener',
+                italian: 'trattenere',
+                portuguese: 'reter',
+                french: 'retenir'
+            },
+            709: {
+                english: 'type',
+                spanish: 'tipo',
+                italian: 'tipo',
+                portuguese: 'tipo',
+                french: 'type'
+            },
+            710: {
+                english: 'wine',
+                spanish: 'vino',
+                italian: 'vino',
+                portuguese: 'vinho',
+                french: 'vin'
             }
         }
     }
