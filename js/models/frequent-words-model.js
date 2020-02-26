@@ -5028,6 +5028,76 @@
                 italian: 'vino',
                 portuguese: 'vinho',
                 french: 'vin'
+            },
+            711: {
+                english: 'superior',
+                spanish: 'superior',
+                italian: 'superiore',
+                portuguese: 'superior',
+                french: 'supérieur'
+            },
+            712: {
+                english: 'attach',
+                spanish: 'atarse',
+                italian: 'allegare',
+                portuguese: 'anexar',
+                french: 'attacher'
+            },
+            713: {
+                english: 'steal',
+                spanish: 'robar',
+                italian: 'rubare',
+                portuguese: 'roubar',
+                french: 'dérober/voler'
+            },
+            714: {
+                english: 'dry',
+                spanish: 'seco',
+                italian: 'secco',
+                portuguese: 'seco',
+                french: 'sec'
+            },
+            715: {
+                english: 'justice',
+                spanish: 'justicia',
+                italian: 'giustizia',
+                portuguese: 'justiça',
+                french: 'justice'
+            },
+            716: {
+                english: 'epoch',
+                spanish: 'época',
+                italian: 'epoca',
+                portuguese: 'época',
+                french: 'époque'
+            },
+            717: {
+                english: 'passage',
+                spanish: 'pasaje',
+                italian: 'passaggio',
+                portuguese: 'passagem',
+                french: 'passage'
+            },
+            718: {
+                english: 'sum',
+                spanish: 'suma',
+                italian: 'somma',
+                portuguese: 'soma',
+                french: 'somme'
+            },
+            719: {
+                english: 'science',
+                spanish: 'ciencia',
+                italian: 'scienza',
+                portuguese: 'ciência',
+                french: 'science'
+            },
+            720: {
+                english: 'surprise',
+                spanish: 'sorprender',
+                italian: 'sorprendere',
+                portuguese: 'surpreender',
+                french: 'surprendre'
             }
         }
     }
