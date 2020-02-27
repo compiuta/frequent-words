@@ -5098,6 +5098,76 @@
                 italian: 'sorprendere',
                 portuguese: 'surpreender',
                 french: 'surprendre'
+            },
+            721: {
+                english: 'softly',
+                spanish: 'suavemente',
+                italian: 'morbidemente',
+                portuguese: 'suavemente',
+                french: 'doucement'
+            },
+            722: {
+                english: 'left',
+                spanish: 'izquierda',
+                italian: 'sinistra',
+                portuguese: 'esquerda',
+                french: 'gauche'
+            },
+            723: {
+                english: 'fault',
+                spanish: 'culpa',
+                italian: 'colpa',
+                portuguese: 'culpa',
+                french: 'faute'
+            },
+            724: {
+                english: 'school',
+                spanish: 'escuela',
+                italian: 'scuola',
+                portuguese: 'escola',
+                french: 'école'
+            },
+            725: {
+                english: 'good',
+                spanish: 'bueno',
+                italian: 'buon',
+                portuguese: 'bom',
+                french: 'bon'
+            },
+            726: {
+                english: 'radius',
+                spanish: 'radio',
+                italian: 'raggio',
+                portuguese: 'raio',
+                french: 'rayon'
+            },
+            727: {
+                english: 'break',
+                spanish: 'romper',
+                italian: 'rompere',
+                portuguese: 'romper',
+                french: 'briser'
+            },
+            728: {
+                english: 'subject',
+                spanish: 'asunto',
+                italian: 'soggetto',
+                portuguese: 'assunto',
+                french: 'sujet'
+            },
+            729: {
+                english: 'imagine',
+                spanish: 'imaginarse',
+                italian: 'immaginare',
+                portuguese: 'imaginar',
+                french: 'imaginer'
+            },
+            730: {
+                english: 'direct',
+                spanish: 'dirigir',
+                italian: 'dirigere',
+                portuguese: 'dirigir',
+                french: 'diriger'
             }
         }
     }
