@@ -1995,7 +1995,7 @@
                 spanish: 'mejor',
                 italian: 'meglio',
                 portuguese: 'melhor ',
-                french: 'mieux'
+                french: 'mieux/meilleur'
             },
             283: {
                 english: 'penalty',
@@ -3934,7 +3934,7 @@
                 spanish: 'lograr',
                 italian: 'raggiungere',
                 portuguese: 'atingir',
-                french: 'atteindre'
+                french: 'atteindre/parvenir'
             },
             555: {
                 english: 'cloud',
@@ -5168,6 +5168,48 @@
                 italian: 'dirigere',
                 portuguese: 'dirigir',
                 french: 'diriger'
+            },
+            731: {
+                english: 'twelve',
+                spanish: 'doce',
+                italian: 'dodici',
+                portuguese: 'doze',
+                french: 'douze'
+            },
+            732: {
+                english: 'notice',
+                spanish: 'aviso',
+                italian: 'avviso',
+                portuguese: 'aviso',
+                french: 'avis'
+            },
+            733: {
+                english: 'open',
+                spanish: 'abierto',
+                italian: 'aperto',
+                portuguese: 'aberto',
+                french: 'ouvert'
+            },
+            734: {
+                english: 'poet',
+                spanish: 'poeta',
+                italian: 'poeta',
+                portuguese: 'poeta',
+                french: 'poète'
+            },
+            735: {
+                english: 'farmer',
+                spanish: 'campesino',
+                italian: 'paesano',
+                portuguese: 'camponês',
+                french: 'paysan'
+            },
+            736: {
+                english: 'remark',
+                spanish: 'notar',
+                italian: 'notare',
+                portuguese: 'notar',
+                french: 'remarquer'
             }
         }
     }
