@@ -5210,6 +5210,48 @@
                 italian: 'notare',
                 portuguese: 'notar',
                 french: 'remarquer'
+            },
+            737: {
+                english: 'chair',
+                spanish: 'silla',
+                italian: 'sedia',
+                portuguese: 'cadeira',
+                french: 'chair'
+            },
+            738: {
+                english: 'avoid',
+                spanish: 'evitar',
+                italian: 'evitare',
+                portuguese: 'evitar',
+                french: 'éviter'
+            },
+            739: {
+                english: 'suddenly',
+                spanish: 'repente',
+                italian: 'improvviso',
+                portuguese: 'repente',
+                french: 'soudain'
+            },
+            740: {
+                english: 'succes',
+                spanish: 'éxito',
+                italian: 'successo',
+                portuguese: 'sucesos',
+                french: 'succès'
+            },
+            741: {
+                english: 'island',
+                spanish: 'isla',
+                italian: 'isola',
+                portuguese: 'ilha',
+                french: 'île'
+            },
+            742: {
+                english: 'establish',
+                spanish: 'estabelecer',
+                italian: 'stabilire',
+                portuguese: 'estabelecer',
+                french: 'établir'
             }
         }
     }
