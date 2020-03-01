@@ -5252,6 +5252,62 @@
                 italian: 'stabilire',
                 portuguese: 'estabelecer',
                 french: 'établir'
+            },
+            743: {
+                english: 'succeed',
+                spanish: 'lograr',
+                italian: 'riuscire',
+                portuguese: 'conseguir',
+                french: 'réussir'
+            },
+            744: {
+                english: 'leaning',
+                spanish: 'inclinado',
+                italian: 'inclinato',
+                portuguese: 'inclinado',
+                french: 'pencher'
+            },
+            745: {
+                english: 'live',
+                spanish: 'vivir',
+                italian: 'abitare',
+                portuguese: 'morar',
+                french: 'habiter'
+            },
+            746: {
+                english: 'surround',
+                spanish: 'rodear',
+                italian: 'circondare',
+                portuguese: 'rodear',
+                french: 'entourer'
+            },
+            747: {
+                english: 'declare',
+                spanish: 'declarar',
+                italian: 'dichiarare',
+                portuguese: 'declarar',
+                french: 'déclarer'
+            },
+            748: {
+                english: 'detail',
+                spanish: 'detalle',
+                italian: 'dettaglio',
+                portuguese: 'detalhe',
+                french: 'détail'
+            },
+            749: {
+                english: 'arms',
+                spanish: 'arma',
+                italian: 'arma',
+                portuguese: 'arma',
+                french: 'arme'
+            },
+            750: {
+                english: 'reality',
+                spanish: 'realidad',
+                italian: 'realtà',
+                portuguese: 'realidade',
+                french: 'réalité'
             }
         }
     }
