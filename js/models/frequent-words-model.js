@@ -5308,6 +5308,76 @@
                 italian: 'realtà',
                 portuguese: 'realidade',
                 french: 'réalité'
+            },
+            751: {
+                english: 'confidence',
+                spanish: 'confianza',
+                italian: 'fiducia',
+                portuguese: 'confiança',
+                french: 'confiance'
+            },
+            752: {
+                english: 'mass',
+                spanish: 'masa',
+                italian: 'massa',
+                portuguese: 'massa',
+                french: 'masse'
+            },
+            753: {
+                english: 'crisis',
+                spanish: 'crisis',
+                italian: 'crisi',
+                portuguese: 'crise',
+                french: 'crise'
+            },
+            754: {
+                english: 'astonished',
+                spanish: 'asombrado',
+                italian: 'attonito',
+                portuguese: 'surpreso',
+                french: 'étonner'
+            },
+            755: {
+                english: 'post',
+                spanish: 'puesto',
+                italian: 'posto',
+                portuguese: 'posto',
+                french: 'poste'
+            },
+            756: {
+                english: 'last',
+                spanish: 'durar',
+                italian: 'durare',
+                portuguese: 'durar',
+                french: 'durer'
+            },
+            757: {
+                english: 'false',
+                spanish: 'falso',
+                italian: 'falso',
+                portuguese: 'falso',
+                french: 'faux'
+            },
+            758: {
+                english: 'fix',
+                spanish: 'fijar',
+                italian: 'fissare',
+                portuguese: 'fixar',
+                french: 'fixer'
+            },
+            759: {
+                english: 'enormous',
+                spanish: 'enorme',
+                italian: 'enorme',
+                portuguese: 'enorme',
+                french: 'énorme'
+            },
+            760: {
+                english: 'principle',
+                spanish: 'principio',
+                italian: 'principio',
+                portuguese: 'principio',
+                french: 'principe'
             }
         }
     }
