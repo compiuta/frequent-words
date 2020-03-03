@@ -5378,6 +5378,76 @@
                 italian: 'principio',
                 portuguese: 'principio',
                 french: 'principe'
+            },
+            761: {
+                english: 'direction',
+                spanish: 'dirección',
+                italian: 'direzione',
+                portuguese: 'direcção',
+                french: 'direction'
+            },
+            762: {
+                english: 'size',
+                spanish: 'talla',
+                italian: 'taglia',
+                portuguese: 'tamanho',
+                french: 'taille'
+            },
+            763: {
+                english: 'desire',
+                spanish: 'desear',
+                italian: 'desiderare',
+                portuguese: 'desejar',
+                french: 'désirer'
+            },
+            764: {
+                english: 'health',
+                spanish: 'salud',
+                italian: 'salute',
+                portuguese: 'saúde',
+                french: 'santé'
+            },
+            765: {
+                english: 'belly',
+                spanish: 'vientre',
+                italian: 'ventre',
+                portuguese: 'ventre',
+                french: 'ventre'
+            },
+            766: {
+                english: 'market',
+                spanish: 'mercado',
+                italian: 'mercato',
+                portuguese: 'mercado',
+                french: 'marché'
+            },
+            767: {
+                english: 'powerful',
+                spanish: 'poderoso',
+                italian: 'potente',
+                portuguese: 'poderoso',
+                french: 'puissant'
+            },
+            768: {
+                english: 'simply',
+                spanish: 'simplemente',
+                italian: 'simplesmente',
+                portuguese: 'semplicemente',
+                french: 'simplement'
+            },
+            769: {
+                english: 'about',
+                spanish: 'aproximadamente',
+                italian: 'circa',
+                portuguese: 'aproximadamente',
+                french: 'environ'
+            },
+            770: {
+                english: 'so/such',
+                spanish: 'tan',
+                italian: 'talmente',
+                portuguese: 'tão',
+                french: 'tellement'
             }
         }
     }
