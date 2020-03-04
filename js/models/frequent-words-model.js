@@ -5448,6 +5448,76 @@
                 italian: 'talmente',
                 portuguese: 'tão',
                 french: 'tellement'
+            },
+            771: {
+                english: 'rip',
+                spanish: 'arrancar',
+                italian: 'strappare',
+                portuguese: 'arrancar',
+                french: 'arracher'
+            },
+            772: {
+                english: 'train',
+                spanish: 'entrenar',
+                italian: 'allenare',
+                portuguese: 'treinar',
+                french: 'entraîner'
+            },
+            773: {
+                english: 'support',
+                spanish: 'sostener',
+                italian: 'sostenere',
+                portuguese: 'apoiar',
+                french: 'soutenir'
+            },
+            774: {
+                english: 'cut',
+                spanish: 'cortar',
+                italian: 'tagliare',
+                portuguese: 'cortar',
+                french: 'couper'
+            },
+            775: {
+                english: 'hole',
+                spanish: 'agujero',
+                italian: 'buco',
+                portuguese: 'buraco',
+                french: 'trou'
+            },
+            776: {
+                english: 'unknown',
+                spanish: 'desconocido',
+                italian: 'sconosciuto',
+                portuguese: 'desconhecido',
+                french: 'inconnu'
+            },
+            777: {
+                english: 'bridge',
+                spanish: 'puente',
+                italian: 'ponte',
+                portuguese: 'ponte',
+                french: 'pont'
+            },
+            778: {
+                english: 'moon',
+                spanish: 'luna',
+                italian: 'luna',
+                portuguese: 'lua',
+                french: 'lune'
+            },
+            779: {
+                english: 'outside',
+                spanish: 'afuera',
+                italian: 'fora',
+                portuguese: 'fuori',
+                french: 'dehors'
+            },
+            780: {
+                english: 'certainly',
+                spanish: 'ciertamente',
+                italian: 'certo',
+                portuguese: 'certamente ',
+                french: 'certes'
             }
         }
     }
