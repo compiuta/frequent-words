@@ -5518,6 +5518,41 @@
                 italian: 'certo',
                 portuguese: 'certamente ',
                 french: 'certes'
+            },
+            781: {
+                english: 'beautiful',
+                spanish: 'bellos',
+                italian: 'belli',
+                portuguese: 'belos',
+                french: 'beaux'
+            },
+            782: {
+                english: 'dress',
+                spanish: 'vestido',
+                italian: 'vestito',
+                portuguese: 'vestido',
+                french: 'robe'
+            },
+            783: {
+                english: 'doubt',
+                spanish: 'dudar',
+                italian: 'duitare',
+                portuguese: 'duvidar',
+                french: 'douter'
+            },
+            784: {
+                english: 'remove',
+                spanish: 'retirar',
+                italian: 'ritirare',
+                portuguese: 'retirar',
+                french: 'retirer'
+            },
+            785: {
+                english: 'unceasingly',
+                spanish: 'incesantemente',
+                italian: 'incessantemente',
+                portuguese: 'incessantemente',
+                french: 'cesse'
             }
         }
     }
