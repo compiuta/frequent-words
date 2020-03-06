@@ -5553,6 +5553,41 @@
                 italian: 'incessantemente',
                 portuguese: 'incessantemente',
                 french: 'cesse'
+            },
+            786: {
+                english: 'abruptly',
+                spanish: 'bruscamente',
+                italian: 'bruscamente',
+                portuguese: 'bruscamente',
+                french: 'brusquement'
+            },
+            787: {
+                english: 'entry',
+                spanish: 'entrada',
+                italian: 'entrata',
+                portuguese: 'entrada',
+                french: 'entrée'
+            },
+            788: {
+                english: 'source',
+                spanish: 'fuente',
+                italian: 'fonte',
+                portuguese: 'fonte',
+                french: 'source'
+            },
+            789: {
+                english: 'comrade',
+                spanish: 'camarada',
+                italian: 'compagno',
+                portuguese: 'camarada',
+                french: 'camarade'
+            },
+            790: {
+                english: 'tooth',
+                spanish: 'diente',
+                italian: 'dente',
+                portuguese: 'dente',
+                french: 'dent'
             }
         }
     }
