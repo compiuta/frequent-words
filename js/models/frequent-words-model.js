@@ -5588,6 +5588,41 @@
                 italian: 'dente',
                 portuguese: 'dente',
                 french: 'dent'
+            },
+            791: {
+                english: 'knowledge',
+                spanish: 'conocimiento',
+                italian: 'conoscenza',
+                portuguese: 'conhecimiento',
+                french: 'connaissance'
+            },
+            792: {
+                english: 'neck',
+                spanish: 'cuello',
+                italian: 'collo',
+                portuguese: 'pescoço',
+                french: 'cou'
+            },
+            793: {
+                english: 'purpose',
+                spanish: 'propósito',
+                italian: 'proposito',
+                portuguese: 'propósito',
+                french: 'but'
+            },
+            794: {
+                english: 'walking',
+                spanish: 'caminando',
+                italian: 'camminato',
+                portuguese: 'caminhado',
+                french: 'promener'
+            },
+            795: {
+                english: 'wave',
+                spanish: 'ola',
+                italian: 'onda',
+                portuguese: 'onda',
+                french: 'vague'
             }
         }
     }
