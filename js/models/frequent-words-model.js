@@ -5623,6 +5623,41 @@
                 italian: 'onda',
                 portuguese: 'onda',
                 french: 'vague'
+            },
+            796: {
+                english: 'element',
+                spanish: 'elemento',
+                italian: 'elemento',
+                portuguese: 'elemento',
+                french: 'élément'
+            },
+            797: {
+                english: 'wire',
+                spanish: 'hilo',
+                italian: 'filo',
+                portuguese: 'fio',
+                french: 'fil'
+            },
+            798: {
+                english: 'way',
+                spanish: 'vía',
+                italian: 'via',
+                portuguese: 'via',
+                french: 'voie'
+            },
+            799: {
+                english: 'nose',
+                spanish: 'nariz',
+                italian: 'naso',
+                portuguese: 'nariz',
+                french: 'nez'
+            },
+            800: {
+                english: 'force',
+                spanish: 'forzar',
+                italian: 'forzare',
+                portuguese: 'forçar',
+                french: 'forcer'
             }
         }
     }
