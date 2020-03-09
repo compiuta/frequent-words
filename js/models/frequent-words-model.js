@@ -5658,6 +5658,41 @@
                 italian: 'forzare',
                 portuguese: 'forçar',
                 french: 'forcer'
+            },
+            801: {
+                english: 'particular',
+                spanish: 'particular',
+                italian: 'particolare',
+                portuguese: 'particular',
+                french: 'particulier'
+            },
+            802: {
+                english: 'discourse',
+                spanish: 'discurso',
+                italian: 'discorso',
+                portuguese: 'discurso',
+                french: 'discours'
+            },
+            803: {
+                english: 'illness',
+                spanish: 'enfermedad',
+                italian: 'malattia',
+                portuguese: 'doença',
+                french: 'maladie'
+            },
+            804: {
+                english: 'heat',
+                spanish: 'calor',
+                italian: 'calore',
+                portuguese: 'calor',
+                french: 'chaleur'
+            },
+            805: {
+                english: 'glory',
+                spanish: 'gloria',
+                italian: 'gloria',
+                portuguese: 'glória',
+                french: 'gloire'
             }
         }
     }
