@@ -19,6 +19,10 @@
             paginationElement.setAttribute('data-pagination', 'element');
             paginationElement.setAttribute('href', 'javascript:void(0);')
             paginationElement.classList.add('pagination-index');
+
+            if(index === 1) {
+                paginationElement.classList.add('active-pagination');
+            }
             paginationElement.innerText = index;
 
             paginationElement.addEventListener('click', app.frequentWordsController.startPagination)
