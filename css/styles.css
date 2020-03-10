@@ -80,7 +80,13 @@
 
 .translated-words-container {
     display: flex;
-    justify-content: center;
+    overflow: auto;
+}
+
+.translated-word-content {
+    display: flex;
+    margin: 0 auto;
+
 }
 
 .translated-word-wrap {
@@ -311,6 +317,16 @@
 }
 
 @media only screen and (max-width: 992px) {
+
+    .pagination-container {
+        max-height: 100%;
+        overflow: auto;
+    }
+
+    .pagination-index {
+        flex-shrink: 0;
+    }
+    
     .word-container {
         width: 100%;
         overflow: auto;
