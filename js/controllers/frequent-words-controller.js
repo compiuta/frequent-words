@@ -5,6 +5,28 @@
         init: function(){
             app.frequentWordsView.init(app.frequentWordsController.setLanguage, app.frequentWordsController.populateTable);
             app.frequentWordsView.render(app.frequentWordsModel.wordList, app.frequentWordsModel.languageSetting.chosenLanguage, app.frequentWordsModel.languageSetting.languageCode);
+            app.frequentWordsView.createPagination(Object.keys(app.frequentWordsModel.wordList).length);
+        },
+        setMaxWordCount: function() {
+            let maxWordCount = app.frequentWordsModel.currentWordrange + 100;
+
+            if(maxWordCount > Object.keys(app.frequentWordsModel.wordList).length) {
+                maxWordCount = Object.keys(app.frequentWordsModel.wordList).length;
+            }
+
+            app.frequentWordsModel.currentWordRange = maxWordCount;
+
+            return maxWordCount;
+        },
+        setMinWordCount: function(maxWordCount) {
+            let minWordCount = maxWordCount - 100;
+
+            return minWordCount
+        },
+        startPagination: function() {
+            app.frequentWordsView.setActivePagination(this);
+            app.frequentWordsModel.currentWordrange = parseInt(this.dataset.paginationStart);
+            app.frequentWordsView.render(app.frequentWordsModel.wordList, app.frequentWordsModel.languageSetting.chosenLanguage, app.frequentWordsModel.languageSetting.languageCode);
         },
         toggleTableLanguage: function() {
             const cellClassSelected = this.dataset.table + '-cell';
@@ -46,6 +68,7 @@
             }
         },  
         populateTable: function() {
+            
             app.frequentWordsView.appContainer.innerHTML = '';
             const tableWrap = document.createElement('div');
             const wordTable = document.createElement('table');
@@ -192,8 +215,12 @@
             app.frequentWordsView.languageFlagSelected.classList.add(app.frequentWordsModel.languageSetting.chosenLanguage);
             
             if(app.frequentWordsModel.languageSetting.chosenLanguage === 'all') {
+                app.frequentWordsView.togglePagination();
                 app.frequentWordsView.languageNameSelected.innerText = '';
             } else {
+                if(app.frequentWordsView.paginationContainer.classList.contains('hide')) {
+                    app.frequentWordsView.togglePagination();
+                }
                 app.frequentWordsView.languageNameSelected.innerText = languageName;
 
                 app.frequentWordsView.render(app.frequentWordsModel.wordList, app.frequentWordsModel.languageSetting.chosenLanguage, app.frequentWordsModel.languageSetting.languageCode);
