@@ -14,6 +14,7 @@
             chosenLanguage: 'english',
             languageCode: 'en'
         },
+        currentWordrange: 0,
         wordList: {
             0: {
                 english: 'the',
