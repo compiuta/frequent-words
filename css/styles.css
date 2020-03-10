@@ -17,6 +17,37 @@
     font-weight: bold;
 }
 
+.pagination-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.pagination-index {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+    transition: background-color, color .3s ease-in-out;
+}
+
+.active-pagination {
+    background-color: #7E498C;
+}
+
+.pagination-index:hover:not(.active-pagination) {
+    color: #000;
+    background-color: #fff;
+}
+
 .main-content {
     display: flex;
     flex-wrap: wrap;
