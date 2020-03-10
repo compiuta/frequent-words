@@ -5694,6 +5694,41 @@
                 italian: 'gloria',
                 portuguese: 'glória',
                 french: 'gloire'
+            },
+            806: {
+                english: 'void',
+                spanish: 'vacío',
+                italian: 'vuoto',
+                portuguese: 'vazio',
+                french: 'vide'
+            },
+            807: {
+                english: 'examine',
+                spanish: 'examinar',
+                italian: 'esaminare',
+                portuguese: 'examinar',
+                french: 'examiner'
+            },
+            808: {
+                english: 'review',
+                spanish: 'revisar',
+                italian: 'rivedere',
+                portuguese: 'rever',
+                french: 'revoir'
+            },
+            809: {
+                english: 'aid',
+                spanish: 'ayuda',
+                italian: 'aiuto',
+                portuguese: 'ajuda',
+                french: 'aide'
+            },
+            810: {
+                english: 'beginning',
+                spanish: 'inicio',
+                italian: 'inizio',
+                portuguese: 'início',
+                french: 'début'
             }
         }
     }
