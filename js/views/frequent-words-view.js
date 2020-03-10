@@ -9,8 +9,46 @@
             frequentWordsView.languageMenu = document.querySelector('[data-container="language-menu"]');
             frequentWordsView.appContainer = document.querySelector('[data-container="app"]');
             frequentWordsView.languageChoices = document.querySelectorAll('[data-language]');
+            frequentWordsView.paginationContainer = document.querySelector('[data-ja="pagination"]');
 
             app.frequentWordsView.addEventListeners(setLanguage, populateTable);
+        },
+        createPaginationInnerElement: function(index, startCount) {
+            let paginationElement = document.createElement('a');
+            paginationElement.setAttribute('data-pagination-start', startCount);
+            paginationElement.setAttribute('data-pagination', 'element');
+            paginationElement.setAttribute('href', 'javascript:void(0);')
+            paginationElement.classList.add('pagination-index');
+            paginationElement.innerText = index;
+
+            paginationElement.addEventListener('click', app.frequentWordsController.startPagination)
+            return paginationElement;
+        },
+        createPagination: function(dataLength) {
+            let maxObjectItemCount = dataLength;
+
+            let fragment = document.createDocumentFragment();
+            let counter = 1;
+
+            for(let i = 0; i < maxObjectItemCount; i += 100) {
+                
+                let paginationElement = app.frequentWordsView.createPaginationInnerElement(counter, i);
+                fragment.appendChild(paginationElement);
+
+                counter++;
+            }
+
+            app.frequentWordsView.paginationContainer.appendChild(fragment);
+        },
+        setActivePagination: function(clickedElement) {
+            let paginationElements = document.querySelectorAll('[data-pagination="element"]');
+            paginationElements.forEach((element) => {
+                if(element === clickedElement) {
+                    element.classList.add('active-pagination');
+                } else {
+                    element.classList.remove('active-pagination');
+                }
+            });
         },
         showlanguageMenu: function() {
             app.frequentWordsView.languageMenu.classList.toggle('hide');
@@ -27,30 +65,34 @@
             app.frequentWordsView.languageSelectorButton.addEventListener('mouseover', app.frequentWordsView.showlanguageMenu);
             app.frequentWordsView.languageSelectorButton.addEventListener('mouseout', app.frequentWordsView.showlanguageMenu);
         },
+        togglePagination: function() {
+            frequentWordsView.paginationContainer.classList.toggle('hide');
+        },
         render: function(wordData, chosenLanguage, wordDataLangCode) {
             const mainContent = document.createElement('div');
             let wordContainerFragment = document.createDocumentFragment();
-    
+            let maxWordCount = app.frequentWordsController.setMaxWordCount();
+            let minWordCount = app.frequentWordsController.setMinWordCount(maxWordCount);
+
             mainContent.classList.add('main-content');
     
             app.frequentWordsView.appContainer.innerHTML = '';
         
-            for(let key in wordData) {
-
+            for(let key = minWordCount; key < maxWordCount; key++) {
                 const wordContainer = document.createElement('a');
                 const wordNumber = document.createElement('div');
                 const word = document.createElement('div');
                 const translatedWordsContainer = document.createElement('div');
                 translatedWordsContainer.classList.add('translated-words-container');
                 
-                let index = key;
-        
+                let index = key.toString().length;
+                
                     // format the number infront of the word
-                    if(index.length === 1) {
+                    if(index === 1) {
                         index = '000' + key;
-                    } else if(index.length === 2) {
+                    } else if(index === 2) {
                         index = '00' + key;
-                    } else if(index.length === 3) {
+                    } else if(index === 3) {
                         index = '0' + key;
                     }
             
