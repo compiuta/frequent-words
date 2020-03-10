@@ -87,6 +87,9 @@
                 const wordNumber = document.createElement('div');
                 const word = document.createElement('div');
                 const translatedWordsContainer = document.createElement('div');
+                const translatedWordContent = document.createElement('div');
+
+                translatedWordContent.classList.add('translated-word-content');
                 translatedWordsContainer.classList.add('translated-words-container');
                 
                 let index = key.toString().length;
@@ -156,10 +159,11 @@
 
                         }
 
-                        translatedWordsContainer.appendChild(translatedWordwrapper);
+                        translatedWordContent.appendChild(translatedWordwrapper);
                     };
                 }
-    
+                
+                translatedWordsContainer.appendChild(translatedWordContent);
                 wordContainer.appendChild(wordNumber);
                 wordContainer.appendChild(word);
                 wordContainer.appendChild(translatedWordsContainer);
