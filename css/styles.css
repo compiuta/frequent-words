@@ -23,12 +23,15 @@
     left: 0;
     display: flex;
     flex-direction: column;
+    max-height: 100vh;
+    overflow: auto;
 }
 
 .pagination-index {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
     text-decoration: none;
     background-color: #000;
     color: #fff;
@@ -317,15 +320,6 @@
 }
 
 @media only screen and (max-width: 992px) {
-
-    .pagination-container {
-        max-height: 100%;
-        overflow: auto;
-    }
-
-    .pagination-index {
-        flex-shrink: 0;
-    }
     
     .word-container {
         width: 100%;
