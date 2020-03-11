@@ -5729,6 +5729,41 @@
                 italian: 'inizio',
                 portuguese: 'início',
                 french: 'début'
+            },
+            811: {
+                english: 'enemy',
+                spanish: 'enemigo',
+                italian: 'nemico',
+                portuguese: 'inimigo',
+                french: 'ennemi'
+            },
+            812: {
+                english: 'second',
+                spanish: 'segundo',
+                italian: 'secondo',
+                portuguese: 'segundo',
+                french: 'second'
+            },
+            813: {
+                english: 'wing',
+                spanish: 'ala',
+                italian: 'ala',
+                portuguese: 'ala',
+                french: 'aile'
+            },
+            814: {
+                english: 'flame',
+                spanish: 'llama',
+                italian: 'fiamma',
+                portuguese: 'chama',
+                french: 'flamme'
+            },
+            815: {
+                english: 'heavy',
+                spanish: 'pesado',
+                italian: 'pesante',
+                portuguese: 'pesado',
+                french: 'lourd'
             }
         }
     }
