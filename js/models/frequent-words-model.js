@@ -1842,7 +1842,7 @@
                 spanish: 'verdarero',
                 italian: 'vero',
                 portuguese: 'verdadeiro',
-                french: 'vrai'
+                french: 'vrai/véritable'
             },
             261: {
                 english: 'people',
@@ -5764,6 +5764,41 @@
                 italian: 'pesante',
                 portuguese: 'pesado',
                 french: 'lourd'
+            },
+            816: {
+                english: 'breast',
+                spanish: 'seno',
+                italian: 'seno',
+                portuguese: 'seio',
+                french: 'sein'
+            },
+            817: {
+                english: 'roof',
+                spanish: 'techo',
+                italian: 'tetto',
+                portuguese: 'teto',
+                french: 'toit'
+            },
+            818: {
+                english: 'fill',
+                spanish: 'llenar',
+                italian: 'riempire',
+                portuguese: 'encher',
+                french: 'remplir'
+            },
+            819: {
+                english: 'finish',
+                spanish: 'terminar',
+                italian: 'terminare',
+                portuguese: 'terminar',
+                french: 'terminer'
+            },
+            820: {
+                english: 'vast',
+                spanish: 'vasto',
+                italian: 'vasto',
+                portuguese: 'vasto',
+                french: 'vaste'
             }
         }
     }
