@@ -5834,6 +5834,41 @@
                 italian: 'emozione',
                 portuguese: 'emoção',
                 french: 'émotion'
+            },
+            826: {
+                english: 'revolution',
+                spanish: 'revolución',
+                italian: 'revoluzione',
+                portuguese: 'revolução',
+                french: 'révolution'
+            },
+            827: {
+                english: 'theatre',
+                spanish: 'teatro',
+                italian: 'teatro',
+                portuguese: 'teatro',
+                french: 'théâtre'
+            },
+            828: {
+                english: 'army',
+                spanish: 'ejército',
+                italian: 'esercito',
+                portuguese: 'exército',
+                french: 'armée'
+            },
+            829: {
+                english: 'short',
+                spanish: 'corto',
+                italian: 'corto',
+                portuguese: 'curta',
+                french: 'court'
+            },
+            830: {
+                english: 'apartment',
+                spanish: 'apartamento',
+                italian: 'appartamento',
+                portuguese: 'apartamento',
+                french: 'appartement'
             }
         }
     }
