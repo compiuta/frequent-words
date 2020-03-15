@@ -5799,6 +5799,41 @@
                 italian: 'vasto',
                 portuguese: 'vasto',
                 french: 'vaste'
+            },
+            821: {
+                english: 'naked',
+                spanish: 'desnudo',
+                italian: 'nudo',
+                portuguese: 'nu',
+                french: 'nu'
+            },
+            822: {
+                english: 'dust',
+                spanish: 'polvo',
+                italian: 'polvere',
+                portuguese: 'pó',
+                french: 'poussière'
+            },
+            823: {
+                english: 'north',
+                spanish: 'norte',
+                italian: 'nord',
+                portuguese: 'norte',
+                french: 'nord'
+            },
+            824: {
+                english: 'attempt',
+                spanish: 'intentar',
+                italian: 'tentare',
+                portuguese: 'tentar',
+                french: 'tenter'
+            },
+            825: {
+                english: 'emotion',
+                spanish: 'emoción',
+                italian: 'emozione',
+                portuguese: 'emoção',
+                french: 'émotion'
             }
         }
     }
