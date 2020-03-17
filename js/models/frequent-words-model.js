@@ -5869,6 +5869,41 @@
                 italian: 'appartamento',
                 portuguese: 'apartamento',
                 french: 'appartement'
+            },
+            831: {
+                english: 'similar',
+                spanish: 'similar',
+                italian: 'simile',
+                portuguese: 'similar',
+                french: 'semblable'
+            },
+            832: {
+                english: 'install',
+                spanish: 'instalar',
+                italian: 'installare',
+                portuguese: 'instalar',
+                french: 'installer'
+            },
+            833: {
+                english: 'hate',
+                spanish: 'odio',
+                italian: 'odio',
+                portuguese: 'ódio',
+                french: 'haine'
+            },
+            834: {
+                english: 'position',
+                spanish: 'posición',
+                italian: 'posizione',
+                portuguese: 'posição',
+                french: 'position'
+            },
+            835: {
+                english: 'second',
+                spanish: 'segundo',
+                italian: 'secondo',
+                portuguese: 'segundo',
+                french: 'seconde'
             }
         }
     }
