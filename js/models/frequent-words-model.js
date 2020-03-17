@@ -1772,7 +1772,7 @@
                 spanish: 'levantar',
                 italian: 'alzare',
                 portuguese: 'levantar',
-                french: 'lever'
+                french: 'lever/soulever'
             },
             251: {
                 english: 'reason',
@@ -5904,6 +5904,41 @@
                 italian: 'secondo',
                 portuguese: 'segundo',
                 french: 'seconde'
+            },
+            836: {
+                english: 'fresh',
+                spanish: 'fresco',
+                italian: 'fresco',
+                portuguese: 'fresco',
+                french: 'frais'
+            },
+            837: {
+                english: 'hope',
+                spanish: 'esperanza',
+                italian: 'speranza',
+                portuguese: 'esperança',
+                french: 'espoir'
+            },
+            838: {
+                english: 'ignite',
+                spanish: 'encender',
+                italian: 'accendere',
+                portuguese: 'acender',
+                french: 'allumer'
+            },
+            839: {
+                english: 'impose',
+                spanish: 'imponer',
+                italian: 'imporre',
+                portuguese: 'impor',
+                french: 'imposer'
+            },
+            840: {
+                english: 'breathe',
+                spanish: 'respirar',
+                italian: 'respirare',
+                portuguese: 'respirar',
+                french: 'respirer'
             }
         }
     }
