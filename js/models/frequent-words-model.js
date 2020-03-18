@@ -5939,6 +5939,41 @@
                 italian: 'respirare',
                 portuguese: 'respirar',
                 french: 'respirer'
+            },
+            841: {
+                english: 'back',
+                spanish: 'atrás',
+                italian: 'posteriore',
+                portuguese: 'atrás',
+                french: 'arrière'
+            },
+            842: {
+                english: 'lower',
+                spanish: 'bajar',
+                italian: 'abbassare',
+                portuguese: 'baixar',
+                french: 'baisser'
+            },
+            843: {
+                english: 'right',
+                spanish: 'derecha',
+                italian: 'destra',
+                portuguese: 'direita',
+                french: 'droite'
+            },
+            844: {
+                english: 'chest',
+                spanish: 'pecho',
+                italian: 'petto',
+                portuguese: 'peito',
+                french: 'poitrine'
+            },
+            845: {
+                english: 'youth',
+                spanish: 'juventud',
+                italian: 'gioventù',
+                portuguese: 'juventude',
+                french: 'jeunesse'
             }
         }
     }
