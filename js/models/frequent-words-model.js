@@ -5974,6 +5974,41 @@
                 italian: 'gioventù',
                 portuguese: 'juventude',
                 french: 'jeunesse'
+            },
+            846: {
+                english: 'sack',
+                spanish: 'saco',
+                italian: 'sacco',
+                portuguese: 'saco',
+                french: 'sac'
+            },
+            847: {
+                english: 'stranger',
+                spanish: 'extraño',
+                italian: 'estraneo',
+                portuguese: 'estranho',
+                french: 'étranger'
+            },
+            848: {
+                english: 'courage',
+                spanish: 'coraje',
+                italian: 'coraggio',
+                portuguese: 'coragem',
+                french: 'courage'
+            },
+            849: {
+                english: 'blow',
+                spanish: 'soplar',
+                italian: 'soffiare',
+                portuguese: 'soprare',
+                french: 'souffler'
+            },
+            850: {
+                english: 'yellow',
+                spanish: 'amarillo',
+                italian: 'giallo',
+                portuguese: 'amarelo',
+                french: 'jaune'
             }
         }
     }
