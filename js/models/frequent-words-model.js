@@ -6009,6 +6009,41 @@
                 italian: 'giallo',
                 portuguese: 'amarelo',
                 french: 'jaune'
+            },
+            851: {
+                english: 'page',
+                spanish: 'página',
+                italian: 'pagina',
+                portuguese: 'página',
+                french: 'page'
+            },
+            852: {
+                english: 'bet',
+                spanish: 'apostar',
+                italian: 'scommettere',
+                portuguese: 'apostar',
+                french: 'miser'
+            },
+            853: {
+                english: 'past',
+                spanish: 'pasado',
+                italian: 'passato',
+                portuguese: 'passado',
+                french: 'passé'
+            },
+            854: {
+                english: 'rapid',
+                spanish: 'rápido',
+                italian: 'rapido',
+                portuguese: 'rápido',
+                french: 'rapide'
+            },
+            855: {
+                english: 'dignified',
+                spanish: 'digno',
+                italian: 'degno',
+                portuguese: 'digno',
+                french: 'digne'
             }
         }
     }
