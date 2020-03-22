@@ -6044,6 +6044,41 @@
                 italian: 'degno',
                 portuguese: 'digno',
                 french: 'digne'
+            },
+            856: {
+                english: 'hot',
+                spanish: 'caliente',
+                italian: 'caldo',
+                portuguese: 'quente',
+                french: 'chaud'
+            },
+            857: {
+                english: 'purpose',
+                spanish: 'propósito',
+                italian: 'proposito',
+                portuguese: 'propósito',
+                french: 'propos'
+            },
+            858: {
+                english: 'attract',
+                spanish: 'atraer',
+                italian: 'attirare',
+                portuguese: 'atrair',
+                french: 'attirer'
+            },
+            859: {
+                english: 'lend',
+                spanish: 'prestar',
+                italian: 'prestare',
+                portuguese: 'prestar',
+                french: 'prêter'
+            },
+            860: {
+                english: 'clear',
+                spanish: 'claro',
+                italian: 'chiaro',
+                portuguese: 'claro',
+                french: 'clair'
             }
         }
     }
