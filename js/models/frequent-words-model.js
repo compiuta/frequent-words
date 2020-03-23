@@ -6079,6 +6079,41 @@
                 italian: 'chiaro',
                 portuguese: 'claro',
                 french: 'clair'
+            },
+            861: {
+                english: 'amuse',
+                spanish: 'divertir',
+                italian: 'divertire',
+                portuguese: 'divertir',
+                french: 'amuser'
+            },
+            862: {
+                english: 'occasion',
+                spanish: 'ocasión',
+                italian: 'occassione',
+                portuguese: 'ocasião',
+                french: 'occasion'
+            },
+            863: {
+                english: 'sail',
+                spanish: 'vela',
+                italian: 'vela',
+                portuguese: 'vela',
+                french: 'voile'
+            },
+            864: {
+                english: 'burst',
+                spanish: 'estallar',
+                italian: 'scoppiare',
+                portuguese: 'rebentar',
+                french: 'éclater'
+            },
+            865: {
+                english: 'importance',
+                spanish: 'importancia',
+                italian: 'importanza',
+                portuguese: 'Importância',
+                french: 'importance'
             }
         }
     }
