@@ -1,12 +1,12 @@
-(function(window) {
+(function (window) {
     'use strict';
 
     let frequentWordsModel = {
         languageChoicesArray: [
-            'English', 
-            'Español', 
-            'Italiano', 
-            'Português', 
+            'English',
+            'Español',
+            'Italiano',
+            'Português',
             'Français'
         ],
         tableLanguagesRemoved: [],
@@ -1431,7 +1431,7 @@
                 portuguese: 'espirito',
                 french: 'esprit'
             },
-           202: {
+            202: {
                 english: 'sun',
                 spanish: 'sol',
                 italian: 'sole',
@@ -4245,7 +4245,7 @@
                 italian: 'ricco',
                 portuguese: 'rico',
                 french: 'riche'
-            }, 
+            },
             599: {
                 english: 'strange',
                 spanish: 'extraño,',
@@ -6114,6 +6114,41 @@
                 italian: 'importanza',
                 portuguese: 'Importância',
                 french: 'importance'
+            },
+            866: {
+                english: 'neighborhood',
+                spanish: 'barrio',
+                italian: 'quartiere',
+                portuguese: 'bairro',
+                french: 'quartier'
+            },
+            867: {
+                english: 'author',
+                spanish: 'autor',
+                italian: 'autore',
+                portuguese: 'autor',
+                french: 'auteur'
+            },
+            868: {
+                english: 'religion',
+                spanish: 'religión',
+                italian: 'religione',
+                portuguese: 'religião',
+                french: 'religion'
+            },
+            869: {
+                english: 'palace',
+                spanish: 'palacio',
+                italian: 'palazzo',
+                portuguese: 'palácio',
+                french: 'palais'
+            },
+            870: {
+                english: 'reunite',
+                spanish: 'reunir',
+                italian: 'riunire',
+                portuguese: 'reunir',
+                french: 'réunir'
             }
         }
     }
