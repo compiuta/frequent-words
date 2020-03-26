@@ -6149,7 +6149,34 @@
                 italian: 'riunire',
                 portuguese: 'reunir',
                 french: 'réunir'
-            }
+            },871: { 
+english: 'treat', 
+spanish: 'tratar', 
+italian: 'trattare', 
+portuguese: 'tratar', 
+french: 'traiter' 
+},
+872: { 
+english: 'intelligence ', 
+spanish: 'inteligencia',  
+italian: 'intelligenza', 
+portuguese: 'inteligência', 
+french: 'intelligence' 
+},
+873: { 
+english: 'neighbor', 
+spanish: 'vecino', 
+italian: 'vicino', 
+portuguese: 'vizinho', 
+french: 'voisin' 
+},
+874: { 
+english: 'card', 
+spanish: 'carta', 
+italian: 'carta', 
+portuguese: 'carta', 
+french: 'carte' 
+}
         }
     }
 
