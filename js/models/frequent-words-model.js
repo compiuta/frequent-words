@@ -6149,34 +6149,77 @@
                 italian: 'riunire',
                 portuguese: 'reunir',
                 french: 'réunir'
-            },871: { 
-english: 'treat', 
-spanish: 'tratar', 
-italian: 'trattare', 
-portuguese: 'tratar', 
-french: 'traiter' 
-},
-872: { 
-english: 'intelligence ', 
-spanish: 'inteligencia',  
-italian: 'intelligenza', 
-portuguese: 'inteligência', 
-french: 'intelligence' 
-},
-873: { 
-english: 'neighbor', 
-spanish: 'vecino', 
-italian: 'vicino', 
-portuguese: 'vizinho', 
-french: 'voisin' 
-},
-874: { 
-english: 'card', 
-spanish: 'carta', 
-italian: 'carta', 
-portuguese: 'carta', 
-french: 'carte' 
-}
+            },
+            871: { 
+                english: 'treat', 
+                spanish: 'tratar', 
+                italian: 'trattare', 
+                portuguese: 'tratar', 
+                french: 'traiter' 
+            },
+            872: { 
+                english: 'intelligence ', 
+                spanish: 'inteligencia',  
+                italian: 'intelligenza', 
+                portuguese: 'inteligência', 
+                french: 'intelligence' 
+            },
+            873: { 
+                english: 'neighbor', 
+                spanish: 'vecino', 
+                italian: 'vicino', 
+                portuguese: 'vizinho', 
+                french: 'voisin' 
+            },
+            874: { 
+                english: 'card', 
+                spanish: 'carta', 
+                italian: 'carta', 
+                portuguese: 'carta', 
+                french: 'carte' 
+            },
+            875: { 
+                english: 'secret', 
+                spanish: 'secreto', 
+                italian: 'segreto', 
+                portuguese: 'segredo', 
+                french: 'secret' 
+            },
+            876: { 
+                english: 'animal', 
+                spanish: 'animal', 
+                italian: 'animale', 
+                portuguese: 'animal', 
+                french: 'animal' 
+            },
+            877: { 
+                english: 'summer', 
+                spanish: 'verano', 
+                italian: 'estate', 
+                portuguese: 'verão', 
+                french: 'été' 
+            },
+            878: { 
+                english: 'drag', 
+                spanish: 'arrastrar', 
+                italian: 'trascinare', 
+                portuguese: 'arrastar', 
+                french: 'traîner' 
+            },
+            879: { 
+                english: 'cabinet', 
+                spanish: 'gabinete', 
+                italian: 'gabinetto', 
+                portuguese: 'gabinete', 
+                french: 'cabinet' 
+            },
+            880: { 
+                english: 'capable', 
+                spanish: 'capaz', 
+                italian: 'capace', 
+                portuguese: 'capaz', 
+                french: 'capable' 
+            }
         }
     }
 
