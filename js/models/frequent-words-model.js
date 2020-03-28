@@ -5004,7 +5004,7 @@
             },
             707: {
                 english: 'prove',
-                spanish: 'demprobarostrar',
+                spanish: 'probar',
                 italian: 'provare',
                 portuguese: 'provar',
                 french: 'éprouver'
@@ -6219,6 +6219,34 @@
                 italian: 'capace', 
                 portuguese: 'capaz', 
                 french: 'capable' 
+            },
+            881: { 
+                english: 'suffering', 
+                spanish: 'sufrimiento', 
+                italian: 'sofferenza', 
+                portuguese: 'sofrimento', 
+                french: 'souffrance' 
+            },
+            882: { 
+                english: 'mark', 
+                spanish: 'marcar', 
+                italian: 'marcare', 
+                portuguese: 'marcar', 
+                french: 'marquer' 
+            },
+            883: { 
+                english: 'import', 
+                spanish: 'importar', 
+                italian: 'importare', 
+                portuguese: 'importar', 
+                french: 'importer' 
+            },
+            884: { 
+                english: 'title', 
+                spanish: 'titulo', 
+                italian: 'titolo', 
+                portuguese: 'titulo', 
+                french: 'titre' 
             }
         }
     }
