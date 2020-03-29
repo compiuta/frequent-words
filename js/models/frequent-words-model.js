@@ -6247,6 +6247,48 @@
                 italian: 'titolo', 
                 portuguese: 'titulo', 
                 french: 'titre' 
+            },
+            885: { 
+                english: 'desert', 
+                spanish: 'desierto', 
+                italian: 'deserto', 
+                portuguese: 'deserto', 
+                french: 'désert' 
+            },
+            886: { 
+                english: 'easy', 
+                spanish: 'fácil', 
+                italian: 'facile', 
+                portuguese: 'fácil', 
+                french: 'facile' 
+            },
+            887: { 
+                english: 'spectacle', 
+                spanish: 'espectáculo', 
+                italian: 'spettacolo', 
+                portuguese: 'espetáculo', 
+                french: 'spectacle' 
+            },
+            888: { 
+                english: 'demand', 
+                spanish: 'exigir', 
+                italian: 'esigere', 
+                portuguese: 'exigir', 
+                french: 'exiger' 
+            },
+            889: { 
+                english: 'rest', 
+                spanish: 'reposar', 
+                italian: 'riposare', 
+                portuguese: 'repousar', 
+                french: 'reposer' 
+            },
+            890: { 
+                english: 'departure', 
+                spanish: 'partida', 
+                italian: 'partenza', 
+                portuguese: 'partida', 
+                french: 'départ' 
             }
         }
     }
