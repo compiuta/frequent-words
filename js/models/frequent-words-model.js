@@ -1198,7 +1198,7 @@
                 spanish: 'durante',
                 italian: 'durante',
                 portuguese: 'durante',
-                french: 'pendant'
+                french: 'pendant/durant'
             },
             169: {
                 english: 'already',
@@ -2038,7 +2038,7 @@
                 spanish: 'acabar',
                 italian: 'finire',
                 portuguese: 'acabar',
-                french: 'finir'
+                french: 'finir/achever'
             },
             289: {
                 english: 'family',
@@ -6319,11 +6319,46 @@
                 french: 'lueur' 
             },
             895: { 
-                english: 'grant', 
+                english: 'concede', 
                 spanish: 'conceder', 
-                italian: 'accordare', 
+                italian: 'concedere/accordare', 
                 portuguese: 'conceder', 
-                french: 'accorder' 
+                french: 'concéder/accorder' 
+            },
+            896: { 
+                english: 'prayer', 
+                spanish: 'plegaria', 
+                italian: 'preghiera', 
+                portuguese: 'prece', 
+                french: 'prière' 
+            },
+            897: { 
+                english: 'admit', 
+                spanish: 'admitir', 
+                italian: 'ammettere', 
+                portuguese: 'admitir', 
+                french: 'admettre/avouer' 
+            },
+            898: { 
+                english: 'distinguish', 
+                spanish: 'distinguir', 
+                italian: 'distinguere', 
+                portuguese: 'distinguir', 
+                french: 'distinguer' 
+            },
+            899: { 
+                english: 'function', 
+                spanish: 'función', 
+                italian: 'funzione', 
+                portuguese: 'função', 
+                french: 'fonction' 
+            },
+            900: { 
+                english: 'aspect', 
+                spanish: 'aspecto', 
+                italian: 'aspetto', 
+                portuguese: 'aspecto', 
+                french: 'aspect' 
             }
         }
     }
