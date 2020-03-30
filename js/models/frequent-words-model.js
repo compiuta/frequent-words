@@ -6289,6 +6289,41 @@
                 italian: 'partenza', 
                 portuguese: 'partida', 
                 french: 'départ' 
+            },
+            891: { 
+                english: 'proud', 
+                spanish: 'orgulloso', 
+                italian: 'orgoglioso', 
+                portuguese: 'orgulhoso', 
+                french: 'fier' 
+            },
+            892: { 
+                english: 'dance', 
+                spanish: 'bailar', 
+                italian: 'ballare', 
+                portuguese: 'dançar', 
+                french: 'danser' 
+            },
+            893: { 
+                english: 'salute', 
+                spanish: 'saludar', 
+                italian: 'salutare', 
+                portuguese: 'saudar', 
+                french: 'saluer' 
+            },
+            894: { 
+                english: 'glimmer', 
+                spanish: 'resplandor', 
+                italian: 'barlume', 
+                portuguese: 'lampejo', 
+                french: 'lueur' 
+            },
+            895: { 
+                english: 'grant', 
+                spanish: 'conceder', 
+                italian: 'accordare', 
+                portuguese: 'conceder', 
+                french: 'accorder' 
             }
         }
     }
