@@ -6359,6 +6359,41 @@
                 italian: 'aspetto', 
                 portuguese: 'aspecto', 
                 french: 'aspect' 
+            },
+            901: { 
+                english: 'sleep', 
+                spanish: 'sueño', 
+                italian: 'sonno', 
+                portuguese: 'sono', 
+                french: 'sommeil' 
+            },
+            902: { 
+                english: 'splinter', 
+                spanish: 'astilla', 
+                italian: 'scheggia', 
+                portuguese: 'lasca', 
+                french: 'éclat' 
+            },
+            903: { 
+                english: 'half', 
+                spanish: 'mitad', 
+                italian: 'metà', 
+                portuguese: 'metade', 
+                french: 'moitié/demi' 
+            },
+            904: { 
+                english: 'calm', 
+                spanish: 'calma', 
+                italian: 'calma', 
+                portuguese: 'calma', 
+                french: 'calme' 
+            },
+            905: { 
+                english: 'contrary', 
+                spanish: 'contrario', 
+                italian: 'contrario', 
+                portuguese: 'contrário', 
+                french: 'contraire' 
             }
         }
     }
