@@ -6394,6 +6394,27 @@
                 italian: 'contrario', 
                 portuguese: 'contrário', 
                 french: 'contraire' 
+            },
+            906: { 
+                english: 'hill', 
+                spanish: 'colina', 
+                italian: 'collina', 
+                portuguese: 'colina', 
+                french: 'colline' 
+            },
+            907: { 
+                english: 'agitate', 
+                spanish: 'agitar', 
+                italian: 'agitare', 
+                portuguese: 'agitar', 
+                french: 'agiter' 
+            },
+            908: { 
+                english: 'hesitate', 
+                spanish: 'hesitar', 
+                italian: 'esitare', 
+                portuguese: 'hesitar', 
+                french: 'hésiter' 
             }
         }
     }
