@@ -6415,6 +6415,20 @@
                 italian: 'esitare', 
                 portuguese: 'hesitar', 
                 french: 'hésiter' 
+            },
+            909: { 
+                english: 'terrain', 
+                spanish: 'terreno', 
+                italian: 'terreno', 
+                portuguese: 'terreno', 
+                french: 'terrain' 
+            },
+            910: { 
+                english: 'rare', 
+                spanish: 'raro', 
+                italian: 'raro', 
+                portuguese: 'raro', 
+                french: 'rare' 
             }
         }
     }
