@@ -203,7 +203,7 @@
                 spanish: 'mas',
                 italian: 'piu',
                 portuguese: 'mais',
-                french: 'plus'
+                french: 'plus/davantage'
             },
             27: {
                 english: 'say',
@@ -5546,7 +5546,7 @@
                 spanish: 'retirar',
                 italian: 'ritirare',
                 portuguese: 'retirar',
-                french: 'retirer'
+                french: 'retirer/enlever'
             },
             785: {
                 english: 'unceasingly',
@@ -6450,6 +6450,55 @@
                 italian: 'cambiamento',
                 portuguese: 'mudança',
                 french: 'changement'
+            },
+            914: {
+                english: 'compose',
+                spanish: 'componer',
+                italian: 'comporre',
+                portuguese: 'compor',
+                french: 'composer'
+            },
+            915: {
+                english: 'pocket',
+                spanish: 'bolsillo',
+                italian: 'tasca',
+                portuguese: 'bolso',
+                french: 'poche'
+            },
+            916: {
+                english: 'join',
+                spanish: 'unirse',
+                italian: 'unirsi',
+                portuguese: 'juntar',
+                french: 'rejoindre'
+            },
+            917: {
+                english: 'eve',
+                spanish: 'víspera',
+                italian: 'viglia',
+                portuguese: 'véspera',
+                french: 'veille'
+            },
+            918: {
+                english: 'fruit',
+                spanish: 'fruta',
+                italian: 'frutta',
+                portuguese: 'fruta',
+                french: 'fruit'
+            },
+            919: {
+                english: 'complete',
+                spanish: 'completo',
+                italian: 'completo',
+                portuguese: 'completo',
+                french: 'complet'
+            },
+            920: {
+                english: 'study',
+                spanish: 'estudiar',
+                italian: 'studiare',
+                portuguese: 'estudar',
+                french: 'étudier'
             }
         }
     }
