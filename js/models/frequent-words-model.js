@@ -6499,6 +6499,27 @@
                 italian: 'studiare',
                 portuguese: 'estudar',
                 french: 'étudier'
+            },
+            921: {
+                english: 'share',
+                spanish: 'compartir',
+                italian: 'condividere',
+                portuguese: 'partilhar',
+                french: 'partager'
+            },
+            922: {
+                english: 'cross',
+                spanish: 'cruz',
+                italian: 'croce',
+                portuguese: 'cruz',
+                french: 'croix'
+            },
+            923: {
+                english: 'following',
+                spanish: 'siguiente',
+                italian: 'seguente',
+                portuguese: 'seguinte',
+                french: 'suivant'
             }
         }
     }
