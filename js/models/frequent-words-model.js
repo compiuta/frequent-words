@@ -6520,6 +6520,27 @@
                 italian: 'seguente',
                 portuguese: 'seguinte',
                 french: 'suivant'
+            },
+            924: {
+                english: 'chase',
+                spanish: 'perseguir',
+                italian: 'inseguire',
+                portuguese: 'perseguir',
+                french: 'chasser'
+            },
+            925: {
+                english: 'interrupt',
+                spanish: 'interrumpir',
+                italian: 'interrompere',
+                portuguese: 'interromper',
+                french: 'interrompre'
+            },
+            926: {
+                english: 'to distance',
+                spanish: 'alejar',
+                italian: 'allontanare',
+                portuguese: 'afastar',
+                french: 'éloigner'
             }
         }
     }
