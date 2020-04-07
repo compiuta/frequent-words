@@ -6541,6 +6541,34 @@
                 italian: 'allontanare',
                 portuguese: 'afastar',
                 french: 'éloigner'
+            },
+            927: {
+                english: 'treasure',
+                spanish: 'tesoro',
+                italian: 'tesoro',
+                portuguese: 'tesouro',
+                french: 'trésor'
+            },
+            928: {
+                english: 'company',
+                spanish: 'compañía',
+                italian: 'compagnia',
+                portuguese: 'companhia',
+                french: 'compagnie'
+            },
+            929: {
+                english: 'narrow',
+                spanish: 'estrecho',
+                italian: 'stretto',
+                portuguese: 'estreito',
+                french: 'étroit'
+            },
+            930: {
+                english: 'kitchen',
+                spanish: 'cosina',
+                italian: 'cucina',
+                portuguese: 'cozinha',
+                french: 'cuisine'
             }
         }
     }
