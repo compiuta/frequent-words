@@ -6565,10 +6565,45 @@
             },
             930: {
                 english: 'kitchen',
-                spanish: 'cosina',
+                spanish: 'cocina',
                 italian: 'cucina',
                 portuguese: 'cozinha',
                 french: 'cuisine'
+            },
+            931: {
+                english: 'reduce',
+                spanish: 'reducir',
+                italian: 'ridurre',
+                portuguese: 'reduzir',
+                french: 'réduire'
+            },
+            932: {
+                english: 'engage',
+                spanish: 'comprometerse',
+                italian: 'impegnare',
+                portuguese: 'comprometer',
+                french: 'engager'
+            },
+            933: {
+                english: 'equal',
+                spanish: 'igual',
+                italian: 'uguale',
+                portuguese: 'igual',
+                french: 'égal'
+            },
+            934: {
+                english: 'empire',
+                spanish: 'imperio',
+                italian: 'impero',
+                portuguese: 'império',
+                french: 'empire'
+            },
+            935: {
+                english: 'nation',
+                spanish: 'nación',
+                italian: 'nazione',
+                portuguese: 'nação',
+                french: 'nation'
             }
         }
     }
