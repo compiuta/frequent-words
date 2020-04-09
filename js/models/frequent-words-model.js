@@ -6604,6 +6604,41 @@
                 italian: 'nazione',
                 portuguese: 'nação',
                 french: 'nation'
+            },
+            936: {
+                english: 'off',
+                spanish: 'apagar',
+                italian: 'spegnere',
+                portuguese: 'apagar',
+                french: 'éteindre'
+            },
+            937: {
+                english: 'restart',
+                spanish: 'recomenzar',
+                italian: 'ricominciare',
+                portuguese: 'recomeçar',
+                french: 'recommencer'
+            },
+            938: {
+                english: 'jump',
+                spanish: 'saltar',
+                italian: 'saltare',
+                portuguese: 'saltar',
+                french: 'sauter'
+            },
+            939: {
+                english: 'conversation',
+                spanish: 'conversación',
+                italian: 'conversazione',
+                portuguese: 'conversação',
+                french: 'conversation'
+            },
+            940: {
+                english: 'trait',
+                spanish: 'rasgo',
+                italian: 'tratto',
+                portuguese: 'traço',
+                french: 'trait'
             }
         }
     }
