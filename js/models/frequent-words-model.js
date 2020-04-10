@@ -6639,6 +6639,41 @@
                 italian: 'tratto',
                 portuguese: 'traço',
                 french: 'trait'
+            },
+            941: {
+                english: 'violent',
+                spanish: 'violento',
+                italian: 'violento',
+                portuguese: 'violento',
+                french: 'violent'
+            },
+            942: {
+                english: 'impression',
+                spanish: 'impresión',
+                italian: 'impressione',
+                portuguese: 'impressão',
+                french: 'impression'
+            },
+            943: {
+                english: 'prefer',
+                spanish: 'preferir',
+                italian: 'preferire',
+                portuguese: 'preferir',
+                french: 'préférer'
+            },
+            944: {
+                english: 'reveal',
+                spanish: 'revelar',
+                italian: 'rivelare',
+                portuguese: 'revelar',
+                french: 'révéler'
+            },
+            945: {
+                english: 'yours',
+                spanish: 'suyo',
+                italian: 'suo',
+                portuguese: 'seu',
+                french: 'sien'
             }
         }
     }
