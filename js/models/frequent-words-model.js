@@ -6709,6 +6709,41 @@
                 italian: 'rispetto',
                 portuguese: 'respeito',
                 french: 'respect'
+            },
+            951: {
+                english: 'solitude',
+                spanish: 'soledad',
+                italian: 'solitudine',
+                portuguese: 'solidã',
+                french: 'solitude'
+            },
+            952: {
+                english: 'undergo',
+                spanish: 'someterse',
+                italian: 'subire',
+                portuguese: 'submeter',
+                french: 'subir'
+            },
+            953: {
+                english: 'next',
+                spanish: 'próximo',
+                italian: 'prossimo',
+                portuguese: 'próximo',
+                french: 'prochain'
+            },
+            954: {
+                english: 'cost',
+                spanish: 'costar',
+                italian: 'costare',
+                portuguese: 'custar',
+                french: 'coûter'
+            },
+            955: {
+                english: 'reflect',
+                spanish: 'reflejar',
+                italian: 'riflettere',
+                portuguese: 'refletir',
+                french: 'réfléchir'
             }
         }
     }
