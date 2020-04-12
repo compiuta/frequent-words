@@ -6674,6 +6674,41 @@
                 italian: 'suo',
                 portuguese: 'seu',
                 french: 'sien'
+            },
+            946: {
+                english: 'magnificent',
+                spanish: 'magnifico',
+                italian: 'magnifico',
+                portuguese: 'magnifico',
+                french: 'magnifique'
+            },
+            947: {
+                english: 'despair',
+                spanish: 'desesperación',
+                italian: 'disperazione',
+                portuguese: 'desespero',
+                french: 'désespoir'
+            },
+            948: {
+                english: 'witness',
+                spanish: 'testigo',
+                italian: 'testimone',
+                portuguese: 'testemunha',
+                french: 'témoin'
+            },
+            949: {
+                english: 'visit',
+                spanish: 'visita',
+                italian: 'visita',
+                portuguese: 'visita',
+                french: 'visite'
+            },
+            950: {
+                english: 'respect',
+                spanish: 'respeto',
+                italian: 'rispetto',
+                portuguese: 'respeito',
+                french: 'respect'
             }
         }
     }
