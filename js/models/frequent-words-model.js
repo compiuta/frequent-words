@@ -5213,10 +5213,10 @@
                 french: 'remarquer'
             },
             737: {
-                english: 'chair',
-                spanish: 'silla',
-                italian: 'sedia',
-                portuguese: 'cadeira',
+                english: 'flesh',
+                spanish: 'carne',
+                italian: 'carne',
+                portuguese: 'carne',
                 french: 'chair'
             },
             738: {
@@ -6744,6 +6744,41 @@
                 italian: 'riflettere',
                 portuguese: 'refletir',
                 french: 'réfléchir'
+            },
+            956: {
+                english: 'officer',
+                spanish: 'oficial',
+                italian: 'ufficiale',
+                portuguese: 'oficial',
+                french: 'officier'
+            },
+            957: {
+                english: 'thank',
+                spanish: 'agradecer',
+                italian: 'rigraziare',
+                portuguese: 'agradecer',
+                french: 'remercier'
+            },
+            958: {
+                english: 'folder',
+                spanish: 'carpeta',
+                italian: 'cartella',
+                portuguese: 'pasta',
+                french: 'déposer'
+            },
+            959: {
+                english: 'smoke',
+                spanish: 'fumar',
+                italian: 'fumare',
+                portuguese: 'fumar',
+                french: 'fumer'
+            },
+            960: {
+                english: 'chair',
+                spanish: 'silla',
+                italian: 'sedia',
+                portuguese: 'cadeira',
+                french: 'chaise/fauteuil'
             }
         }
     }
