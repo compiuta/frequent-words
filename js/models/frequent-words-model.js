@@ -6779,6 +6779,41 @@
                 italian: 'sedia',
                 portuguese: 'cadeira',
                 french: 'chaise/fauteuil'
+            },
+            961: {
+                english: 'early',
+                spanish: 'temprano',
+                italian: 'presto',
+                portuguese: 'cedo',
+                french: 'tôt'
+            },
+            962: {
+                english: 'affirm',
+                spanish: 'afirmar',
+                italian: 'affermare',
+                portuguese: 'afirmar',
+                french: 'affirmer'
+            },
+            963: {
+                english: 'relationship',
+                spanish: 'relación',
+                italian: 'relazione',
+                portuguese: 'relação',
+                french: 'relation'
+            },
+            964: {
+                english: 'fumes',
+                spanish: 'humo',
+                italian: 'fumo',
+                portuguese: 'fumo',
+                french: 'fumée'
+            },
+            965: {
+                english: 'agree',
+                spanish: 'convenir',
+                italian: 'convenire',
+                portuguese: 'concordar',
+                french: 'convenir'
             }
         }
     }
