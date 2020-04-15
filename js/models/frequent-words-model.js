@@ -6814,6 +6814,41 @@
                 italian: 'convenire',
                 portuguese: 'concordar',
                 french: 'convenir'
+            },
+            966: {
+                english: 'branch',
+                spanish: 'rama',
+                italian: 'ramo',
+                portuguese: 'ramo',
+                french: 'branche'
+            },
+            967: {
+                english: 'sick',
+                spanish: 'enfermo',
+                italian: 'malato',
+                portuguese: 'doente',
+                french: 'malade'
+            },
+            968: {
+                english: 'circumstance',
+                spanish: 'circunstancia',
+                italian: 'circostanza',
+                portuguese: 'circunstância',
+                french: 'circonstance'
+            },
+            969: {
+                english: 'companion',
+                spanish: 'compañero',
+                italian: 'compagno',
+                portuguese: 'compaanheiro',
+                french: 'compagnon'
+            },
+            970: {
+                english: 'dress',
+                spanish: 'vestir',
+                italian: 'vestire',
+                portuguese: 'vestir',
+                french: 'vêtir'
             }
         }
     }
