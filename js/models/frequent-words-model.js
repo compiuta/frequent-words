@@ -6849,6 +6849,41 @@
                 italian: 'vestire',
                 portuguese: 'vestir',
                 french: 'vêtir'
+            },
+            971: {
+                english: 'experience',
+                spanish: 'experiencia',
+                italian: 'esperienza',
+                portuguese: 'experiência',
+                french: 'expérience'
+            },
+            972: {
+                english: 'port',
+                spanish: 'puerto',
+                italian: 'porto',
+                portuguese: 'porto',
+                french: 'port'
+            },
+            973: {
+                english: 'accomplish',
+                spanish: 'cumplir',
+                italian: 'compiere',
+                portuguese: 'cumprir',
+                french: 'accomplir'
+            },
+            974: {
+                english: 'resolve',
+                spanish: 'resolver',
+                italian: 'resolvere',
+                portuguese: 'resolver',
+                french: 'résoudre'
+            },
+            975: {
+                english: 'plunge',
+                spanish: 'sumergirse',
+                italian: 'tuffarsi',
+                portuguese: 'mergulhar',
+                french: 'plonger'
             }
         }
     }
