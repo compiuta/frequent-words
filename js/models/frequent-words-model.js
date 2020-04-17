@@ -6884,6 +6884,41 @@
                 italian: 'tuffarsi',
                 portuguese: 'mergulhar',
                 french: 'plonger'
+            },
+            976: {
+                english: 'drop',
+                spanish: 'gota',
+                italian: 'goccia',
+                portuguese: 'gota',
+                french: 'goutte'
+            },
+            977: {
+                english: 'mine',
+                spanish: 'mío',
+                italian: 'mio',
+                portuguese: 'meu',
+                french: 'mien'
+            },
+            978: {
+                english: 'singing',
+                spanish: 'canto',
+                italian: 'canto',
+                portuguese: 'canto',
+                french: 'chant'
+            },
+            979: {
+                english: 'destroy',
+                spanish: 'destruir',
+                italian: 'distruggere',
+                portuguese: 'destruir',
+                french: 'détruire'
+            },
+            980: {
+                english: 'combat',
+                spanish: 'combate',
+                italian: 'combattimento',
+                portuguese: 'combate',
+                french: 'combat'
             }
         }
     }
