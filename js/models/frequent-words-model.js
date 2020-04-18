@@ -6919,6 +6919,41 @@
                 italian: 'combattimento',
                 portuguese: 'combate',
                 french: 'combat'
+            },
+            981: {
+                english: 'character',
+                spanish: 'personaje',
+                italian: 'personaggio',
+                portuguese: 'personagem',
+                french: 'personnage'
+            },
+            982: {
+                english: 'adventure',
+                spanish: 'aventura',
+                italian: 'avventura',
+                portuguese: 'aventura',
+                french: 'aventure'
+            },
+            983: {
+                english: 'interest',
+                spanish: 'interesar',
+                italian: 'interessare',
+                portuguese: 'interessar',
+                french: 'intéresser'
+            },
+            984: {
+                english: 'dispose',
+                spanish: 'disponer',
+                italian: 'disporre',
+                portuguese: 'dispor',
+                french: 'disposer'
+            },
+            985: {
+                english: 'absence',
+                spanish: 'ausencia',
+                italian: 'assenza',
+                portuguese: 'ausência',
+                french: 'absence'
             }
         }
     }
