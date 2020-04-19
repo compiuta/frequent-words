@@ -1664,9 +1664,9 @@
             },
             235: {
                 english: 'any',
-                spanish: 'ningún',
-                italian: 'Nessuno',
-                portuguese: 'nehum',
+                spanish: 'algun',
+                italian: 'alcun',
+                portuguese: 'algum',
                 french: 'aucun'
             },
             236: {
@@ -6954,6 +6954,41 @@
                 italian: 'assenza',
                 portuguese: 'ausência',
                 french: 'absence'
+            },
+            986: {
+                english: 'machine',
+                spanish: 'máquina',
+                italian: 'macchina',
+                portuguese: 'máquina',
+                french: 'machine'
+            },
+            987: {
+                english: 'chain',
+                spanish: 'cadena',
+                italian: 'catena',
+                portuguese: 'cadeia',
+                french: 'chaîne'
+            },
+            988: {
+                english: 'shame',
+                spanish: 'vergüenza',
+                italian: 'vergogna',
+                portuguese: 'vergonha',
+                french: 'honte'
+            },
+            989: {
+                english: 'atraighten',
+                spanish: 'alisar',
+                italian: 'lisciare',
+                portuguese: 'alisar',
+                french: 'lisser'
+            },
+            990: {
+                english: 'hunger',
+                spanish: 'hambre',
+                italian: 'fame',
+                portuguese: 'fome',
+                french: 'faim'
             }
         }
     }
