@@ -2962,7 +2962,7 @@
                 spanish: 'pagar',
                 italian: 'pagare',
                 portuguese: 'pagar',
-                french: 'payer'
+                french: 'payer/verser'
             },
             416: {
                 english: 'bring',
@@ -6989,6 +6989,41 @@
                 italian: 'fame',
                 portuguese: 'fome',
                 french: 'faim'
+            },
+            991: {
+                english: 'plain',
+                spanish: 'planicie',
+                italian: 'pianura',
+                portuguese: 'planície',
+                french: 'plaine'
+            },
+            992: {
+                english: 'tip',
+                spanish: 'punta',
+                italian: 'punta',
+                portuguese: 'punta',
+                french: 'pointe'
+            },
+            993: {
+                english: 'obey',
+                spanish: 'obedecer',
+                italian: 'obbedire',
+                portuguese: 'obedecer',
+                french: 'obéir'
+            },
+            994: {
+                english: 'evidence',
+                spanish: 'prueba',
+                italian: 'prova',
+                portuguese: 'prova',
+                french: 'preuve'
+            },
+            995: {
+                english: 'eternal',
+                spanish: 'eterno',
+                italian: 'eterno',
+                portuguese: 'eterno',
+                french: 'éternel'
             }
         }
     }
