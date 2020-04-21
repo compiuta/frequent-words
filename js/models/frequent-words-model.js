@@ -7024,6 +7024,41 @@
                 italian: 'eterno',
                 portuguese: 'eterno',
                 french: 'éternel'
+            },
+            996: {
+                english: 'fight',
+                spanish: 'luchar',
+                italian: 'lottare',
+                portuguese: 'lutar',
+                french: 'lutter'
+            },
+            997: {
+                english: 'pretend',
+                spanish: 'pretender',
+                italian: 'pretendere',
+                portuguese: 'pretender',
+                french: 'prétendre'
+            },
+            998: {
+                english: 'battle',
+                spanish: 'batalla',
+                italian: 'battaglia',
+                portuguese: 'batalha',
+                french: 'bataille'
+            },
+            999: {
+                english: 'construct',
+                spanish: 'construir',
+                italian: 'construire',
+                portuguese: 'construir',
+                french: 'construire'
+            },
+            1000: {
+                english: 'energy',
+                spanish: 'energía',
+                italian: 'energia',
+                portuguese: 'energia',
+                french: 'énergie'
             }
         }
     }
