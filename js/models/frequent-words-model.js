@@ -7059,6 +7059,41 @@
                 italian: 'energia',
                 portuguese: 'energia',
                 french: 'énergie'
+            },
+            1001: {
+                english: 'victim',
+                spanish: 'víctima',
+                italian: 'vittima',
+                portuguese: 'vítima',
+                french: 'victime'
+            },
+            1002: {
+                english: 'savage',
+                spanish: 'salvaje',
+                italian: 'selvaggio',
+                portuguese: 'selvagem',
+                french: 'sauvage'
+            },
+            1003: {
+                english: 'submit',
+                spanish: 'someter',
+                italian: 'sottoporre',
+                portuguese: 'submeter',
+                french: 'soumettre'
+            },
+            1004: {
+                english: 'use',
+                spanish: 'uso',
+                italian: 'uso',
+                portuguese: 'uso',
+                french: 'usage'
+            },
+            1005: {
+                english: 'weight',
+                spanish: 'pesar',
+                italian: 'pesare',
+                portuguese: 'pesar',
+                french: 'peser'
             }
         }
     }
