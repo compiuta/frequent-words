@@ -561,7 +561,7 @@
                 spanish: 'poco',
                 italian: 'poco',
                 portuguese: 'pouco',
-                french: 'peu'
+                french: 'peu/guère'
             },
             78: {
                 english: 'needed',
@@ -7094,6 +7094,41 @@
                 italian: 'pesare',
                 portuguese: 'pesar',
                 french: 'peser'
+            },
+            1006: {
+                english: 'double',
+                spanish: 'doble',
+                italian: 'doppio',
+                portuguese: 'dupla',
+                french: 'double'
+            },
+            1007: {
+                english: 'stain',
+                spanish: 'mancha',
+                italian: 'macchia',
+                portuguese: 'mancha',
+                french: 'tache'
+            },
+            1008: {
+                english: 'curiosity',
+                spanish: 'curiosidad',
+                italian: 'curiosità',
+                portuguese: 'curiosidade',
+                french: 'curiosité'
+            },
+            1009: {
+                english: 'spread',
+                spanish: 'esparcir',
+                italian: 'spargere',
+                portuguese: 'espalhar',
+                french: 'répandre'
+            },
+            1010: {
+                english: 'ice',
+                spanish: 'hielo',
+                italian: 'ghiaccio',
+                portuguese: 'gelo',
+                french: 'glace'
             }
         }
     }
