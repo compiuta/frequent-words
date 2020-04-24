@@ -7129,6 +7129,41 @@
                 italian: 'ghiaccio',
                 portuguese: 'gelo',
                 french: 'glace'
+            },
+            1011: {
+                english: 'resist',
+                spanish: 'resistir',
+                italian: 'resistere',
+                portuguese: 'resistir',
+                french: 'résister'
+            },
+            1012: {
+                english: 'prison',
+                spanish: 'prisión',
+                italian: 'prigione',
+                portuguese: 'prisão',
+                french: 'prison'
+            },
+            1013: {
+                english: 'floor',
+                spanish: 'piso',
+                italian: 'piano',
+                portuguese: 'chão',
+                french: 'étage'
+            },
+            1014: {
+                english: 'ticket',
+                spanish: 'billete',
+                italian: 'biglietto',
+                portuguese: 'bilhete',
+                french: 'billet'
+            },
+            1015: {
+                english: 'serious',
+                spanish: 'serio',
+                italian: 'serio',
+                portuguese: 'sério',
+                french: 'sérieux'
             }
         }
     }
