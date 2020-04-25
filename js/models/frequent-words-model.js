@@ -7164,6 +7164,41 @@
                 italian: 'serio',
                 portuguese: 'sério',
                 french: 'sérieux'
+            },
+            1016: {
+                english: 'protect',
+                spanish: 'proteger',
+                italian: 'proteggere',
+                portuguese: 'proteger',
+                french: 'protéger'
+            },
+            1017: {
+                english: 'rose',
+                spanish: 'rosa',
+                italian: 'rosa',
+                portuguese: 'rosa',
+                french: 'rose'
+            },
+            1018: {
+                english: 'enclose',
+                spanish: 'encerrar',
+                italian: 'rinchiudere',
+                portuguese: 'prender',
+                french: 'enfermer'
+            },
+            1019: {
+                english: 'attitude',
+                spanish: 'actitude',
+                italian: 'atteggiamento',
+                portuguese: 'atitude',
+                french: 'attitude'
+            },
+            1020: {
+                english: 'hard',
+                spanish: 'duro',
+                italian: 'duro',
+                portuguese: 'duro',
+                french: 'dur'
             }
         }
     }
