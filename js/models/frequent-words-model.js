@@ -2098,9 +2098,9 @@
             },
             297: {
                 english: 'fear',
-                spanish: 'miedo',
+                spanish: 'miedo/pavor',
                 italian: 'paura',
-                portuguese: 'medo',
+                portuguese: 'medo/pavor',
                 french: 'peur'
             },
             298: {
@@ -4954,10 +4954,10 @@
                 french: 'fuir'
             },
             700: {
-                english: 'sink',
-                spanish: 'hundir',
-                italian: 'affondare',
-                portuguese: 'afundar',
+                english: 'nail',
+                spanish: 'clavar',
+                italian: 'inchiodare',
+                portuguese: 'cravar',
                 french: 'couler'
             },
             701: {
@@ -6882,7 +6882,7 @@
                 english: 'plunge',
                 spanish: 'sumergirse',
                 italian: 'tuffarsi',
-                portuguese: 'mergulhar',
+                portuguese: 'submergir',
                 french: 'plonger'
             },
             976: {
@@ -7199,6 +7199,41 @@
                 italian: 'duro',
                 portuguese: 'duro',
                 french: 'dur'
+            },
+            1021: {
+                english: 'mode',
+                spanish: 'modo',
+                italian: 'modo',
+                portuguese: 'modo',
+                french: 'mode'
+            },
+            1022: {
+                english: 'fear',
+                spanish: 'temor',
+                italian: 'timore',
+                portuguese: 'temor',
+                french: 'crainte'
+            },
+            1023: {
+                english: 'excavate',
+                spanish: 'excavar',
+                italian: 'scavare',
+                portuguese: 'escavar',
+                french: 'creuser'
+            },
+            1024: {
+                english: 'grow',
+                spanish: 'crecer',
+                italian: 'crescere',
+                portuguese: 'crescer',
+                french: 'grandir'
+            },
+            1025: {
+                english: 'sink',
+                spanish: 'hundir',
+                italian: 'affondare',
+                portuguese: 'afundar',
+                french: 'enfoncer'
             }
         }
     }
