@@ -7234,6 +7234,41 @@
                 italian: 'affondare',
                 portuguese: 'afundar',
                 french: 'enfoncer'
+            },
+            1026: {
+                english: 'clothing',
+                spanish: 'ropa',
+                italian: 'abiti',
+                portuguese: 'roupa',
+                french: 'vêtement'
+            },
+            1027: {
+                english: 'wrap',
+                spanish: 'envolver',
+                italian: 'avvolgere',
+                portuguese: 'envolver',
+                french: 'envelopper'
+            },
+            1028: {
+                english: 'prevent',
+                spanish: 'prevenir',
+                italian: 'prevenire',
+                portuguese: 'prevenir',
+                french: 'prévenir'
+            },
+            1029: {
+                english: 'violence',
+                spanish: 'violencia',
+                italian: 'violenza',
+                portuguese: 'violência',
+                french: 'violence'
+            },
+            1030: {
+                english: 'inspire',
+                spanish: 'inspirar',
+                italian: 'ispirare',
+                portuguese: 'inspirar',
+                french: 'inspirer'
             }
         }
     }
