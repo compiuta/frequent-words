@@ -101,6 +101,8 @@
                         index = '00' + key;
                     } else if(index === 3) {
                         index = '0' + key;
+                    } else {
+                        index = key;
                     }
             
                 wordContainer.classList.add('word-container');
