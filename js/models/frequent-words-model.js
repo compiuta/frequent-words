@@ -7269,6 +7269,41 @@
                 italian: 'ispirare',
                 portuguese: 'inspirar',
                 french: 'inspirer'
+            },
+            1031: {
+                english: 'useless',
+                spanish: 'inútil',
+                italian: 'inutile',
+                portuguese: 'inútil',
+                french: 'inutile'
+            },
+            1032: {
+                english: 'happy',
+                spanish: 'contento',
+                italian: 'contento',
+                portuguese: 'contente',
+                french: 'content'
+            },
+            1033: {
+                english: 'current',
+                spanish: 'corriente',
+                italian: 'corrente',
+                portuguese: 'corrente',
+                french: 'courant'
+            },
+            1034: {
+                english: 'madness',
+                spanish: 'locura',
+                italian: 'follia',
+                portuguese: 'loucura',
+                french: 'folie'
+            },
+            1035: {
+                english: 'pity',
+                spanish: 'piedad',
+                italian: 'pietà',
+                portuguese: 'piedade',
+                french: 'pitié'
             }
         }
     }
