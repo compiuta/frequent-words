@@ -7304,6 +7304,41 @@
                 italian: 'pietà',
                 portuguese: 'piedade',
                 french: 'pitié'
+            },
+            1036: {
+                english: 'intention',
+                spanish: 'intención',
+                italian: 'intenzione',
+                portuguese: 'intenção',
+                french: 'intention'
+            },
+            1037: {
+                english: 'gather',
+                spanish: 'recoger',
+                italian: 'raccogliere',
+                portuguese: 'recolher',
+                french: 'ramasser'
+            },
+            1038: {
+                english: 'invent',
+                spanish: 'inventar',
+                italian: 'inventare',
+                portuguese: 'inventar',
+                french: 'inventer'
+            },
+            1039: {
+                english: 'trace',
+                spanish: 'rastro',
+                italian: 'traccia',
+                portuguese: 'rasto',
+                french: 'trace'
+            },
+            1040: {
+                english: 'cloth',
+                spanish: 'tela',
+                italian: 'tela',
+                portuguese: 'tela',
+                french: 'toile'
             }
         }
     }
