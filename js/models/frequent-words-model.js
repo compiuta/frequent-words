@@ -7339,6 +7339,41 @@
                 italian: 'tela',
                 portuguese: 'tela',
                 french: 'toile'
+            },
+            1041: {
+                english: 'press',
+                spanish: 'presionar',
+                italian: 'premere',
+                portuguese: 'pressionar',
+                french: 'presser'
+            },
+            1042: {
+                english: 'trust',
+                spanish: 'confiar',
+                italian: 'affidare',
+                portuguese: 'confiar',
+                french: 'confier'
+            },
+            1043: {
+                english: 'erase',
+                spanish: 'borrar',
+                italian: 'cancellare',
+                portuguese: 'apagar',
+                french: 'effacer'
+            },
+            1044: {
+                english: 'retreat',
+                spanish: 'retroceder',
+                italian: 'rinculare',
+                portuguese: 'retroceder',
+                french: 'reculer'
+            },
+            1045: {
+                english: 'use',
+                spanish: 'usar',
+                italian: 'usare',
+                portuguese: 'usar',
+                french: 'user'
             }
         }
     }
