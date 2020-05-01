@@ -7374,6 +7374,41 @@
                 italian: 'usare',
                 portuguese: 'usar',
                 french: 'user'
+            },
+            1046: {
+                english: 'nourish',
+                spanish: 'nutrir',
+                italian: 'nutrire',
+                portuguese: 'nutrir',
+                french: 'nourrir'
+            },
+            1047: {
+                english: 'dangerous',
+                spanish: 'peligroso',
+                italian: 'pericoloso',
+                portuguese: 'perigoso',
+                french: 'dangereux'
+            },
+            1048: {
+                english: 'poetry',
+                spanish: 'poesía',
+                italian: 'poesia',
+                portuguese: 'poesia',
+                french: 'poésie'
+            },
+            1049: {
+                english: 'summit',
+                spanish: 'cumbre',
+                italian: 'vertice',
+                portuguese: 'cimeira',
+                french: 'sommet'
+            },
+            1050: {
+                english: 'replace',
+                spanish: 'reempazar',
+                italian: 'rimpiazzare',
+                portuguese: 'trocar',
+                french: 'remplacer'
             }
         }
     }
