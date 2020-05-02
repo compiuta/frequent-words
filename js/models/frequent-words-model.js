@@ -7409,6 +7409,41 @@
                 italian: 'rimpiazzare',
                 portuguese: 'trocar',
                 french: 'remplacer'
+            },
+            1051: {
+                english: 'wish',
+                spanish: 'desear',
+                italian: 'augurare',
+                portuguese: 'desejar',
+                french: 'souhaiter'
+            },
+            1052: {
+                english: 'advance',
+                spanish: 'anticipo',
+                italian: 'anticipo',
+                portuguese: 'adiantamento',
+                french: 'avance'
+            },
+            1053: {
+                english: 'authority',
+                spanish: 'autoridad',
+                italian: 'autorità',
+                portuguese: 'autoridade',
+                french: 'autorité'
+            },
+            1054: {
+                english: 'thick',
+                spanish: 'espeso',
+                italian: 'spesso',
+                portuguese: 'espesso',
+                french: 'épais'
+            },
+            1055: {
+                english: 'restlessness',
+                spanish: 'inquietud',
+                italian: 'inquietudine',
+                portuguese: 'inquietação',
+                french: 'inquiétude'
             }
         }
     }
