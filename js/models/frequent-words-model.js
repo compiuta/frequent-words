@@ -7444,6 +7444,41 @@
                 italian: 'inquietudine',
                 portuguese: 'inquietação',
                 french: 'inquiétude'
+            },
+            1056: {
+                english: 'choice',
+                spanish: 'opción',
+                italian: 'scelta',
+                portuguese: 'escolha',
+                french: 'choix'
+            },
+            1057: {
+                english: 'tomb',
+                spanish: 'tumba',
+                italian: 'tomba',
+                portuguese: 'túmulo',
+                french: 'tombe'
+            },
+            1058: {
+                english: 'merchant',
+                spanish: 'mercader',
+                italian: 'mercante',
+                portuguese: 'mercador',
+                french: 'marchand'
+            },
+            1059: {
+                english: 'numerous',
+                spanish: 'numerosos',
+                italian: 'numerosi',
+                portuguese: 'numerosos',
+                french: 'nombreux'
+            },
+            1060: {
+                english: 'mute',
+                spanish: 'mudo',
+                italian: 'muto',
+                portuguese: 'mudo',
+                french: 'muet'
             }
         }
     }
