@@ -7479,6 +7479,41 @@
                 italian: 'muto',
                 portuguese: 'mudo',
                 french: 'muet'
+            },
+            1061: {
+                english: 'sign',
+                spanish: 'firmar',
+                italian: 'firmare',
+                portuguese: 'assinar',
+                french: 'signer'
+            },
+            1062: {
+                english: 'absolutely',
+                spanish: 'absolutamente',
+                italian: 'assolutamente',
+                portuguese: 'absolutamente',
+                french: 'absolument'
+            },
+            1063: {
+                english: 'circle',
+                spanish: 'círculo',
+                italian: 'cerchio',
+                portuguese: 'círculo',
+                french: 'cercle'
+            },
+            1064: {
+                english: 'interrogate',
+                spanish: 'interrogar',
+                italian: 'interrogare',
+                portuguese: 'interrogar',
+                french: 'interroger'
+            },
+            1065: {
+                english: 'dominate',
+                spanish: 'dominar',
+                italian: 'dominare',
+                portuguese: 'dominar',
+                french: 'dominer'
             }
         }
     }
