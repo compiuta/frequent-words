@@ -7514,6 +7514,41 @@
                 italian: 'dominare',
                 portuguese: 'dominar',
                 french: 'dominer'
+            },
+            1066: {
+                english: 'defect',
+                spanish: 'defecto',
+                italian: 'difetto',
+                portuguese: 'defeito',
+                french: 'défaut'
+            },
+            1067: {
+                english: 'childhood',
+                spanish: 'infancia',
+                italian: 'infanzia',
+                portuguese: 'infância',
+                french: 'enfance'
+            },
+            1068: {
+                english: 'favor',
+                spanish: 'favor',
+                italian: 'favor',
+                portuguese: 'favor',
+                french: 'faveur'
+            },
+            1069: {
+                english: 'real',
+                spanish: 'real',
+                italian: 'real',
+                portuguese: 'real',
+                french: 'réel'
+            },
+            1070: {
+                english: 'command',
+                spanish: 'comandar',
+                italian: 'comandare',
+                portuguese: 'comandar',
+                french: 'commander'
             }
         }
     }
