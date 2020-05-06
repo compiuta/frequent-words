@@ -7549,6 +7549,41 @@
                 italian: 'comandare',
                 portuguese: 'comandar',
                 french: 'commander'
+            },
+            1071: {
+                english: 'suppose',
+                spanish: 'suponer',
+                italian: 'suporre',
+                portuguese: 'supor',
+                french: 'supposer'
+            },
+            1072: {
+                english: 'surpass',
+                spanish: 'sobrepasar',
+                italian: 'sopravanzare',
+                portuguese: 'ultrapassar',
+                french: 'dépasser'
+            },
+            1073: {
+                english: 'deaf',
+                spanish: 'sordo',
+                italian: 'sordo',
+                portuguese: 'surdo',
+                french: 'sourd'
+            },
+            1074: {
+                english: 'cruel',
+                spanish: 'cruel',
+                italian: 'crudele',
+                portuguese: 'cruel',
+                french: 'cruel'
+            },
+            1075: {
+                english: 'sunday',
+                spanish: 'domingo',
+                italian: 'domenica',
+                portuguese: 'domingo',
+                french: 'dimanche'
             }
         }
     }
