@@ -7584,6 +7584,41 @@
                 italian: 'domenica',
                 portuguese: 'domingo',
                 french: 'dimanche'
+            },
+            1076: {
+                english: 'error',
+                spanish: 'error',
+                italian: 'errore',
+                portuguese: 'erro',
+                french: 'erreur'
+            },
+            1077: {
+                english: 'brain',
+                spanish: 'cerebro',
+                italian: 'cervello',
+                portuguese: 'cérebro',
+                french: 'cerveau'
+            },
+            1078: {
+                english: 'accuse',
+                spanish: 'acusar',
+                italian: 'accusare',
+                portuguese: 'acusar',
+                french: 'accuser'
+            },
+            1079: {
+                english: 'flight',
+                spanish: 'vuelo',
+                italian: 'volo',
+                portuguese: 'voo',
+                french: 'vol'
+            },
+            1080: {
+                english: 'dress',
+                spanish: 'vestir',
+                italian: 'vestire',
+                portuguese: 'vestir',
+                french: 'habiller'
             }
         }
     }
