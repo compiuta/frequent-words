@@ -1198,7 +1198,7 @@
                 spanish: 'durante',
                 italian: 'durante',
                 portuguese: 'durante',
-                french: 'pendant/durant'
+                french: 'pendant/durant/lors'
             },
             169: {
                 english: 'already',
@@ -7619,6 +7619,41 @@
                 italian: 'vestire',
                 portuguese: 'vestir',
                 french: 'habiller'
+            },
+            1081: {
+                english: 'condemn',
+                spanish: 'condenar',
+                italian: 'condannare',
+                portuguese: 'condenar',
+                french: 'condamner'
+            },
+            1082: {
+                english: 'threaten',
+                spanish: 'amenazar',
+                italian: 'minacciare',
+                portuguese: 'ameaçar',
+                french: 'menacer'
+            },
+            1083: {
+                english: 'threshold',
+                spanish: 'umbral',
+                italian: 'soglia',
+                portuguese: 'limiar',
+                french: 'seuil'
+            },
+            1084: {
+                english: 'crush',
+                spanish: 'aplastar',
+                italian: 'schiacciare',
+                portuguese: 'esmagar',
+                french: 'écraser'
+            },
+            1085: {
+                english: 'loss',
+                spanish: 'pérdida',
+                italian: 'perdita',
+                portuguese: 'perda',
+                french: 'perte'
             }
         }
     }
