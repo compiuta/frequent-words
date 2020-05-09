@@ -4275,8 +4275,8 @@
                 french: 'naturel'
             },
             603: {
-                english: 'chance',
-                spanish: 'azar',
+                english: 'random',
+                spanish: 'casualidad',
                 italian: 'casualità',
                 portuguese: 'acaso',
                 french: 'hasard'
@@ -7654,6 +7654,41 @@
                 italian: 'perdita',
                 portuguese: 'perda',
                 french: 'perte'
+            },
+            1086: {
+                english: 'third',
+                spanish: 'tercero',
+                italian: 'terzo',
+                portuguese: 'terceiro',
+                french: 'troisième'
+            },
+            1087: {
+                english: 'chance',
+                spanish: 'probabilidad',
+                italian: 'possibilità',
+                portuguese: 'probabilidade',
+                french: 'chance'
+            },
+            1088: {
+                english: 'cede',
+                spanish: 'ceder',
+                italian: 'consentire',
+                portuguese: 'ceder',
+                french: 'céder'
+            },
+            1089: {
+                english: 'sweetness',
+                spanish: 'dulzura',
+                italian: 'dolcezza',
+                portuguese: 'doçura',
+                french: 'douceur'
+            },
+            1090: {
+                english: 'otherwise',
+                spanish: 'si no',
+                italian: 'altrimente',
+                portuguese: 'se não',
+                french: 'autrement'
             }
         }
     }
