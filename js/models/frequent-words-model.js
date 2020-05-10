@@ -7689,6 +7689,41 @@
                 italian: 'altrimente',
                 portuguese: 'se não',
                 french: 'autrement'
+            },
+            1091: {
+                english: 'funny',
+                spanish: 'chistoso',
+                italian: 'buffo',
+                portuguese: 'engraçado',
+                french: 'drôle'
+            },
+            1092: {
+                english: 'ruin',
+                spanish: 'ruina',
+                italian: 'rovina',
+                portuguese: 'ruína',
+                french: 'ruine'
+            },
+            1093: {
+                english: 'discard',
+                spanish: 'descartar',
+                italian: 'scartare',
+                portuguese: 'descartar',
+                french: 'écarter'
+            },
+            1094: {
+                english: 'rank',
+                spanish: 'rango',
+                italian: 'rango',
+                portuguese: 'alcance',
+                french: 'rang'
+            },
+            1095: {
+                english: 'claim',
+                spanish: 'reclamar',
+                italian: 'reclamare',
+                portuguese: 'reclamar',
+                french: 'réclamer'
             }
         }
     }
