@@ -4979,7 +4979,7 @@
                 spanish: 'roca',
                 italian: 'roccia',
                 portuguese: 'rocha',
-                french: 'rocher'
+                french: 'rocher/roche'
             },
             704: {
                 english: 'propose',
@@ -7724,6 +7724,41 @@
                 italian: 'reclamare',
                 portuguese: 'reclamar',
                 french: 'réclamer'
+            },
+            1096: {
+                english: 'figure',
+                spanish: 'cifra',
+                italian: 'cifra',
+                portuguese: 'cifra',
+                french: 'chiffre'
+            },
+            1097: {
+                english: 'military',
+                spanish: 'militar',
+                italian: 'militare',
+                portuguese: 'militar',
+                french: 'militaire'
+            },
+            1098: {
+                english: 'distance',
+                spanish: 'distancia',
+                italian: 'distanza',
+                portuguese: 'distância',
+                french: 'distance'
+            },
+            1099: {
+                english: 'draw',
+                spanish: 'dibujar',
+                italian: 'disegnare',
+                portuguese: 'desenhar',
+                french: 'dessiner'
+            },
+            1100: {
+                english: 'conclude',
+                spanish: 'concluir',
+                italian: 'concludere',
+                portuguese: 'concluir',
+                french: 'conclure'
             }
         }
     }
