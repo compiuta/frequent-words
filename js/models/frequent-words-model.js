@@ -7759,6 +7759,41 @@
                 italian: 'concludere',
                 portuguese: 'concluir',
                 french: 'conclure'
+            },
+            1101: {
+                english: 'link',
+                spanish: 'ligar',
+                italian: 'legare',
+                portuguese: 'ligar',
+                french: 'lier'
+            },
+            1102: {
+                english: 'discussion',
+                spanish: 'discusión',
+                italian: 'discussione',
+                portuguese: 'discussão',
+                french: 'discussion'
+            },
+            1103: {
+                english: 'bank',
+                spanish: 'banco',
+                italian: 'banco',
+                portuguese: 'banco',
+                french: 'banc'
+            },
+            1104: {
+                english: 'terror',
+                spanish: 'terror',
+                italian: 'terrore',
+                portuguese: 'terror',
+                french: 'terreur'
+            },
+            1105: {
+                english: 'attack',
+                spanish: 'atacar',
+                italian: 'attaccare',
+                portuguese: 'atacar',
+                french: 'attaquer'
             }
         }
     }
