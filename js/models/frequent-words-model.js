@@ -7829,6 +7829,41 @@
                 italian: 'gatto',
                 portuguese: 'gato',
                 french: 'chat'
+            },
+            1111: {
+                english: 'hang',
+                spanish: 'colgar',
+                italian: 'impiccare',
+                portuguese: 'enforcar',
+                french: 'pendre'
+            },
+            1112: {
+                english: 'support',
+                spanish: 'soportar',
+                italian: 'sopportare',
+                portuguese: 'suportar',
+                french: 'supporter'
+            },
+            1113: {
+                english: 'storm',
+                spanish: 'tormenta',
+                italian: 'tempesta',
+                portuguese: 'tempestade',
+                french: 'tempête'
+            },
+            1114: {
+                english: 'perfectly',
+                spanish: 'perfectamente',
+                italian: 'perfettamente',
+                portuguese: 'perfeitamente',
+                french: 'parfaitement'
+            },
+            1115: {
+                english: 'landscape',
+                spanish: 'paisaje',
+                italian: 'paesaggio',
+                portuguese: 'paisagem',
+                french: 'paysage'
             }
         }
     }
