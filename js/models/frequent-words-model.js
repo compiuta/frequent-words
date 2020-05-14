@@ -7794,6 +7794,41 @@
                 italian: 'attaccare',
                 portuguese: 'atacar',
                 french: 'attaquer'
+            },
+            1106: {
+                english: 'respect',
+                spanish: 'respetar',
+                italian: 'rispettare',
+                portuguese: 'respeitar',
+                french: 'respecter'
+            },
+            1107: {
+                english: 'silent',
+                spanish: 'silencioso',
+                italian: 'silenzioso',
+                portuguese: 'silencioso',
+                french: 'silencieux'
+            },
+            1108: {
+                english: 'race',
+                spanish: 'carrera',
+                italian: 'corsa',
+                portuguese: 'corrida',
+                french: 'course'
+            },
+            1109: {
+                english: 'porter',
+                spanish: 'portier',
+                italian: 'portiere',
+                portuguese: 'porteiro',
+                french: 'portier'
+            },
+            1110: {
+                english: 'cat',
+                spanish: 'gato',
+                italian: 'gatto',
+                portuguese: 'gato',
+                french: 'chat'
             }
         }
     }
