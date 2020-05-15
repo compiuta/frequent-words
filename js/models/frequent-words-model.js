@@ -7831,9 +7831,9 @@
                 french: 'chat'
             },
             1111: {
-                english: 'hang',
-                spanish: 'colgar',
-                italian: 'impiccare',
+                english: 'hanging',
+                spanish: 'colgando',
+                italian: 'pendere',
                 portuguese: 'enforcar',
                 french: 'pendre'
             },
@@ -7864,6 +7864,41 @@
                 italian: 'paesaggio',
                 portuguese: 'paisagem',
                 french: 'paysage'
+            },
+            1116: {
+                english: 'quarter',
+                spanish: 'cuarto',
+                italian: 'quarto',
+                portuguese: 'quarto',
+                french: 'quart'
+            },
+            1117: {
+                english: 'there is',
+                spanish: 'figurar',
+                italian: 'figurare',
+                portuguese: 'figurar',
+                french: 'figurer'
+            },
+            1118: {
+                english: 'take advantage',
+                spanish: 'aprovechar',
+                italian: 'approfittare',
+                portuguese: 'aproveitar',
+                french: 'profiter'
+            },
+            1119: {
+                english: 'hang',
+                spanish: 'colgar',
+                italian: 'appendere',
+                portuguese: 'pendurar',
+                french: 'accrocher'
+            },
+            1120: {
+                english: 'calm',
+                spanish: 'calmarse',
+                italian: 'calmare',
+                portuguese: 'acalmar',
+                french: 'calmer'
             }
         }
     }
