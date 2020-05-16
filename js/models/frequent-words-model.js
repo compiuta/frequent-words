@@ -7899,6 +7899,41 @@
                 italian: 'calmare',
                 portuguese: 'acalmar',
                 french: 'calmer'
+            },
+            1121: {
+                english: 'satisfy',
+                spanish: 'satisfacer',
+                italian: 'soddisfare',
+                portuguese: 'satisfazer',
+                french: 'satisfaire'
+            },
+            1122: {
+                english: 'race',
+                spanish: 'raza',
+                italian: 'razza',
+                portuguese: 'raça',
+                french: 'race'
+            },
+            1123: {
+                english: 'worth',
+                spanish: 'valer',
+                italian: 'valere',
+                portuguese: 'valer',
+                french: 'valoir'
+            },
+            1124: {
+                english: 'beard',
+                spanish: 'barba',
+                italian: 'barba',
+                portuguese: 'barba',
+                french: 'barbe'
+            },
+            1125: {
+                english: 'signify',
+                spanish: 'significar',
+                italian: 'significare',
+                portuguese: 'significar',
+                french: 'signifier'
             }
         }
     }
