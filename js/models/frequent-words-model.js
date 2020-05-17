@@ -7934,6 +7934,41 @@
                 italian: 'significare',
                 portuguese: 'significar',
                 french: 'signifier'
+            },
+            1126: {
+                english: 'layer',
+                spanish: 'capa',
+                italian: 'strato',
+                portuguese: 'camada',
+                french: 'couche'
+            },
+            1127: {
+                english: 'worry',
+                spanish: 'inquietar',
+                italian: 'inquietare',
+                portuguese: 'inquietar',
+                french: 'inquiéter'
+            },
+            1128: {
+                english: 'settler',
+                spanish: 'colono',
+                italian: 'colono',
+                portuguese: 'colono',
+                french: 'colon'
+            },
+            1129: {
+                english: 'from now on',
+                spanish: 'en adelante',
+                italian: 'ormai',
+                portuguese: 'doravante',
+                french: 'désormais'
+            },
+            1130: {
+                english: 'faithful',
+                spanish: 'fiel',
+                italian: 'fedele',
+                portuguese: 'fiel',
+                french: 'fidèle'
             }
         }
     }
