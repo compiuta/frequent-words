@@ -5455,7 +5455,7 @@
                 spanish: 'arrancar',
                 italian: 'strappare',
                 portuguese: 'arrancar',
-                french: 'arracher'
+                french: 'arracher/déchirer'
             },
             772: {
                 english: 'train',
@@ -7969,6 +7969,41 @@
                 italian: 'fedele',
                 portuguese: 'fiel',
                 french: 'fidèle'
+            },
+            1131: {
+                english: 'assist',
+                spanish: 'assistir',
+                italian: 'assistere',
+                portuguese: 'assistir',
+                french: 'assister'
+            },
+            1132: {
+                english: 'curtain',
+                spanish: 'cortina',
+                italian: 'cortina',
+                portuguese: 'cortina',
+                french: 'rideau'
+            },
+            1133: {
+                english: 'invite',
+                spanish: 'invitar',
+                italian: 'invitare',
+                portuguese: 'convidar',
+                french: 'inviter'
+            },
+            1134: {
+                english: 'tear',
+                spanish: 'arrancar',
+                italian: 'strappare',
+                portuguese: 'rasgar',
+                french: 'déchirer'
+            },
+            1135: {
+                english: 'fatigue',
+                spanish: 'fatiga',
+                italian: 'fatica',
+                portuguese: 'fadia',
+                french: 'fatigue'
             }
         }
     }
