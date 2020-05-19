@@ -3603,9 +3603,9 @@
             },
             507: {
                 english: 'refuse',
-                spanish: 'rechazar',
+                spanish: 'negarse',
                 italian: 'rifiutare',
-                portuguese: 'rejeitar',
+                portuguese: 'refutar',
                 french: 'refuser'
             },
             508: {
@@ -8004,6 +8004,41 @@
                 italian: 'fatica',
                 portuguese: 'fadia',
                 french: 'fatigue'
+            },
+            1136: {
+                english: 'risk',
+                spanish: 'arriesgar',
+                italian: 'rischiara',
+                portuguese: 'arriscar',
+                french: 'risquer'
+            },
+            1137: {
+                english: 'rule',
+                spanish: 'regla',
+                italian: 'regole',
+                portuguese: 'regra',
+                french: 'règle'
+            },
+            1138: {
+                english: 'rerun',
+                spanish: 'recorrer',
+                italian: 'percorrere',
+                portuguese: 'percorrer',
+                french: 'parcourir'
+            },
+            1139: {
+                english: 'present',
+                spanish: 'presente',
+                italian: 'presente',
+                portuguese: 'presente',
+                french: 'présent'
+            },
+            1140: {
+                english: 'reject',
+                spanish: 'rechazar',
+                italian: 'bocciare',
+                portuguese: 'rejeitar',
+                french: 'rejeter'
             }
         }
     }
