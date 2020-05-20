@@ -8039,6 +8039,41 @@
                 italian: 'bocciare',
                 portuguese: 'rejeitar',
                 french: 'rejeter'
+            },
+            1141: {
+                english: 'birth',
+                spanish: 'nacimiento',
+                italian: 'nascita',
+                portuguese: 'nascimento',
+                french: 'naissance'
+            },
+            1142: {
+                english: 'wolf',
+                spanish: 'lobo',
+                italian: 'lupo',
+                portuguese: 'lobo',
+                french: 'loup'
+            },
+            1143: {
+                english: 'renounce',
+                spanish: 'renunciar',
+                italian: 'renunciare',
+                portuguese: 'renunciar',
+                french: 'renoncer'
+            },
+            1144: {
+                english: 'completely',
+                spanish: 'completamente',
+                italian: 'completamente',
+                portuguese: 'completamente',
+                french: 'complètement'
+            },
+            1145: {
+                english: 'extraordinary',
+                spanish: 'extraordinario',
+                italian: 'straordinario',
+                portuguese: 'extraordinário',
+                french: 'extraordinaire'
             }
         }
     }
