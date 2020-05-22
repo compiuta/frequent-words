@@ -8074,6 +8074,27 @@
                 italian: 'straordinario',
                 portuguese: 'extraordinário',
                 french: 'extraordinaire'
+            },
+            1146: {
+                english: 'watchful',
+                spanish: 'velar',
+                italian: 'vigliare',
+                portuguese: 'velar',
+                french: 'veiller'
+            },
+            1147: {
+                english: 'transform',
+                spanish: 'transformar',
+                italian: 'trasfomare',
+                portuguese: 'converter',
+                french: 'transformer'
+            },
+            1148: {
+                english: 'trace',
+                spanish: 'caida',
+                italian: 'caduta',
+                portuguese: 'queda',
+                french: 'chute'
             }
         }
     }
