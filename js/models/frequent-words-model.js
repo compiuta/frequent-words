@@ -8095,6 +8095,20 @@
                 italian: 'caduta',
                 portuguese: 'queda',
                 french: 'chute'
+            },
+            1149: {
+                english: 'diverse',
+                spanish: 'diverso',
+                italian: 'diverso',
+                portuguese: 'diverso',
+                french: 'divers'
+            },
+            1150: {
+                english: 'resistance',
+                spanish: 'resistencia',
+                italian: 'resistenza',
+                portuguese: 'resistência',
+                french: 'résistance'
             }
         }
     }
