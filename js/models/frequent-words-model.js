@@ -8109,6 +8109,41 @@
                 italian: 'resistenza',
                 portuguese: 'resistência',
                 french: 'résistance'
+            },
+            1151: {
+                english: 'please',
+                spanish: 'contentar',
+                italian: 'accontentare',
+                portuguese: 'contentar',
+                french: 'contenter'
+            },
+            1152: {
+                english: 'shirt',
+                spanish: 'camisa',
+                italian: 'camicia',
+                portuguese: 'camisa',
+                french: 'chemise'
+            },
+            1153: {
+                english: 'thin',
+                spanish: 'fino',
+                italian: 'sottile',
+                portuguese: 'fino',
+                french: 'mince'
+            },
+            1154: {
+                english: 'naturally',
+                spanish: 'naturalmente',
+                italian: 'naturalmente',
+                portuguese: 'naturalmente',
+                french: 'naturellement'
+            },
+            1155: {
+                english: 'seat',
+                spanish: 'sede',
+                italian: 'sede',
+                portuguese: 'sede',
+                french: 'siège'
             }
         }
     }
