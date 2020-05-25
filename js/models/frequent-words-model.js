@@ -8165,6 +8165,20 @@
                 italian: 'primavera',
                 portuguese: 'primavera',
                 french: 'printemps'
+            },
+            1159: {
+                english: 'anguish',
+                spanish: 'angustia',
+                italian: 'angoscia',
+                portuguese: 'angústia',
+                french: 'angoisse'
+            },
+            1160: {
+                english: 'precipitate',
+                spanish: 'precipitar',
+                italian: 'precipitare',
+                portuguese: 'precipitar',
+                french: 'précipiter'
             }
         }
     }
