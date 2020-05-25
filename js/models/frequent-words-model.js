@@ -8144,6 +8144,27 @@
                 italian: 'sede',
                 portuguese: 'sede',
                 french: 'siège'
+            },
+            1156: {
+                english: 'boss',
+                spanish: 'patrón',
+                italian: 'patrono',
+                portuguese: 'patrão',
+                french: 'patron'
+            },
+            1157: {
+                english: 'deserve',
+                spanish: 'merecer',
+                italian: 'meritare',
+                portuguese: 'merecer',
+                french: 'mériter'
+            },
+            1158: {
+                english: 'spring',
+                spanish: 'primavera',
+                italian: 'primavera',
+                portuguese: 'primavera',
+                french: 'printemps'
             }
         }
     }
