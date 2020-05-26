@@ -8179,6 +8179,41 @@
                 italian: 'precipitare',
                 portuguese: 'precipitar',
                 french: 'précipiter'
+            },
+            1161: {
+                english: 'break',
+                spanish: 'romper',
+                italian: 'rompere',
+                portuguese: 'romper',
+                french: 'rompre'
+            },
+            1162: {
+                english: 'inhabitant',
+                spanish: 'habitante',
+                italian: 'abitante',
+                portuguese: 'habitante',
+                french: 'habitant'
+            },
+            1163: {
+                english: 'caress',
+                spanish: 'acarisiar',
+                italian: 'accarezzare',
+                portuguese: 'acariciar',
+                french: 'caresser'
+            },
+            1164: {
+                english: 'job',
+                spanish: 'oficio',
+                italian: 'mestiere',
+                portuguese: 'ofício',
+                french: 'métier'
+            },
+            1165: {
+                english: 'suffocate',
+                spanish: 'sofocar',
+                italian: 'soffocare',
+                portuguese: 'sofocar',
+                french: 'étouffer'
             }
         }
     }
