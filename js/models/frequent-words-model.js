@@ -5144,10 +5144,10 @@
             },
             727: {
                 english: 'break',
-                spanish: 'romper',
-                italian: 'rompere',
-                portuguese: 'romper',
-                french: 'briser'
+                spanish: 'quebrar',
+                italian: 'spezzare',
+                portuguese: 'quebrar',
+                french: 'briser/casser'
             },
             728: {
                 english: 'subject',
@@ -8125,11 +8125,11 @@
                 french: 'chemise'
             },
             1153: {
-                english: 'thin',
+                english: 'thin/fine',
                 spanish: 'fino',
                 italian: 'sottile',
                 portuguese: 'fino',
-                french: 'mince'
+                french: 'mince/fine'
             },
             1154: {
                 english: 'naturally',
@@ -8214,6 +8214,41 @@
                 italian: 'soffocare',
                 portuguese: 'sofocar',
                 french: 'étouffer'
+            },
+            1166: {
+                english: 'animate',
+                spanish: 'animar',
+                italian: 'animare',
+                portuguese: 'animar',
+                french: 'animer'
+            },
+            1167: {
+                english: 'note',
+                spanish: 'nota',
+                italian: 'nota',
+                portuguese: 'nota',
+                french: 'note'
+            },
+            1168: {
+                english: 'past',
+                spanish: 'pasado',
+                italian: 'passato',
+                portuguese: 'passado',
+                french: 'passé'
+            },
+            1169: {
+                english: 'rifle',
+                spanish: 'rifle',
+                italian: 'fucile',
+                portuguese: 'rifle',
+                french: 'fusil'
+            },
+            1170: {
+                english: 'round',
+                spanish: 'redondo',
+                italian: 'tondo',
+                portuguese: 'redondo',
+                french: 'rond'
             }
         }
     }
