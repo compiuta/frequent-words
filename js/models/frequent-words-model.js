@@ -8249,6 +8249,41 @@
                 italian: 'tondo',
                 portuguese: 'redondo',
                 french: 'rond'
+            },
+            1171: {
+                english: 'agent',
+                spanish: 'agente',
+                italian: 'agente',
+                portuguese: 'agente',
+                french: 'agent'
+            },
+            1172: {
+                english: 'to found',
+                spanish: 'fundar',
+                italian: 'fondare',
+                portuguese: 'fundar',
+                french: 'fonder'
+            },
+            1173: {
+                english: 'cross',
+                spanish: 'cruzar',
+                italian: 'crossare',
+                portuguese: 'cruzar',
+                french: 'franchir'
+            },
+            1174: {
+                english: 'plant',
+                spanish: 'planta',
+                italian: 'pianta',
+                portuguese: 'planta',
+                french: 'plante'
+            },
+            1175: {
+                english: 'to make fall',
+                spanish: 'abatir',
+                italian: 'abbattere',
+                portuguese: 'abater',
+                french: 'abattre'
             }
         }
     }
