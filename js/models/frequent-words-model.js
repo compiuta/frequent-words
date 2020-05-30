@@ -8284,6 +8284,41 @@
                 italian: 'abbattere',
                 portuguese: 'abater',
                 french: 'abattre'
+            },
+            1176: {
+                english: 'discuss',
+                spanish: 'discutir',
+                italian: 'discutere',
+                portuguese: 'discutir',
+                french: 'discuter'
+            },
+            1177: {
+                english: 'humid',
+                spanish: 'húmedo',
+                italian: 'umido',
+                portuguese: 'húmido',
+                french: 'humide'
+            },
+            1178: {
+                english: 'reflection',
+                spanish: 'reflexión',
+                italian: 'riflessione',
+                portuguese: 'reflexão',
+                french: 'réflexion'
+            },
+            1179: {
+                english: 'consent',
+                spanish: 'consentir',
+                italian: 'consentire',
+                portuguese: 'consentir',
+                french: 'consentir'
+            },
+            1180: {
+                english: 'accent',
+                spanish: 'acento',
+                italian: 'accento',
+                portuguese: 'sotaque',
+                french: 'accent'
             }
         }
     }
