@@ -6466,10 +6466,10 @@
                 french: 'poche'
             },
             916: {
-                english: 'join',
-                spanish: 'unirse',
-                italian: 'unirsi',
-                portuguese: 'juntar',
+                english: 'rejoin',
+                spanish: 'reunirse',
+                italian: 'riunirsi',
+                portuguese: 'reunir',
                 french: 'rejoindre'
             },
             917: {
@@ -8319,6 +8319,41 @@
                 italian: 'accento',
                 portuguese: 'sotaque',
                 french: 'accent'
+            },
+            1181 {
+                english: 'curious',
+                spanish: 'curioso',
+                italian: 'curioso',
+                portuguese: 'curioso',
+                french: 'curieux'
+            },
+            1182: {
+                english: 'meal',
+                spanish: 'comida',
+                italian: 'pasto',
+                portuguese: 'refeição',
+                french: 'repas'
+            },
+            1183: {
+                english: 'extend',
+                spanish: 'extensión',
+                italian: 'estensione',
+                portuguese: 'extensão',
+                french: 'étendue'
+            },
+            1184: {
+                english: 'regret',
+                spanish: 'arrepentir',
+                italian: 'rimpiangere',
+                portuguese: 'arrepender',
+                french: 'regretter'
+            },
+            1185: {
+                english: 'join',
+                spanish: 'unirse',
+                italian: 'unirsi',
+                portuguese: 'juntar',
+                french: 'joindre'
             }
         }
     }
