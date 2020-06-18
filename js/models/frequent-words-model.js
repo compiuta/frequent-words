@@ -8320,7 +8320,7 @@
                 portuguese: 'sotaque',
                 french: 'accent'
             },
-            1181 {
+            1181: {
                 english: 'curious',
                 spanish: 'curioso',
                 italian: 'curioso',
