@@ -8354,6 +8354,20 @@
                 italian: 'unirsi',
                 portuguese: 'juntar',
                 french: 'joindre'
+            },
+            1186: {
+                english: 'help',
+                spanish: 'socorro',
+                italian: 'soccorso',
+                portuguese: 'socorro',
+                french: 'secours'
+            },
+            1187: {
+                english: 'beginning',
+                spanish: 'comienzo',
+                italian: 'inizio',
+                portuguese: 'começo',
+                french: 'commencement'
             }
         }
     }
