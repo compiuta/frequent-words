@@ -8368,6 +8368,27 @@
                 italian: 'inizio',
                 portuguese: 'começo',
                 french: 'commencement'
+            },
+            1188: {
+                english: 'rope',
+                spanish: 'cuerda',
+                italian: 'corda',
+                portuguese: 'corda',
+                french: 'corde'
+            },
+            1189: {
+                english: 'secretary',
+                spanish: 'secretaria',
+                italian: 'segretaria',
+                portuguese: 'secretária',
+                french: 'secrétaire'
+            },
+            1190: {
+                english: 'defeat',
+                spanish: 'vencer',
+                italian: 'vincere',
+                portuguese: 'vencer',
+                french: 'vaincre'
             }
         }
     }
